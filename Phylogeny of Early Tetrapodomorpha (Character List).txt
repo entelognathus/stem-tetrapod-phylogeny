@@ -83,9 +83,15 @@
 <ordered; D24 (in part), S103 (in part), Z20
 
 21. Pineal foramen: present (0); absent (1)
-<
+
+<D27, S115, Z21
+
 22. Shape of pineal series: round or oval (0); kite shaped with distinct posterior corner (1)
-<
+
+<D30, S117, Z22
+
+<Cloutier et al. (2020): The taxa having a pineal opening (char. 21) but not plates are coded as "-".
+
 23. Location of pineal foramen/eminence: level with, or anterior to posterior margin of orbits (0); posterior to orbits (1)
 <
 24. Parietals surround pineal foramen/eminence: yes (0); no (1)
