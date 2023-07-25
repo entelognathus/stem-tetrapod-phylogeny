@@ -1,7 +1,7 @@
 1 Position of orbits: lateral and widely separated (0); dorsal and close
 together (1)
 
-2 Proportion of skull roof lying anterior to middle of orbits: <50% (0); ¨R50% (1)
+2 Proportion of skull roof lying anterior to middle of orbits: <50% (0); Â¨R50% (1)
 
 3 Facial lamina of premaxilla: vertical, indicating deep snout (0); curved
 posteriorly, indicating flattened snout (1)
@@ -41,7 +41,7 @@ tectal of Jarvik) and posterior (or posteriormost) supraorbital (postfrontal): s
 19 Paired frontal bones meeting in midline, anterior to parietals: absent (0); present (1)
 
 20 Width of ethmoid relative to length from snout tip to posterior margin of
-parietals: more than 80% (0); 70 ¨C 79% (1); 50 ¨C 69% (2); less than 50% (3)
+parietals: more than 80% (0); 70 Â¨C 79% (1); 50 Â¨C 69% (2); less than 50% (3)
 
 21 Pineal foramen: present (0); absent (1)
 
@@ -180,7 +180,7 @@ converging anteriorly (1)
 82 Large ventromesially directed flange of symphysial region of mandible:
 absent (0); present (1)
 
-83 Dermal ornament on each infradentary: even (0); separate ¡°starburst¡± on
+83 Dermal ornament on each infradentary: even (0); separate Â¡Â°starburstÂ¡Â± on
 each bone (1)
 
 84 Infradentary foramina: always present (0); variable (1); always absent (2)
@@ -236,7 +236,7 @@ anterior end (1)
 109 Position of distal exit of hyomandibular canal or sulcus on anterolateral face of
 hyomandibula: at a level of mid-shaft or obvious curvature (0); within proximal portion (1)
 
-110 ¡®Urohyal¡¯ morphology: dorsoventrally compressed and rod-like, may
+110 Â¡Â®UrohyalÂ¡Â¯ morphology: dorsoventrally compressed and rod-like, may
 bifurcate posteriorly (0); vertical plate (1)
 
 111 Shape of anterior basibranchial: rounded (0); rectangular, significantly longer than wide (1)
