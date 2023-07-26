@@ -64,7 +64,7 @@
 
 16. Intertemporal: present (0); absent (1)
 
-> Daeschler *et al*. (2006), Character 74, Swartz (2012), Character 118, Zhu *et al*. (2017), Character 16; Cloutier *et al*. (2020), Character 16, C6, Chen *et al*. (2018), Character 5
+> Daeschler *et al*. (2006), Character 74, Swartz (2012), Character 118, Zhu *et al*. (2017), Character 16; Clack *et al*. (2012), Character 6; Chen *et al*. (2018), Character 5; Cloutier *et al*. (2020), Character 16 
 
 17. Contact between posterior supraorbital and intertemporal: present (0); absent (1)
 
