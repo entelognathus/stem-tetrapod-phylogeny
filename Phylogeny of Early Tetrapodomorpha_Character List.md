@@ -200,8 +200,7 @@
 
 > Zhu *et al*. (2017), Character 48; Cloutier *et al*. (2020), Character 48
 
-> Cloutier et al. (2020):  Zhu et al. (2017) defined the optical process as an outgrowth from the lateral wall of the braincase penetrated by the branches of the r. oticus 
-lateralis.
+> Cloutier et al. (2020):  Zhu et al. (2017) defined the optical process as an outgrowth from the lateral wall of the braincase penetrated by the branches of the r. oticus lateralis.
 
 49. Foramina (similar to infradentary foramina) on cheek bones: absent (0); present (1)
 
@@ -213,7 +212,7 @@ lateralis.
 
 51. Jugal extends anterior to middle of orbit: no (0); yes (1)
 
-> Daeschler *et al*. (2006), Character 78; Swartz (2012), Character 95; Zhu *et al*. (2017), Character 51; Cloutier *et al*. (2020), Character 51, C7, Chen *et al*. (2018), Character 6
+> Daeschler *et al*. (2006), Character 78; Swartz (2012), Character 95; Zhu *et al*. (2017), Character 51;  Clack *et al*. (2012), Character 7; Chen *et al*. (2018), Character 6; Cloutier *et al*. (2020), Character 51
 
 52. Relationship of jugal to orbit: contributes to orbital margin (0); excluded from orbital margin (1)
 
@@ -221,7 +220,7 @@ lateralis.
 
 53. Lacrimal excluded from orbit: no (0); yes (1)
 
-> Daeschler *et al*. (2006), Character 79; Swartz (2012), Character 92, Zhu *et al*. (2017), Character 53; Cloutier *et al*. (2020), Character 53, C8, Chen *et al*. (2018), Character 7
+> Daeschler *et al*. (2006), Character 79; Swartz (2012), Character 92, Zhu *et al*. (2017), Character 53; Clack *et al*. (2012), Character 8; Chen *et al*. (2018), Character 7; Cloutier *et al*. (2020), Character 53, 
 
 54. Contact between posterior supraorbital (postfrontal) and lacrimal: absent (0); present (1)
 
@@ -241,7 +240,7 @@ lateralis.
 
 58. Bar-like preopercular: absent (0); present (1)
 
-> Daeschler *et al*. (2006), Character 88 (in part), Swartz (2012), Character 137, Zhu *et al*. (2017), Character 58; Cloutier *et al*. (2020), Character 58, Clack *et al*. (2012), Character 17 (in part), Chen *et al*. (2018), Character 16 (in part)
+> Daeschler *et al*. (2006), Character 88 (in part), Swartz (2012), Character 137, Zhu *et al*. (2017), Character 58; Clack *et al*. (2012), Character 17 (in part), Chen *et al*. (2018), Character 16 (in part); Cloutier *et al*. (2020), Character 58
 
 59. Subsquamosals: absent (0); present (1)
 
