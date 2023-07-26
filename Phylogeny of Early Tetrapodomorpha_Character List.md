@@ -269,7 +269,7 @@ lateralis.
 
 65. Parasphenoid: protruding forward into ethmoid region of endocranium (0); behind ethmoid region (1)
 
-> Zhu *et al*. (2017), Character 65; Cloutier *et al*. (2020), Character 65; Clack *et al*. (2012), Character27 (in part)
+> Zhu *et al*. (2017), Character 65; Cloutier *et al*. (2020), Character 65; Clack *et al*. (2012), Character 27 (in part)
 
 66. Denticulated field of parasphenoid: without spiracular groove (0); with spiracular groove (1)
 
@@ -277,7 +277,7 @@ lateralis.
 
 67. Relationship of vomer to parasphenoid: no contact, or simple abutment (0); dorsal/ventral overlap anteriorly (1); side to side overlap between posterior processes of vomers and lateral sides of parasphenoid (2)
 
-> Daeschler *et al*. (2006), Character 18; Swartz (2012), Character 65 (in part); Zhu *et al*. (2017), Character 67; Cloutier *et al*. (2020), Character 67, C20 (in part), Chen *et al*. (2018), Character 19 (in part)
+> Daeschler *et al*. (2006), Character 18; Swartz (2012), Character 65 (in part); Zhu *et al*. (2017), Character 67;  Clack *et al*. (2012), Character 20 (in part); Chen *et al*. (2018), Character 19 (in part); Cloutier *et al*. (2020), Character 67
 
 68. Shape of parasphenoid: broad, splint-shaped (0); slender, splint-shaped (1)
 
@@ -295,7 +295,7 @@ lateralis.
 
 71. Articulation of pterygoids: pterygoids not articulating with each other (0); pterygoids articulating with each other (1)
 
-> Daeschler *et al*. (2006), Character 14; Swartz (2012), Character 70; Zhu *et al*. (2017), Character 71; Cloutier *et al*. (2020), Character 71; Clack *et al*. (2012), Character18 (in part), Chen *et al*. (2018), Character 17 
+> Daeschler *et al*. (2006), Character 14; Swartz (2012), Character 70; Zhu *et al*. (2017), Character 71; Cloutier *et al*. (2020), Character 71; Clack *et al*. (2012), Character 18 (in part), Chen *et al*. (2018), Character 17 
 
 72. Proportions of entopterygoid: anterior end level with processus ascendens (0); anterior end considerably anterior to processus ascendens (1)
 
@@ -303,7 +303,7 @@ lateralis.
 
 73. Number of fang pairs on ectopterygoid: two (0); one (1); none (2)
 
-> *ordered*; Daeschler *et al*. (2006), Character 12 (morphocline changed); Swartz (2012), Character 80 (in part) (morphocline changed); Zhu *et al*. (2017), Character 73 (morphocline changed); Cloutier *et al*. (2020), Character 73; C30 (in part), Chen *et al*. (2018), Character 29 (in part)
+> *ordered*; Daeschler *et al*. (2006), Character 12 (morphocline changed); Swartz (2012), Character 80 (in part) (morphocline changed); Zhu *et al*. (2017), Character 73 (morphocline changed); Clack *et al*. (2012), Character 30 (in part); Chen *et al*. (2018), Character 29 (in part); Cloutier *et al*. (2020), Character 73
 
 > Cloutier et al. (2020): The original character states provided by Zhu et al. (2017) have been reordered to form a morphocline.
 
@@ -389,7 +389,7 @@ lateralis.
 
 94. Parasymphysial dental plate: long with posterior corner, sutured to anterior coronoid, denticulated or with tooth row (0); short, rounded, not sutured to anterior coronoid, denticulated (1)
 
-> Daeschler *et al*. (2006), Character 1 (in part); Swartz (2012), Character 16 (in part); Zhu *et al*. (2017), Character 94; Cloutier *et al*. (2020), Character 94, Chen *et al*. (2018), Character 76 (in part)
+> Daeschler *et al*. (2006), Character 1 (in part); Swartz (2012), Character 16 (in part); Zhu *et al*. (2017), Character 94; Chen *et al*. (2018), Character 76 (in part); Cloutier *et al*. (2020), Character 94
 
 95. Tooth row on parasymphysial dental plate: absent (0); present (1)
 
@@ -401,7 +401,7 @@ lateralis.
 
 97. Fangs of coronoids (*sensu stricto*): absent (0); present (1)
 
-> Daeschler *et al*. (2006), Character 70 (in part); Swartz (2012), Character 30 (in part), Character 44 (in part); Zhu *et al*. (2017), Character 97; Cloutier *et al*. (2020), Character 97, Chen *et al*. (2018), Character 68
+> Daeschler *et al*. (2006), Character 70 (in part); Swartz (2012), Character 30 (in part), Character 44 (in part); Zhu *et al*. (2017), Character 97;  Chen *et al*. (2018), Character 68; Cloutier *et al*. (2020), Character 97
 
 98. Marginal denticle band on coronoids: broad band, at least posteriorly (0); narrow band with 2-4 denticle rows (1); single tooth row or absent (2)
 
@@ -467,7 +467,7 @@ lateralis.
 
 113. Opercular: present (0); absent (1)
 
-> Daeschler *et al*. (2006), Character 111; Swartz (2012), Character 139; Zhu *et al*. (2017), Character 113; Cloutier *et al*. (2020), Character 113, C14, Chen *et al*. (2018), Character 13
+> Daeschler *et al*. (2006), Character 111; Swartz (2012), Character 139; Zhu *et al*. (2017), Character 113;  Clack *et al*. (2012), Character 14, Chen *et al*. (2018), Character 13; Cloutier *et al*. (2020), Character 113
 
 114. Number of branchiostegal rays per side: more than one (0); one (1)
 
