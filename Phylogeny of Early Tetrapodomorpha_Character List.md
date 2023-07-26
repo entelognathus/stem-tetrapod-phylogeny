@@ -2,6 +2,8 @@
 
 ## Daeschler et al. (2006); Swartz (2012); Clack et al. (2012); Zhu et al. (2017); Chen et al. (2018); Cloutier et al. (2020).
 
+> The dipnomorph taxa *Youngolepis*, *Diabolepis*, *Powichthys*, *Porolepis* and *Glyptolepis* were designated as a monophyletic outgroup. Multistate characters were treated as unordered unless they formed clear morphoclines, in which case they were ordered (characters 7, 10, 20, 34, 42, 63, 73, 78, 84, 98, 100, 107, 130, 139, 162, 198, 199 and 201). All characters are weighted equally.
+
 1. Position of orbits: lateral and widely separated (0); dorsal and close together (1)
 
 > Daeschler *et al*. (2006), Character 45; Swartz (2012), Character 97; Zhu *et al*. (2017), Character 1; Cloutier *et al*. (2020), Character 1
@@ -28,7 +30,7 @@
 
 7. Number of nasals: more than two (0); two (1); one (2)
 
-> Daeschler *et al*. (2006), Character 35, Swartz (2012), Character 83, Zhu *et al*. (2017), Character 7 (in part); Cloutier *et al*. (2020), Character 7
+> *ordered*; Daeschler *et al*. (2006), Character 35, Swartz (2012), Character 83, Zhu *et al*. (2017), Character 7 (in part); Cloutier *et al*. (2020), Character 7
 
 8. Position of anterior nostril: facial (0); edge of mouth (1)
 
@@ -832,7 +834,7 @@
 
 201. Radiale: absent (0); small (approximately one fifth the length of the radius) (1); large (approximately half the length of the radius) (2)
 
-> Cloutier *et al*. (2020), Character 201
+> *ordered*; Cloutier *et al*. (2020), Character 201
 
 202. Tabular horn. A tabular horn is formed by an embayment in the posterior margin of the tabular: absent (0); present (1)
 
