@@ -140,7 +140,7 @@
 
 34. Internasal pits: undifferentiated or anterior palatal fossa (0); shallow paired pits with strong midline ridge (1); deep pear-shaped pits (2)
 
-> ordered; Daeschler *et al*. (2006), Character 19; Swartz (2012), Character 88; Zhu *et al*. (2017), Character 34; Cloutier *et al*. (2020), Character 34
+> *ordered*; Daeschler *et al*. (2006), Character 19; Swartz (2012), Character 88; Zhu *et al*. (2017), Character 34; Cloutier *et al*. (2020), Character 34
 
 35. Tectum orbitale: narrow (0); extensive (1)
 
@@ -241,7 +241,7 @@ lateralis.
 
 58. Bar-like preopercular: absent (0); present (1)
 
-> Daeschler *et al*. (2006), Character 88 (in part), Swartz (2012), Character 137, Zhu *et al*. (2017), Character 58; Cloutier *et al*. (2020), Character 58, C17 (in part), Chen *et al*. (2018), Character 16 (in part)
+> Daeschler *et al*. (2006), Character 88 (in part), Swartz (2012), Character 137, Zhu *et al*. (2017), Character 58; Cloutier *et al*. (2020), Character 58, Clack *et al*. (2012), Character 17 (in part), Chen *et al*. (2018), Character 16 (in part)
 
 59. Subsquamosals: absent (0); present (1)
 
@@ -353,7 +353,7 @@ lateralis.
 
 85. Dentary fang pair: absent (0); present (1)
 
-> Daeschler *et al*. (2006), Character 8; Swartz (2012), Character 26 (in part), Zhu *et al*. (2017), Character 85; Cloutier *et al*. (2020), Character 85
+> Daeschler *et al*. (2006), Character 8; Swartz (2012), Character 26 (in part); Zhu *et al*. (2017), Character 85; Cloutier *et al*. (2020), Character 85
 
 86. Teeth of dentary: reaching anterior end of dentary (0); not reaching anterior end (1)
 
