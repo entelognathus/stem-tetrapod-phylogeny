@@ -253,7 +253,7 @@ lateralis.
 
 61. Vomer proportions: not much broader than long (0); much broader than long (1)
 
-> Daeschler *et al*. (2006), Character 17; Swartz (2012), Character 57; Zhu *et al*. (2017), Character 61; Cloutier *et al*. (2020), Character 61, C22 (in part), Chen *et al*. (2018), Character 21 (in part)
+> Daeschler *et al*. (2006), Character 17; Swartz (2012), Character 57; Zhu *et al*. (2017), Character 61; Cloutier *et al*. (2020), Character 61; Clack *et al*. (2012), Character 22 (in part); Chen *et al*. (2018), Character 21 (in part)
 
 62. Anteromedial process of vomer: absent (0); present (1)
 
@@ -269,7 +269,7 @@ lateralis.
 
 65. Parasphenoid: protruding forward into ethmoid region of endocranium (0); behind ethmoid region (1)
 
-> Zhu *et al*. (2017), Character 65; Cloutier *et al*. (2020), Character 65, C27 (in part)
+> Zhu *et al*. (2017), Character 65; Cloutier *et al*. (2020), Character 65; Clack *et al*. (2012), Character27 (in part)
 
 66. Denticulated field of parasphenoid: without spiracular groove (0); with spiracular groove (1)
 
@@ -295,7 +295,7 @@ lateralis.
 
 71. Articulation of pterygoids: pterygoids not articulating with each other (0); pterygoids articulating with each other (1)
 
-> Daeschler *et al*. (2006), Character 14; Swartz (2012), Character 70; Zhu *et al*. (2017), Character 71; Cloutier *et al*. (2020), Character 71, C18 (in part), Chen *et al*. (2018), Character 17 
+> Daeschler *et al*. (2006), Character 14; Swartz (2012), Character 70; Zhu *et al*. (2017), Character 71; Cloutier *et al*. (2020), Character 71; Clack *et al*. (2012), Character18 (in part), Chen *et al*. (2018), Character 17 
 
 72. Proportions of entopterygoid: anterior end level with processus ascendens (0); anterior end considerably anterior to processus ascendens (1)
 
@@ -397,7 +397,7 @@ lateralis.
 
 96. Mesial parasymphysial foramen: absent (0); present (1)
 
-> Daeschler *et al*. (2006), Character 67; Swartz (2012), Character 21; Zhu *et al*. (2017), Character 96; Cloutier *et al*. (2020), Character 96, Chen *et al*. (2018), Character 57
+> Daeschler *et al*. (2006), Character 67; Swartz (2012), Character 21; Zhu *et al*. (2017), Character 96;  Chen *et al*. (2018), Character 57; Cloutier *et al*. (2020), Character 96
 
 97. Fangs of coronoids (*sensu stricto*): absent (0); present (1)
 
