@@ -4,11 +4,11 @@
 
 1. Position of orbits: lateral and widely separated (0); dorsal and close together (1)
 
-> Daeschler *et al*. (2006), Character 45, Swartz (2012), Character 97, Zhu *et al*. (2017), Character 1; Cloutier *et al*. (2020), Character 1
+> Daeschler *et al*. (2006), Character 45; Swartz (2012), Character 97; Zhu *et al*. (2017), Character 1; Cloutier *et al*. (2020), Character 1
 
 2. Proportion of skull roof lying anterior to middle of orbits: <50% (0); ≧50% (1)
 
-> Daeschler *et al*. (2006), Character 75, Zhu *et al*. (2017), Character 2; Cloutier *et al*. (2020), Character 2
+> Daeschler *et al*. (2006), Character 75; Zhu *et al*. (2017), Character 2; Cloutier *et al*. (2020), Character 2
 
 3. Facial lamina of premaxilla: vertical, indicating deep snout (0); curve posteriorly, indicating flattened snout (1)
 
@@ -24,7 +24,7 @@
 
 6. Postrostral: absent (0); postrostral mosaic of small variable bones (1); large median postrostral, with or without accessory bones (2)
 
-> Daeschler *et al*. (2006), Character 34 (in part), Swartz (2012), Character 86 (in part), Zhu *et al*. (2017), Character 6; Cloutier *et al*. (2020), Character 6
+> Daeschler *et al*. (2006), Character 34 (in part); Swartz (2012), Character 86 (in part); Zhu *et al*. (2017), Character 6; Cloutier *et al*. (2020), Character 6
 
 7. Number of nasals: more than two (0); two (1); one (2)
 
@@ -32,7 +32,7 @@
 
 8. Position of anterior nostril: facial (0); edge of mouth (1)
 
-> Swartz (2012), Character 91, Zhu *et al*. (2017), Character 8; Cloutier *et al*. (2020), Character 8
+> Swartz (2012), Character 91; Zhu *et al*. (2017), Character 8; Cloutier *et al*. (2020), Character 8
 
 9. Dermintermedial process: absent (0); present (1)
 
@@ -40,7 +40,7 @@
 
 10. Position of posterior nostril: external, far from jaw margin (0); external, close to jaw margin (1); palatal (2)
 
-> *ordered*; S89 (in part), Zhu *et al*. (2017), Character 10; Cloutier *et al*. (2020), Character 10
+> *ordered*; Swartz (2012), Character 89 (in part); Zhu *et al*. (2017), Character 10; Cloutier *et al*. (2020), Character 10
 
 11. Number of supraorbitals: one (0); more than one (1)
 
@@ -48,7 +48,7 @@
 
 12. Posterior or posteriormost supraorbital (postfrontal) extends anterior of orbit: yes (0); no (1)
 
-> Daeschler *et al*. (2006), Character 86, Swartz (2012), Character 109, Zhu *et al*. (2017), Character 12; Cloutier *et al*. (2020), Character 12
+> Daeschler *et al*. (2006), Character 86; Swartz (2012), Character 109; Zhu *et al*. (2017), Character 12; Cloutier *et al*. (2020), Character 12
 
 13. Relative size of anterior (or anteriormost) supraorbital (prefrontal, posterior tectal of Jarvik) and posterior (or posteriormost) supraorbital (postfrontal): similar (0); anterior supraorbital much bigger (1)
 
