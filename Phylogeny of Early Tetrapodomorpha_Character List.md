@@ -76,7 +76,7 @@
 
 19. Paired frontal bones meeting in midline, anterior to parietals: absent (0); present (1)
 
-> Daeschler *et al*. (2006), Character 36; Swartz (2012), Character 113; Zhu *et al*. (2017), Character 19; Cloutier *et al*. (2020), Character 19, C5, Chen *et al*. (2018), Character 4
+> Daeschler *et al*. (2006), Character 36; Swartz (2012), Character 113; Zhu *et al*. (2017), Character 19; Cloutier *et al*. (2020), Character 19; Clack *et al*. (2012), Character 5; Chen *et al*. (2018), Character 4
 
 20. Width of ethmoid relative to length from snout tip to posterior margin of parietals: more than 80% (0); 70 - 79% (1); 50 - 69% (2); less than 50% (3)
 
@@ -393,11 +393,11 @@ lateralis.
 
 95. Tooth row on parasymphysial dental plate: absent (0); present (1)
 
-> Swartz (2012), Character 17 (in part); Zhu *et al*. (2017), Character 95; Cloutier *et al*. (2020), Character 95, CH78 (in part)
+> Swartz (2012), Character 17 (in part); Zhu *et al*. (2017), Character 95; Cloutier *et al*. (2020), Character 95, Chen *et al*. (2018), Character 78 (in part)
 
 96. Mesial parasymphysial foramen: absent (0); present (1)
 
-> Daeschler *et al*. (2006), Character 67; Swartz (2012), Character 21; Zhu *et al*. (2017), Character 96; Cloutier *et al*. (2020), Character 96, CH57
+> Daeschler *et al*. (2006), Character 67; Swartz (2012), Character 21; Zhu *et al*. (2017), Character 96; Cloutier *et al*. (2020), Character 96, Chen *et al*. (2018), Character 57
 
 97. Fangs of coronoids (*sensu stricto*): absent (0); present (1)
 
@@ -511,7 +511,7 @@ lateralis.
 
 124. Supracleithrum and posttemporal: present (0); absent (1)
 
-> Swartz (2012), Character 145 (in part); Zhu *et al*. (2017), Character 124; Cloutier *et al*. (2020), Character 124, CH101
+> Swartz (2012), Character 145 (in part); Zhu *et al*. (2017), Character 124; Cloutier *et al*. (2020), Character 124, Chen *et al*. (2018), Character 101
 
 125. Curvature of dermal shoulder girdle: smoothly curving chain from cleithrum to posttemporal, paralleling the posterior margin of the skull (0); tall caudally-inclined cleithrum sloping away from the skull and forming sharp angle with anocleithrumsupracleithrum-posttemporal (if present) (1)
 
