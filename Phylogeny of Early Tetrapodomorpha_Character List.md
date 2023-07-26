@@ -205,11 +205,11 @@ lateralis.
 
 49. Foramina (similar to infradentary foramina) on cheek bones: absent (0); present (1)
 
-> S134, Zhu *et al*. (2017), Character 49; Cloutier *et al*. (2020), Character 49
+> Swartz (2012), Character 134, Zhu *et al*. (2017), Character 49; Cloutier *et al*. (2020), Character 49
 
 50. Postorbital: contributes to orbital margin (0); excluded from orbital margin (1)
 
-> S98, Zhu *et al*. (2017), Character 50; Cloutier *et al*. (2020), Character 50
+> Swartz (2012), Character 98, Zhu *et al*. (2017), Character 50; Cloutier *et al*. (2020), Character 50
 
 51. Jugal extends anterior to middle of orbit: no (0); yes (1)
 
