@@ -14,7 +14,7 @@
 
 1. Position of orbits: lateral and widely separated (0); dorsal and close together (1)
 
-> Daeschler *et al*. (2006), Character 45; Swartz (2012), Character 97; Zhu *et al*. (2017), Character 1; Cloutier *et al*. (2020), Character 1; Clement *et al*. (2021), Character 1
+> Daeschler *et al*. (2006), Character 45; Swartz (2012), Character 97; Zhu *et al*. (2017), Character 1; Cloutier *et al*. (2020), Character 1; Simões and Pierce (2021), Character 1; Clement *et al*. (2021), Character 1
 
 2. Proportion of skull roof lying anterior to middle of orbits: <50% (0); ≧50% (1)
 
@@ -22,7 +22,7 @@
 
 3. Facial lamina of premaxilla: vertical, indicating deep snout (0); curve posteriorly, indicating flattened snout (1)
 
-> Zhu *et al*. (2017), Character 3; Cloutier *et al*. (2020), Character 3; Clement *et al*. (2021), Character 3
+> Zhu *et al*. (2017), Character 3; Cloutier *et al*. (2020), Character 3; Simões and Pierce (2021), Character 2; Clement *et al*. (2021), Character 3
 
 4. Facial lamina of premaxilla: height less than 50% of length of premaxilla (0); more than 50% of length of premaxilla (1)
 
@@ -30,27 +30,27 @@
 
 5. Orientation of anterior tectal and lateral rostral relative to anterior nostril: dorsal/ventral (0); posterior/anterior (1)
 
-> Zhu *et al*. (2017), Character 5; Cloutier *et al*. (2020), Character 5; Clement *et al*. (2021), Character 5
+> Daeschler *et al*. (2006), Character 23; Zhu *et al*. (2017), Character 5; Cloutier *et al*. (2020), Character 5; Simões and Pierce (2021), Character 3; Clement *et al*. (2021), Character 5
 
 6. Postrostral: absent (0); postrostral mosaic of small variable bones (1); large median postrostral, with or without accessory bones (2)
 
-> Daeschler *et al*. (2006), Character 34 (in part); Swartz (2012), Character 86 (in part); Zhu *et al*. (2017), Character 6; Cloutier *et al*. (2020), Character 6; Clement *et al*. (2021), Character 6
+> Daeschler *et al*. (2006), Character 34 (in part); Swartz (2012), Character 86 (in part); Zhu *et al*. (2017), Character 6; Cloutier *et al*. (2020), Character 6; Simões and Pierce (2021), Character 4; Clement *et al*. (2021), Character 6
 
 7. Number of nasals: more than two (0); two (1); one (2)
 
-> *ordered*; Daeschler *et al*. (2006), Character 35, Swartz (2012), Character 83, Zhu *et al*. (2017), Character 7 (in part); Cloutier *et al*. (2020), Character 7; Clement *et al*. (2021), Character 7
+> *ordered*; Daeschler *et al*. (2006), Character 35, Swartz (2012), Character 83, Zhu *et al*. (2017), Character 7 (in part); Cloutier *et al*. (2020), Character 7; Simões and Pierce (2021), Character 5; Clement *et al*. (2021), Character 7
 
 8. Position of anterior nostril: facial (0); edge of mouth (1)
 
-> Swartz (2012), Character 91; Zhu *et al*. (2017), Character 8; Cloutier *et al*. (2020), Character 8; Clement *et al*. (2021), Character 8
+> Swartz (2012), Character 91; Zhu *et al*. (2017), Character 8; Cloutier *et al*. (2020), Character 8; Simões and Pierce (2021), Character 6; Clement *et al*. (2021), Character 8
 
 9. Dermintermedial process: absent (0); present (1)
 
-> Zhu *et al*. (2017), Character 9; Cloutier *et al*. (2020), Character 9; Clement *et al*. (2021), Character 9
+> Zhu *et al*. (2017), Character 9; Cloutier *et al*. (2020), Character 9; Simões and Pierce (2021), Character 7; Clement *et al*. (2021), Character 9
 
 10. Position of posterior nostril: external, far from jaw margin (0); external, close to jaw margin (1); palatal (2)
 
-> *ordered*; Swartz (2012), Character 89 (in part); Zhu *et al*. (2017), Character 10; Cloutier *et al*. (2020), Character 10; Clement *et al*. (2021), Character 10
+> *ordered*; Swartz (2012), Character 89 (in part); Zhu *et al*. (2017), Character 10; Cloutier *et al*. (2020), Character 10; Simões and Pierce (2021), Character 8; Clement *et al*. (2021), Character 10
 
 11. Number of supraorbitals: one (0); more than one (1)
 
@@ -58,7 +58,7 @@
 
 12. Posterior or posteriormost supraorbital (postfrontal) extends anterior of orbit: yes (0); no (1)
 
-> Daeschler *et al*. (2006), Character 86; Swartz (2012), Character 109; Zhu *et al*. (2017), Character 12; Cloutier *et al*. (2020), Character 12; Clement *et al*. (2021), Character 12
+> Daeschler *et al*. (2006), Character 86; Swartz (2012), Character 109; Zhu *et al*. (2017), Character 12; Cloutier *et al*. (2020), Character 12; Simões and Pierce (2021), Character 9; Clement *et al*. (2021), Character 12
 
 13. Relative size of anterior (or anteriormost) supraorbital (prefrontal, posterior tectal of Jarvik) and posterior (or posteriormost) supraorbital (postfrontal): similar (0); anterior supraorbital much bigger (1)
 
@@ -70,23 +70,23 @@
 
 15. Contact between parietal and supraorbital: present (0); absent (1)
 
-> Swartz (2012), Character 112 (in part); Zhu *et al*. (2017), Character 15; Cloutier *et al*. (2020), Character 15; Clement *et al*. (2021), Character 15
+> Swartz (2012), Character 112 (in part); Zhu *et al*. (2017), Character 15; Cloutier *et al*. (2020), Character 15; Simões and Pierce (2021), Character 10; Clement *et al*. (2021), Character 15
 
 16. Intertemporal: present (0); absent (1)
 
-> Daeschler *et al*. (2006), Character 74, Swartz (2012), Character 118, Zhu *et al*. (2017), Character 16; Clack *et al*. (2012), Character 6; Chen *et al*. (2018), Character 5; Cloutier *et al*. (2020), Character 16; Clement *et al*. (2021), Character 16
+> Daeschler *et al*. (2006), Character 74, Swartz (2012), Character 118, Zhu *et al*. (2017), Character 16; Clack *et al*. (2012), Character 6; Chen *et al*. (2018), Character 5; Cloutier *et al*. (2020), Character 16; Simões and Pierce (2021), Character 11; Clement *et al*. (2021), Character 16
 
 17. Contact between posterior supraorbital and intertemporal: present (0); absent (1)
 
-> Swartz (2012), Character 111; Zhu *et al*. (2017), Character 17; Cloutier *et al*. (2020), Character 17; Clement *et al*. (2021), Character 17
+> Swartz (2012), Character 111; Zhu *et al*. (2017), Character 17; Cloutier *et al*. (2020), Character 17; Simões and Pierce (2021), Character 12; Clement *et al*. (2021), Character 17
 
 18. Number of tectals: one (0); more than one (1)
 
-> Zhu *et al*. (2017), Character 18; Cloutier *et al*. (2020), Character 18; Clement *et al*. (2021), Character 18
+> Zhu *et al*. (2017), Character 18; Cloutier *et al*. (2020), Character 18; Simões and Pierce (2021), Character 13; Clement *et al*. (2021), Character 18
 
 19. Paired frontal bones meeting in midline, anterior to parietals: absent (0); present (1)
 
-> Daeschler *et al*. (2006), Character 36; Swartz (2012), Character 113; Zhu *et al*. (2017), Character 19; Clack *et al*. (2012), Character 5; Chen *et al*. (2018), Character 4; Cloutier *et al*. (2020), Character 19; Clement *et al*. (2021), Character 19
+> Daeschler *et al*. (2006), Character 36; Swartz (2012), Character 113; Zhu *et al*. (2017), Character 19; Clack *et al*. (2012), Character 5; Chen *et al*. (2018), Character 4; Cloutier *et al*. (2020), Character 19; Simões and Pierce (2021), Character 14; Clement *et al*. (2021), Character 19
 
 20. Width of ethmoid relative to length from snout tip to posterior margin of parietals: more than 80% (0); 70 - 79% (1); 50 - 69% (2); less than 50% (3)
 
@@ -94,29 +94,29 @@
 
 21. Pineal foramen: present (0); absent (1)
 
-> Daeschler *et al*. (2006), Character 27, Swartz (2012), Character 115, Zhu *et al*. (2017), Character 21; Cloutier *et al*. (2020), Character 21; Clement *et al*. (2021), Character 21
+> Daeschler *et al*. (2006), Character 27, Swartz (2012), Character 115, Zhu *et al*. (2017), Character 21; Cloutier *et al*. (2020), Character 21; Simões and Pierce (2021), Character 15; Clement *et al*. (2021), Character 21
 
 22. Shape of pineal series: round or oval (0); kite shaped with distinct posterior corner (1)
 
-> Daeschler *et al*. (2006), Character 30, Swartz (2012), Character 117, Zhu *et al*. (2017), Character 22; Cloutier *et al*. (2020), Character 22; Clement *et al*. (2021), Character 22
+> Daeschler *et al*. (2006), Character 30, Swartz (2012), Character 117, Zhu *et al*. (2017), Character 22; Cloutier *et al*. (2020), Character 22; Simões and Pierce (2021), Character 16; Clement *et al*. (2021), Character 22
 
 > Cloutier et al. (2020): The taxa having a pineal opening (char. 21) but not plates are coded as "-".
 
 23. Location of pineal foramen/eminence: level with, or anterior to posterior margin of orbits (0); posterior to orbits (1)
 
-> Daeschler *et al*. (2006), Character 28; Swartz (2012), Character 116; Zhu *et al*. (2017), Character 23; Cloutier *et al*. (2020), Character 23; Clement *et al*. (2021), Character 23
+> Daeschler *et al*. (2006), Character 28; Swartz (2012), Character 116; Zhu *et al*. (2017), Character 23; Cloutier *et al*. (2020), Character 23; Simões and Pierce (2021), Character 17; Clement *et al*. (2021), Character 23
  
 24. Parietals surround pineal foramen/eminence: yes (0); no (1)
 
-> Daeschler *et al*. (2006), Character 29; Swartz (2012), Character 114; Zhu *et al*. (2017), Character 24; Cloutier *et al*. (2020), Character 24; Clement *et al*. (2021), Character 24
+> Daeschler *et al*. (2006), Character 29; Swartz (2012), Character 114; Zhu *et al*. (2017), Character 24; Cloutier *et al*. (2020), Character 24; Simões and Pierce (2021), Character 18; Clement *et al*. (2021), Character 24
 
 25. Dermal intracranial joint: absent (0); present (1)
 
-> Daeschler *et al*. (2006), Character 50; Swartz (2012), Character 119; Zhu *et al*. (2017), Character 25; Chen *et al*. (2018), Character 83; Cloutier *et al*. (2020), Character 25; Clement *et al*. (2021), Character 25
+> Daeschler *et al*. (2006), Character 50; Swartz (2012), Character 119; Zhu *et al*. (2017), Character 25; Chen *et al*. (2018), Character 83; Cloutier *et al*. (2020), Character 25; Simões and Pierce (2021), Character 19; Clement *et al*. (2021), Character 25
 
 26. Postparietals narrow to a point posteriorly: no (0), yes (1)
 
-> Daeschler *et al*. (2006), Character 32; Swartz (2012), Character 120; Zhu *et al*. (2017), Character 26; Cloutier *et al*. (2020), Character 26; Clement *et al*. (2021), Character 26
+> Daeschler *et al*. (2006), Character 32; Swartz (2012), Character 120; Zhu *et al*. (2017), Character 26; Cloutier *et al*. (2020), Character 26; Simões and Pierce (2021), Character 20; Clement *et al*. (2021), Character 26
 
 27. Proportions of postparietal shield maximum width of postparietal shield versus skull width at level of anterior end of postparietal: maximum width of postparietal shield <1/3 skull width at level of anterior end of postparietal (0); maximum width of postparietal shield >=1/3 skull width at level of anterior end of postparietal (1)
 
@@ -124,21 +124,21 @@
 
 28. Spiracular notch: small hole or narrow slit (0); wide notch between skull roof and cheek (1)
 
-> Daeschler *et al*. (2006), Character 87 (in part); Swartz (2012), Character 140 (in part); Zhu *et al*. (2017), Character 28; Cloutier *et al*. (2020), Character 28; Clement *et al*. (2021), Character 28
+> Daeschler *et al*. (2006), Character 87 (in part); Swartz (2012), Character 140 (in part); Zhu *et al*. (2017), Character 28; Cloutier *et al*. (2020), Character 28; Simões and Pierce (2021), Character 21; Clement *et al*. (2021), Character 28
 
 29. Extratemporal: absent (0); present (1)
 
-> Daeschler *et al*. (2006), Character 37 (in part), Character 40 (in part); Swartz (2012), Character 124 (in part; Zhu *et al*. (2017), Character 29 (in part); Cloutier *et al*. (2020), Character 29; Clement *et al*. (2021), Character 29
+> Daeschler *et al*. (2006), Character 37 (in part), Character 40 (in part); Swartz (2012), Character 124 (in part; Zhu *et al*. (2017), Character 29 (in part); Cloutier *et al*. (2020), Character 29; Simões and Pierce (2021), Character 22; Clement *et al*. (2021), Character 29
 
 > Cloutier et al. (2020): Zhu et al. (2017) created apomorphic state 2 in which the extratemporal separates the lateral extrascapular from the squamosal, suggesting homology between the extratemporal and the postspiracular. We divided character 29 of Zhu et al. (2017) into two characters (29 and 170) because the homology between the extratemporal and spiracular is dubious.
 
 30. Contact between extratemporal and supratemporal: absent (0); present (1)
 
-> Daeschler *et al*. (2006), Character 38; Swartz (2012), Character 126; Zhu *et al*. (2017), Character 30; Cloutier *et al*. (2020), Character 30; Clement *et al*. (2021), Character 30
+> Daeschler *et al*. (2006), Character 38; Swartz (2012), Character 126; Zhu *et al*. (2017), Character 30; Cloutier *et al*. (2020), Character 30; Simões and Pierce (2021), Character 23; Clement *et al*. (2021), Character 30
 
 31. Extrascapulars: present (0); absent (1)
 
-> Daeschler *et al*. (2006), Character 77; Swartz (2012), Character 143; Zhu *et al*. (2017), Character 31; Cloutier *et al*. (2020), Character 31; Clement *et al*. (2021), Character 31
+> Daeschler *et al*. (2006), Character 77; Swartz (2012), Character 143; Zhu *et al*. (2017), Character 31; Cloutier *et al*. (2020), Character 31; Simões and Pierce (2021), Character 24; Clement *et al*. (2021), Character 31
 
 32. Anterior margin of median extrascapular: long (0); very short (1)
 
@@ -146,11 +146,11 @@
 
 33. Median extrascapular overlap: median extrascapular overlapped by lateral extrascapulars (0); median extrascapular overlapping lateral extrascapulars (1)
 
-> Daeschler *et al*. (2006), Character 48; Swartz (2012), Character 142; Zhu *et al*. (2017), Character 33; Cloutier *et al*. (2020), Character 33; Clement *et al*. (2021), Character 33
+> Daeschler *et al*. (2006), Character 48; Swartz (2012), Character 142; Zhu *et al*. (2017), Character 33; Cloutier *et al*. (2020), Character 33; Simões and Pierce (2021), Character 25; Clement *et al*. (2021), Character 33
 
 34. Internasal pits: undifferentiated or anterior palatal fossa (0); shallow paired pits with strong midline ridge (1); deep pear-shaped pits (2)
 
-> *ordered*; Daeschler *et al*. (2006), Character 19; Swartz (2012), Character 88; Zhu *et al*. (2017), Character 34; Cloutier *et al*. (2020), Character 34; Clement *et al*. (2021), Character 34
+> *ordered*; Daeschler *et al*. (2006), Character 19; Swartz (2012), Character 88; Zhu *et al*. (2017), Character 34; Cloutier *et al*. (2020), Character 34; Simões and Pierce (2021), Character 26; Clement *et al*. (2021), Character 34
 
 35. Tectum orbitale: narrow (0); extensive (1)
 
@@ -158,87 +158,87 @@
 
 36. Large median opening and several small dorsolateral openings in postnasal wall: absent (0); present (1)
 
-> Zhu *et al*. (2017), Character 36; Cloutier *et al*. (2020), Character 36; Clement *et al*. (2021), Character 36
+> Zhu *et al*. (2017), Character 36; Cloutier *et al*. (2020), Character 36; Simões and Pierce (2021), Character 27; Clement *et al*. (2021), Character 36
  
 37. Position of exit of pituitary vein: in front of basipterygoid process (0); dorsal to vertical portion of basipterygoid process (1)
 
-> Swartz (2012), Character 5; Zhu *et al*. (2017), Character 37; Cloutier *et al*. (2020), Character 37; Clement *et al*. (2021), Character 37
+> Swartz (2012), Character 5; Zhu *et al*. (2017), Character 37; Cloutier *et al*. (2020), Character 37; Simões and Pierce (2021), Character 28; Clement *et al*. (2021), Character 37
 
 38. Descending process of sphenoid (with its posterior extremity lacking periostegeal lining): absent (0); present (1)
 
-> Swartz (2012), Character 9; Zhu *et al*. (2017), Character 38; Cloutier *et al*. (2020), Character 38; Clement *et al*. (2021), Character 38
+> Swartz (2012), Character 9; Zhu *et al*. (2017), Character 38; Cloutier *et al*. (2020), Character 38; Simões and Pierce (2021), Character 29; Clement *et al*. (2021), Character 38
 
 39. Endoskeletal intracranial joint: absent (0); present (1)
 
-> Daeschler *et al*. (2006), Character 51; Swartz (2012), Character 7; Zhu *et al*. (2017), Character 39; Cloutier *et al*. (2020), Character 39; Clement *et al*. (2021), Character 39
+> Daeschler *et al*. (2006), Character 51; Swartz (2012), Character 7; Zhu *et al*. (2017), Character 39; Cloutier *et al*. (2020), Character 39; Simões and Pierce (2021), Character 30; Clement *et al*. (2021), Character 39
 
 40. Proportion of neurocranium: ethmosphenoid shorter than or equal in length to otoccipital (0); ethmosphenoid longer than otoccipital (1)
 
-> Zhu *et al*. (2017), Character 40; Cloutier *et al*. (2020), Character 40; Clement *et al*. (2021), Character 40
+> Zhu *et al*. (2017), Character 40; Cloutier *et al*. (2020), Character 40; Simões and Pierce (2021), Character 31; Clement *et al*. (2021), Character 40
 
 41. Dorsal element of hyoid arch: hyomandibula articulating with lateral commissure (0); stapes inserted into fenestra ovalis (1)
 
-> Zhu *et al*. (2017), Character 41; Cloutier *et al*. (2020), Character 41; Clement *et al*. (2021), Character 41
+> Zhu *et al*. (2017), Character 41; Cloutier *et al*. (2020), Character 41; Simões and Pierce (2021), Character 32; Clement *et al*. (2021), Character 41
 
 42. Relative positions of hyomandibular facets: ventral anterior to dorsal (0); dorsal directly above ventral (1); dorsal anterior to ventral (2)
 
-> *ordered*; Swartz (2012), Character 15 (morphocline changed); Zhu *et al*. (2017), Character 42 (morphocline changed); Cloutier *et al*. (2020), Character 42; Clement *et al*. (2021), Character 42 
+> *ordered*; Swartz (2012), Character 15 (morphocline changed); Zhu *et al*. (2017), Character 42 (morphocline changed); Cloutier *et al*. (2020), Character 42; Simões and Pierce (2021), Character 33; Clement *et al*. (2021), Character 42 
 
 > Cloutier et al. (2020): The original character states provided by Zhu et al. (2017) have been reordered to form a morphocline.
 
 43. Vestibular fontanelle: absent (0); present (1)
 
-> Zhu *et al*. (2017), Character 43; Cloutier *et al*. (2020), Character 43; Clement *et al*. (2021), Character 43
+> Zhu *et al*. (2017), Character 43; Cloutier *et al*. (2020), Character 43; Simões and Pierce (2021), Character 34; Clement *et al*. (2021), Character 43
 
 44. Anterior margin of vestibular fontanelle anterior to posterior margin of basicranial fenestra: no (0); yes (1)
 
-> Zhu *et al*. (2017), Character 44; Cloutier *et al*. (2020), Character 44; Clement *et al*. (2021), Character 44
+> Zhu *et al*. (2017), Character 44; Cloutier *et al*. (2020), Character 44; Simões and Pierce (2021), Character 35; Clement *et al*. (2021), Character 44
 
 45. Basicranial fenestra: absent (0); present (1)
 
-> Daeschler *et al*. (2006), Character 52; Swartz (2012), Character 8; Zhu *et al*. (2017), Character 45; Cloutier *et al*. (2020), Character 45; Clement *et al*. (2021), Character 45
+> Daeschler *et al*. (2006), Character 52; Swartz (2012), Character 8; Zhu *et al*. (2017), Character 45; Cloutier *et al*. (2020), Character 45; Simões and Pierce (2021), Character 36; Clement *et al*. (2021), Character 45
 
 46. Posttemporal fossae: absent (0); present (1)
 
-> Zhu *et al*. (2017), Character 46; Cloutier *et al*. (2020), Character 46; Clement *et al*. (2021), Character 46
+> Zhu *et al*. (2017), Character 46; Cloutier *et al*. (2020), Character 46; Simões and Pierce (2021), Character 37; Clement *et al*. (2021), Character 46
 
 47. Extent of crista parotica: does not reach posterior margin of tabular (0); reaches posterior margin of tabular (1)
 
-> Daeschler *et al*. (2006), Character 25; Swartz (2012), Character 6; Zhu *et al*. (2017), Character 47; Cloutier *et al*. (2020), Character 47; Clement *et al*. (2021), Character 47
+> Daeschler *et al*. (2006), Character 25; Swartz (2012), Character 6; Zhu *et al*. (2017), Character 47; Cloutier *et al*. (2020), Character 47; Simões and Pierce (2021), Character 38; Clement *et al*. (2021), Character 47
 
 48. Otical process: absent (0); present (1)
 
-> Zhu *et al*. (2017), Character 48; Cloutier *et al*. (2020), Character 48; Clement *et al*. (2021), Character 48
+> Zhu *et al*. (2017), Character 48; Cloutier *et al*. (2020), Character 48; Simões and Pierce (2021), Character 39; Clement *et al*. (2021), Character 48
 
-> Cloutier et al. (2020):  Zhu et al. (2017) defined the optical process as an outgrowth from the lateral wall of the braincase penetrated by the branches of the r. oticus lateralis.
+> Cloutier et al. (2020): Zhu et al. (2017) defined the optical process as an outgrowth from the lateral wall of the braincase penetrated by the branches of the r. oticus lateralis.
 
 49. Foramina (similar to infradentary foramina) on cheek bones: absent (0); present (1)
 
-> Swartz (2012), Character 134, Zhu *et al*. (2017), Character 49; Cloutier *et al*. (2020), Character 49; Clement *et al*. (2021), Character 49
+> Swartz (2012), Character 134, Zhu *et al*. (2017), Character 49; Cloutier *et al*. (2020), Character 49; Simões and Pierce (2021), Character 40; Clement *et al*. (2021), Character 49
 
 50. Postorbital: contributes to orbital margin (0); excluded from orbital margin (1)
 
-> Swartz (2012), Character 98, Zhu *et al*. (2017), Character 50; Cloutier *et al*. (2020), Character 50; Clement *et al*. (2021), Character 50
+> Swartz (2012), Character 98, Zhu *et al*. (2017), Character 50; Cloutier *et al*. (2020), Character 50; Simões and Pierce (2021), Character 41; Clement *et al*. (2021), Character 50
 
 51. Jugal extends anterior to middle of orbit: no (0); yes (1)
 
-> Daeschler *et al*. (2006), Character 78; Swartz (2012), Character 95; Zhu *et al*. (2017), Character 51;  Clack *et al*. (2012), Character 7; Chen *et al*. (2018), Character 6; Cloutier *et al*. (2020), Character 51; Clement *et al*. (2021), Character 51
+> Daeschler *et al*. (2006), Character 78; Swartz (2012), Character 95; Zhu *et al*. (2017), Character 51;  Clack *et al*. (2012), Character 7; Chen *et al*. (2018), Character 6; Cloutier *et al*. (2020), Character 51; Simões and Pierce (2021), Character 42; Clement *et al*. (2021), Character 51
 
 52. Relationship of jugal to orbit: contributes to orbital margin (0); excluded from orbital margin (1)
 
-> Daeschler *et al*. (2006), Character 43; Zhu *et al*. (2017), Character 52; Cloutier *et al*. (2020), Character 52; Clement *et al*. (2021), Character 52
+> Daeschler *et al*. (2006), Character 43; Zhu *et al*. (2017), Character 52; Cloutier *et al*. (2020), Character 52; Simões and Pierce (2021), Character 43; Clement *et al*. (2021), Character 52
 
 53. Lacrimal excluded from orbit: no (0); yes (1)
 
-> Daeschler *et al*. (2006), Character 79; Swartz (2012), Character 92, Zhu *et al*. (2017), Character 53; Clack *et al*. (2012), Character 8; Chen *et al*. (2018), Character 7; Cloutier *et al*. (2020), Character 53; Clement *et al*. (2021), Character 53 
+> Daeschler *et al*. (2006), Character 79; Swartz (2012), Character 92, Zhu *et al*. (2017), Character 53; Clack *et al*. (2012), Character 8; Chen *et al*. (2018), Character 7; Cloutier *et al*. (2020), Character 53; Simões and Pierce (2021), Character 44; Clement *et al*. (2021), Character 53 
 
 54. Contact between posterior supraorbital (postfrontal) and lacrimal: absent (0); present (1)
 
-> Daeschler *et al*. (2006), Character 44; Swartz (2012), Character 93; Zhu *et al*. (2017), Character 54; Cloutier *et al*. (2020), Character 54; Clement *et al*. (2021), Character 54
+> Daeschler *et al*. (2006), Character 44; Swartz (2012), Character 93; Zhu *et al*. (2017), Character 54; Cloutier *et al*. (2020), Character 54; Simões and Pierce (2021), Character 45; Clement *et al*. (2021), Character 54
 
 55. Jugal-quadratojugal contact: absent (0); present (1)
 
-> Daeschler *et al*. (2006), Character 42; Swartz (2012), Character 96; Zhu *et al*. (2017), Character 55; Cloutier *et al*. (2020), Character 55; Clement *et al*. (2021), Character 55
+> Daeschler *et al*. (2006), Character 42; Swartz (2012), Character 96; Zhu *et al*. (2017), Character 55; Cloutier *et al*. (2020), Character 55; Simões and Pierce (2021), Character 46; Clement *et al*. (2021), Character 55
 
 56. Number of cheek bones bearing preopercular canal posterior to jugal: one (0); two (1)
 
@@ -246,19 +246,19 @@
 
 57. Bone bearing both quadratojugal pit-line and preopercular canal: absent (0); present (1)
 
-> Zhu *et al*. (2017), Character 57; Cloutier *et al*. (2020), Character 57; Clement *et al*. (2021), Character 57
+> Zhu *et al*. (2017), Character 57; Cloutier *et al*. (2020), Character 57; Simões and Pierce (2021), Character 47; Clement *et al*. (2021), Character 57
 
 58. Bar-like preopercular: absent (0); present (1)
 
-> Daeschler *et al*. (2006), Character 88 (in part), Swartz (2012), Character 137, Zhu *et al*. (2017), Character 58; Clack *et al*. (2012), Character 17 (in part), Chen *et al*. (2018), Character 16 (in part); Cloutier *et al*. (2020), Character 58; Clement *et al*. (2021), Character 58
+> Daeschler *et al*. (2006), Character 88 (in part), Swartz (2012), Character 137, Zhu *et al*. (2017), Character 58; Clack *et al*. (2012), Character 17 (in part), Chen *et al*. (2018), Character 16 (in part); Cloutier *et al*. (2020), Character 58; Simões and Pierce (2021), Character 48; Clement *et al*. (2021), Character 58
 
 59. Subsquamosals: absent (0); present (1)
 
-> Daeschler *et al*. (2006), Character 47; Swartz (2012), Character 101; Zhu *et al*. (2017), Character 59; Cloutier *et al*. (2020), Character 59; Clement *et al*. (2021), Character 59
+> Daeschler *et al*. (2006), Character 47; Swartz (2012), Character 101; Zhu *et al*. (2017), Character 59; Cloutier *et al*. (2020), Character 59; Simões and Pierce (2021), Character 49; Clement *et al*. (2021), Character 59
 
 60. Preoperculosubmandibular: absent (0); present (1)
 
-> Daeschler *et al*. (2006), Character 46; Swartz (2012), Character 102; Zhu *et al*. (2017), Character 60; Cloutier *et al*. (2020), Character 60; Clement *et al*. (2021), Character 60
+> Daeschler *et al*. (2006), Character 46; Swartz (2012), Character 102; Zhu *et al*. (2017), Character 60; Cloutier *et al*. (2020), Character 60; Simões and Pierce (2021), Character 50; Clement *et al*. (2021), Character 60
 
 61. Vomer proportions: not much broader than long (0); much broader than long (1)
 
@@ -266,27 +266,27 @@
 
 62. Anteromedial process of vomer: absent (0); present (1)
 
-> Daeschler *et al*. (2006), Character 16 (in part); Swartz (2012), Character 63 (in part); Zhu *et al*. (2017), Character 62 (in part); Cloutier *et al*. (2020), Character 62; Clement *et al*. (2021), Character 62
+> Daeschler *et al*. (2006), Character 16 (in part); Swartz (2012), Character 63 (in part); Zhu *et al*. (2017), Character 62 (in part); Cloutier *et al*. (2020), Character 62; Simões and Pierce (2021), Character 51; Clement *et al*. (2021), Character 62
 
 63. Posterior process of vomers: absent (0); short (1); long (2)
 
-> *ordered*; Daeschler *et al*. (2006), Character 15; Swartz (2012), Character 64; Zhu *et al*. (2017), Character 63; Cloutier *et al*. (2020), Character 63; Clement *et al*. (2021), Character 63
+> *ordered*; Daeschler *et al*. (2006), Character 15; Swartz (2012), Character 64; Zhu *et al*. (2017), Character 63; Cloutier *et al*. (2020), Character 63; Simões and Pierce (2021), Character 52; Clement *et al*. (2021), Character 63
 
 64. Articulation of vomers: vomers not articulating with each other (0); vomers articulating with each other (1)
 
-> Zhu *et al*. (2017), Character 64; Cloutier *et al*. (2020), Character 64; Clement *et al*. (2021), Character 64
+> Zhu *et al*. (2017), Character 64; Cloutier *et al*. (2020), Character 64; Simões and Pierce (2021), Character 53; Clement *et al*. (2021), Character 64
 
 65. Parasphenoid: protruding forward into ethmoid region of endocranium (0); behind ethmoid region (1)
 
-> Zhu *et al*. (2017), Character 65;  Clack *et al*. (2012), Character 27 (in part); Cloutier *et al*. (2020), Character 65; Clement *et al*. (2021), Character 65
+> Zhu *et al*. (2017), Character 65;  Clack *et al*. (2012), Character 27 (in part); Cloutier *et al*. (2020), Character 65; Simões and Pierce (2021), Character 54; Clement *et al*. (2021), Character 65
 
 66. Denticulated field of parasphenoid: without spiracular groove (0); with spiracular groove (1)
 
-> Daeschler *et al*. (2006), Character 20 (in part); Swartz (2012), Character 67; Zhu *et al*. (2017), Character 66; Cloutier *et al*. (2020), Character 66; Clement *et al*. (2021), Character 66
+> Daeschler *et al*. (2006), Character 20 (in part); Swartz (2012), Character 67; Zhu *et al*. (2017), Character 66; Cloutier *et al*. (2020), Character 66; Simões and Pierce (2021), Character 55; Clement *et al*. (2021), Character 66
 
 67. Relationship of vomer to parasphenoid: no contact, or simple abutment (0); dorsal/ventral overlap anteriorly (1); side to side overlap between posterior processes of vomers and lateral sides of parasphenoid (2)
 
-> Daeschler *et al*. (2006), Character 18; Swartz (2012), Character 65 (in part); Zhu *et al*. (2017), Character 67;  Clack *et al*. (2012), Character 20 (in part); Chen *et al*. (2018), Character 19 (in part); Cloutier *et al*. (2020), Character 67; Clement *et al*. (2021), Character 67
+> Daeschler *et al*. (2006), Character 18; Swartz (2012), Character 65 (in part); Zhu *et al*. (2017), Character 67;  Clack *et al*. (2012), Character 20 (in part); Chen *et al*. (2018), Character 19 (in part); Cloutier *et al*. (2020), Character 67; Simões and Pierce (2021), Character 56; Clement *et al*. (2021), Character 67
 
 68. Shape of parasphenoid: broad, splint-shaped (0); slender, splint-shaped (1)
 
@@ -294,21 +294,21 @@
 
 69. Lateral sides of parasphenoid: parallel or slightly diverging anteriorly (0); converging anteriorly (1)
 
-> Zhu *et al*. (2017), Character 69; Cloutier *et al*. (2020), Character 69; Clement *et al*. (2021), Character 69
+> Zhu *et al*. (2017), Character 69; Cloutier *et al*. (2020), Character 69; Simões and Pierce (2021), Character 57; Clement *et al*. (2021), Character 69
 
 70. Posterior carotid opening in parasphenoid: present (0); absent (1)
 
-> Swartz (2012), Character 10 (in part); Zhu *et al*. (2017), Character 70 (in part); Cloutier *et al*. (2020), Character 70; Clement *et al*. (2021), Character 70
+> Swartz (2012), Character 10 (in part); Zhu *et al*. (2017), Character 70 (in part); Cloutier *et al*. (2020), Character 70; Simões and Pierce (2021), Character 58; Clement *et al*. (2021), Character 70
 
 > Cloutier et al. (2020): Character 70 of Zhu et al. (2017) has been divided into two binary characters (char. 70 and 171).
 
 71. Articulation of pterygoids: pterygoids not articulating with each other (0); pterygoids articulating with each other (1)
 
-> Daeschler *et al*. (2006), Character 14; Swartz (2012), Character 70; Zhu *et al*. (2017), Character 71; Clack *et al*. (2012), Character 18 (in part), Chen *et al*. (2018), Character 17; Cloutier *et al*. (2020), Character 71; Clement *et al*. (2021), Character 71
+> Daeschler *et al*. (2006), Character 14; Swartz (2012), Character 70; Zhu *et al*. (2017), Character 71; Clack *et al*. (2012), Character 18 (in part), Chen *et al*. (2018), Character 17; Cloutier *et al*. (2020), Character 71; Simões and Pierce (2021), Character 59; Clement *et al*. (2021), Character 71
 
 72. Proportions of entopterygoid: anterior end level with processus ascendens (0); anterior end considerably anterior to processus ascendens (1)
 
-> Daeschler *et al*. (2006), Character 13; Swartz (2012), Character 69; Zhu *et al*. (2017), Character 72; Cloutier *et al*. (2020), Character 72; Clement *et al*. (2021), Character 72
+> Daeschler *et al*. (2006), Character 13; Swartz (2012), Character 69; Zhu *et al*. (2017), Character 72; Cloutier *et al*. (2020), Character 72; Simões and Pierce (2021), Character 60; Clement *et al*. (2021), Character 72
 
 73. Number of fang pairs on ectopterygoid: two (0); one (1); none (2)
 
