@@ -502,55 +502,55 @@
 
 121. Contact between otic and supraorbital canals: not in contact (0); in contact (1)
 
-> Zhu *et al*. (2017), Character 121; Cloutier *et al*. (2020), Character 121; Clement *et al*. (2021), Character 
+> Zhu *et al*. (2017), Character 121; Cloutier *et al*. (2020), Character 121; Clement *et al*. (2021), Character 121
 
 122. Otic (postotic) canal: runs through skull roof (0); follows edge of skull roof (1)
 
-> Swartz (2012), Character 129; Zhu *et al*. (2017), Character 122; Cloutier *et al*. (2020), Character 122; Clement *et al*. (2021), Character 
+> Swartz (2012), Character 129; Zhu *et al*. (2017), Character 122; Cloutier *et al*. (2020), Character 122; Clement *et al*. (2021), Character 122
 
 123. Otic (postotic) canal enters postparietal: no (0); yes (1)
 
-> Zhu *et al*. (2017), Character 123; Cloutier *et al*. (2020), Character 123; Clement *et al*. (2021), Character 
+> Zhu *et al*. (2017), Character 123; Cloutier *et al*. (2020), Character 123; Clement *et al*. (2021), Character 123
 
 124. Supracleithrum and posttemporal: present (0); absent (1)
 
-> Swartz (2012), Character 145 (in part); Zhu *et al*. (2017), Character 124;Chen *et al*. (2018), Character 101; Cloutier *et al*. (2020), Character 124; Clement *et al*. (2021), Character 
+> Swartz (2012), Character 145 (in part); Zhu *et al*. (2017), Character 124;Chen *et al*. (2018), Character 101; Cloutier *et al*. (2020), Character 124; Clement *et al*. (2021), Character 124
 
 125. Curvature of dermal shoulder girdle: smoothly curving chain from cleithrum to posttemporal, paralleling the posterior margin of the skull (0); tall caudally-inclined cleithrum sloping away from the skull and forming sharp angle with anocleithrumsupracleithrum-posttemporal (if present) (1)
 
-> Zhu *et al*. (2017), Character 125; Cloutier *et al*. (2020), Character 125; Clement *et al*. (2021), Character 
+> Zhu *et al*. (2017), Character 125; Cloutier *et al*. (2020), Character 125; Clement *et al*. (2021), Character 125
 
 126. Cleithral ornamentation: present (0); absent (1)
 
-> Daeschler *et al*. (2006), Character 106; Swartz (2012), Character 197; Zhu *et al*. (2017), Character 126; Chen *et al*. (2018), Character 88; Cloutier *et al*. (2020), Character 126; Clement *et al*. (2021), Character 
+> Daeschler *et al*. (2006), Character 106; Swartz (2012), Character 197; Zhu *et al*. (2017), Character 126; Chen *et al*. (2018), Character 88; Cloutier *et al*. (2020), Character 126; Clement *et al*. (2021), Character 126
 
 127. Contact margin for clavicle on cleithrum: straight or faintly convex (0); strongly concave (1)
 
-> Daeschler *et al*. (2006), Character 53; Swartz (2012), Character 150; Zhu *et al*. (2017), Character 127; Cloutier *et al*. (2020), Character 127; Clement *et al*. (2021), Character 
+> Daeschler *et al*. (2006), Character 53; Swartz (2012), Character 150; Zhu *et al*. (2017), Character 127; Cloutier *et al*. (2020), Character 127; Clement *et al*. (2021), Character 127
 
 128. Ventral or lower lamina of cleithrum: extensive without or with little scapulocoracoid lateral exposure (0); reduced, with large scapulocoracoid lateral exposure (1)
 
-> Zhu *et al*. (2017), Character 128; Cloutier *et al*. (2020), Character 128; Clement *et al*. (2021), Character 
+> Zhu *et al*. (2017), Character 128; Cloutier *et al*. (2020), Character 128; Clement *et al*. (2021), Character 128
 
 129. Overlap relations of cleithrum and clavicle: normal (0); rhizodontid condition (1)
 
-> Zhu *et al*. (2017), Character 129; Cloutier *et al*. (2020), Character 129; Clement *et al*. (2021), Character 
+> Zhu *et al*. (2017), Character 129; Cloutier *et al*. (2020), Character 129; Clement *et al*. (2021), Character 129
 
 130. Depressed posterior flange on cleithrum: absent (0); poorly developed (1); well developed (2)
 
-> *ordered*; Zhu *et al*. (2017), Character 130; Cloutier *et al*. (2020), Character 130; Clement *et al*. (2021), Character 
+> *ordered*; Zhu *et al*. (2017), Character 130; Cloutier *et al*. (2020), Character 130; Clement *et al*. (2021), Character 130
 
 131. Narrow waist on cleithrum: no (0); yes (1)
 
-> Zhu *et al*. (2017), Character 131; Cloutier *et al*. (2020), Character 131; Clement *et al*. (2021), Character 
+> Zhu *et al*. (2017), Character 131; Cloutier *et al*. (2020), Character 131; Clement *et al*. (2021), Character 131
 
 132. Ventral lamina of cleithrum much broader than dorsal lamina: no (0); yes (1)
 
-> Zhu *et al*. (2017), Character 132; Cloutier *et al*. (2020), Character 132; Clement *et al*. (2021), Character 
+> Zhu *et al*. (2017), Character 132; Cloutier *et al*. (2020), Character 132; Clement *et al*. (2021), Character 132
 
 133. Clavicle ascending process: clavicle has rod-like ascending process (0); clavicle lacks rod-like ascending process (1)
 
-> Zhu *et al*. (2017), Character 133; Cloutier *et al*. (2020), Character 133; Clement *et al*. (2021), Character 
+> Zhu *et al*. (2017), Character 133; Cloutier *et al*. (2020), Character 133; Clement *et al*. (2021), Character 133
 
 134. Interclavicle size: small (0); large (1)
 
@@ -752,7 +752,7 @@
 
 180. Transverse joint at the level of the ulnare, intermedium and radius: absent (0); present (1)
 
-> Daeschler *et al*. (2006), Character 89, S173; Cloutier *et al*. (2020), Character 180; Clement *et al*. (2021), Character 
+> Daeschler *et al*. (2006), Character 89; Swartz (2012), Character 173; Cloutier *et al*. (2020), Character 180; Clement *et al*. (2021), Character 
 
 181. Branched radials distal to the ulnare: absent (0); present (1)
 
