@@ -554,293 +554,293 @@
 
 134. Interclavicle size: small (0); large (1)
 
-> Daeschler *et al*. (2006), Character 83 (in part); Swartz (2012), Character 158 (in part); Zhu *et al*. (2017), Character 134 (in part); Chen *et al*. (2018), Character 98 (in part); Cloutier *et al*. (2020), Character 134; Clement *et al*. (2021), Character 
+> Daeschler *et al*. (2006), Character 83 (in part); Swartz (2012), Character 158 (in part); Zhu *et al*. (2017), Character 134 (in part); Chen *et al*. (2018), Character 98 (in part); Cloutier *et al*. (2020), Character 134; Clement *et al*. (2021), Character 134
 
 > Cloutier et al. (2020): Character 134 of Zhu et al. (2017) has been divided into two characters: size (char. 134) and ornamentation (char. 172).
 
 135. Scapulocoracoid and cleithrum attachment: triradiate scapulocoracoid lying flush against internal surface of cleithrum, not separated by foramina (0); single large foramen piercing C-shaped scapulocoracoid close to contact face for cleithrum (1); scapulocoracoid attaching to cleithrum via three buttresses (2); scapulocoracoid attaching to cleithrum along its anterodorsal margin (3)
 
-> Daeschler *et al*. (2006), Character 108 (in part), Swartz (2012), Character 82 (in part), Zhu *et al*. (2017), Character 135; Cloutier *et al*. (2020), Character 135; Clement *et al*. (2021), Character 
+> Daeschler *et al*. (2006), Character 108 (in part), Swartz (2012), Character 82 (in part), Zhu *et al*. (2017), Character 135; Cloutier *et al*. (2020), Character 135; Clement *et al*. (2021), Character 135
 
 136. Scapular process of scapulocoracoid: small (0); large, dorsally projecting (1)
 
-> S153, Zhu *et al*. (2017), Character 136; Chen *et al*. (2018), Character 106 (in part); Cloutier *et al*. (2020), Character 136; Clement *et al*. (2021), Character 
+> S153, Zhu *et al*. (2017), Character 136; Chen *et al*. (2018), Character 106 (in part); Cloutier *et al*. (2020), Character 136; Clement *et al*. (2021), Character 136
 
 137. Subscapular fossa: absent (0); present (1)
 
-> Daeschler *et al*. (2006), Character 109; Zhu *et al*. (2017), Character 137; Cloutier *et al*. (2020), Character 137; Clement *et al*. (2021), Character 
+> Daeschler *et al*. (2006), Character 109; Zhu *et al*. (2017), Character 137; Cloutier *et al*. (2020), Character 137; Clement *et al*. (2021), Character 137
 
 138. Coracoid plate: absent (0); present and extends ventromedially (1)
 
-> Daeschler *et al*. (2006), Character 103; Swartz (2012), Character 152; Zhu *et al*. (2017), Character 138; Cloutier *et al*. (2020), Character 138; Clement *et al*. (2021), Character 
+> Daeschler *et al*. (2006), Character 103; Swartz (2012), Character 152; Zhu *et al*. (2017), Character 138; Cloutier *et al*. (2020), Character 138; Clement *et al*. (2021), Character 138
 
 139. Pectoral fin radials: only preaxial and terminal (0); preaxial and postaxial radials in distal part of fin, only preaxial radials in proximal part (1); symmetrical array of preaxial and postaxial radials (2)
 
-> *ordered*; Zhu *et al*. (2017), Character 139; Cloutier *et al*. (2020), Character 139; Clement *et al*. (2021), Character 
+> *ordered*; Zhu *et al*. (2017), Character 139; Cloutier *et al*. (2020), Character 139; Clement *et al*. (2021), Character 139
 >
 > Cloutier et al. (2020): The term “radial” refers to endoskeletal elements located distally to the first row of proximal carpals (i.e., radiale, intermedium and tibiale). “Proximal radials” refer to the first proximo-distal row of elements (also referred to as “central carpals”) located distally to the proximal carpals. Proximal radials include the A4 element. “Intermediate radials” refer to the second proximo-distal row of elements located distally to the proximal radials and including the A5 elements. All the elements located distally to the intermediate radials are referred to as “distal radials” (or phalanges). This terminology follows that used by Wagner & Chiu (2001) and Johanson et al. (2007).
 
 140. Shape of ectepicondyle: rounded (0); elongate parallel-sided ridge (1)
 
-> Zhu *et al*. (2017), Character 140; Chen *et al*. (2018), Character 91 (in part); Cloutier *et al*. (2020), Character 140; Clement *et al*. (2021), Character 
+> Zhu *et al*. (2017), Character 140; Chen *et al*. (2018), Character 91 (in part); Cloutier *et al*. (2020), Character 140; Clement *et al*. (2021), Character 140
 
 141. Entepicondyle size: entepicondyle narrow relative to humerus shaft length (0); entepicondyle as broad as or broader than humerus is long (1)
 
-> Swartz (2012), Character 161 (in part); Zhu *et al*. (2017), Character 141; Cloutier *et al*. (2020), Character 141; Clement *et al*. (2021), Character 
+> Swartz (2012), Character 161 (in part); Zhu *et al*. (2017), Character 141; Cloutier *et al*. (2020), Character 141; Clement *et al*. (2021), Character 141
 
 142. Body of humerus: cylindrical (0); flattened rectangular (1)
 
-> Swartz (2012), Character 162, Zhu *et al*. (2017), Character 142; Cloutier *et al*. (2020), Character 142; Clement *et al*. (2021), Character 
+> Swartz (2012), Character 162, Zhu *et al*. (2017), Character 142; Cloutier *et al*. (2020), Character 142; Clement *et al*. (2021), Character 142
 
 143. Caput humeri: almost flat (0); ball-shaped (1); elongate (2)
 
-> Daeschler *et al*. (2006), Character 112 (in part); Swartz (2012), Character 154 (in part); Zhu *et al*. (2017), Character 143; Cloutier *et al*. (2020), Character 143; Clement *et al*. (2021), Character 
+> Daeschler *et al*. (2006), Character 112 (in part); Swartz (2012), Character 154 (in part); Zhu *et al*. (2017), Character 143; Cloutier *et al*. (2020), Character 143; Clement *et al*. (2021), Character 143
 
 144. Area proximal to radial facet: short, cylindrical leading edge (0); enlarged, sharp leading edge (1)
 
-> Daeschler *et al*. (2006), Character 102; Zhu *et al*. (2017), Character 144; Cloutier *et al*. (2020), Character 144; Clement *et al*. (2021), Character 
+> Daeschler *et al*. (2006), Character 102; Zhu *et al*. (2017), Character 144; Cloutier *et al*. (2020), Character 144; Clement *et al*. (2021), Character 144
 
 145. Shape of entepicondyle: narrow, finger-like (0); broad rectangular plate (1)
 
-> Zhu *et al*. (2017), Character 145; Cloutier *et al*. (2020), Character 145; Clement *et al*. (2021), Character 
+> Zhu *et al*. (2017), Character 145; Cloutier *et al*. (2020), Character 145; Clement *et al*. (2021), Character 145
 
 146. Discrete pectoral process on ventral ridge of humerus: absent (0); present (1)
 
-> Zhu *et al*. (2017), Character 146; Chen *et al*. (2018), Character 92; Cloutier *et al*. (2020), Character 146; Clement *et al*. (2021), Character 
+> Zhu *et al*. (2017), Character 146; Chen *et al*. (2018), Character 92; Cloutier *et al*. (2020), Character 146; Clement *et al*. (2021), Character 146
 
 147. Postaxial process on ulnare: present (0); absent (1)
 
-> Daeschler *et al*. (2006), Character 91; Swartz (2012), Character 175; Zhu *et al*. (2017), Character 147; Cloutier *et al*. (2020), Character 147; Clement *et al*. (2021), Character 
+> Daeschler *et al*. (2006), Character 91; Swartz (2012), Character 175; Zhu *et al*. (2017), Character 147; Cloutier *et al*. (2020), Character 147; Clement *et al*. (2021), Character 147
 
 148. Pectoral fin radials: jointed (0); unjointed (1)
 
-> Daeschler *et al*. (2006), Character 57 (in part); Swartz (2012), Character 177; Zhu *et al*. (2017), Character 148; Cloutier *et al*. (2020), Character 148; Clement *et al*. (2021), Character 
+> Daeschler *et al*. (2006), Character 57 (in part); Swartz (2012), Character 177; Zhu *et al*. (2017), Character 148; Cloutier *et al*. (2020), Character 148; Clement *et al*. (2021), Character 148
 
 149. Radial length: longer than humerus (0); equal to or shorter than humerus (1)
 
-> Daeschler *et al*. (2006), Character 101; Swartz (2012), Character 170; Zhu *et al*. (2017), Character 149; Cloutier *et al*. (2020), Character 149; Clement *et al*. (2021), Character 
+> Daeschler *et al*. (2006), Character 101; Swartz (2012), Character 170; Zhu *et al*. (2017), Character 149; Cloutier *et al*. (2020), Character 149; Clement *et al*. (2021), Character 149
 
 150. Shape of radius: bladelike (0); subcylindrical (1)
 
-> Daeschler *et al*. (2006), Character 94; Swartz (2012), Character 169; Zhu *et al*. (2017), Character 150; Cloutier *et al*. (2020), Character 150; Clement *et al*. (2021), Character 
+> Daeschler *et al*. (2006), Character 94; Swartz (2012), Character 169; Zhu *et al*. (2017), Character 150; Cloutier *et al*. (2020), Character 150; Clement *et al*. (2021), Character 150
 
 151. Termination of radius: radius and intermedium terminate at different levels (0); radius and intermedium terminate at same level (1)
 
-> Zhu *et al*. (2017), Character 151; Cloutier *et al*. (2020), Character 151; Clement *et al*. (2021), Character 
+> Zhu *et al*. (2017), Character 151; Cloutier *et al*. (2020), Character 151; Clement *et al*. (2021), Character 151
 
 152. Digits (parallel, segmented, non-branching endoskeletal elements relatively uniform in size and shape (radials or phalanges), and articulating one-to-one proximodistally, at the distal end of vertebrate paired appendages): absent (0); present (1)
 
-> Swartz (2012), Character 178; Zhu *et al*. (2017), Character 152;  Chen *et al*. (2018), Character 90; Cloutier *et al*. (2020), Character 152; Clement *et al*. (2021), Character 
+> Swartz (2012), Character 178; Zhu *et al*. (2017), Character 152;  Chen *et al*. (2018), Character 90; Cloutier *et al*. (2020), Character 152; Clement *et al*. (2021), Character 152
 
 > Clouitier et al. (2020): We modified Coates’ (1994) and Stewart et al.’s (2017) definitions to take into account digits in transitional fin to manus, thus we defined digits as parallel, segmented, non-branching endoskeletal elements relatively uniform in size and shape (radials or phalanges), and articulating one-to-one proximodistally, at the distal end of vertebrate paired appendages
 
 153. Dorsal and anal fins: present (0); absent (1)
 
-> Daeschler *et al*. (2006), Character 58; Swartz (2012), Character 191; Zhu *et al*. (2017), Character 153; Cloutier *et al*. (2020), Character 153; Clement *et al*. (2021), Character 
+> Daeschler *et al*. (2006), Character 58; Swartz (2012), Character 191; Zhu *et al*. (2017), Character 153; Cloutier *et al*. (2020), Character 153; Clement *et al*. (2021), Character 153
 
 154. Caudal fin: heterocercal (0); triphycercal (1); diphycercal (2)
 
-> Daeschler *et al*. (2006), Character 59 (in part); Swartz (2012), Character 193 (in part); Zhu *et al*. (2017), Character 154; Cloutier *et al*. (2020), Character 154; Clement *et al*. (2021), Character 
+> Daeschler *et al*. (2006), Character 59 (in part); Swartz (2012), Character 193 (in part); Zhu *et al*. (2017), Character 154; Cloutier *et al*. (2020), Character 154; Clement *et al*. (2021), Character 154
 
 155. Epichordal radials in caudal fin: absent (0); present (1)
 
-> Swartz (2012), Character 194; Zhu *et al*. (2017), Character 155; Cloutier *et al*. (2020), Character 155; Clement *et al*. (2021), Character 
+> Swartz (2012), Character 194; Zhu *et al*. (2017), Character 155; Cloutier *et al*. (2020), Character 155; Clement *et al*. (2021), Character 155
 
 156. Well-ossified ribs: absent (0); present (1)
 
-> Zhu *et al*. (2017), Character 156; Cloutier *et al*. (2020), Character 156; Clement *et al*. (2021), Character 
+> Zhu *et al*. (2017), Character 156; Cloutier *et al*. (2020), Character 156; Clement *et al*. (2021), Character 156
 
 157. Expanded ribs: absent (0); present (1)
 
-> Daeschler *et al*. (2006), Character 113; Swartz (2012), Character 181; Zhu *et al*. (2017), Character 157; Cloutier *et al*. (2020), Character 157; Clement *et al*. (2021), Character 
+> Daeschler *et al*. (2006), Character 113; Swartz (2012), Character 181; Zhu *et al*. (2017), Character 157; Cloutier *et al*. (2020), Character 157; Clement *et al*. (2021), Character 157
 
 158. Imbricate ribs: absent (0); present (1)
 
-> Daeschler *et al*. (2006), Character 114; Swartz (2012), Character 182; Zhu *et al*. (2017), Character 158; Cloutier *et al*. (2020), Character 158; Clement *et al*. (2021), Character 
+> Daeschler *et al*. (2006), Character 114; Swartz (2012), Character 182; Zhu *et al*. (2017), Character 158; Cloutier *et al*. (2020), Character 158; Clement *et al*. (2021), Character 158
 
 159. Sacrum: absent (0); present (1)
 
-> Zhu *et al*. (2017), Character 159; Cloutier *et al*. (2020), Character 159; Clement *et al*. (2021), Character 
+> Zhu *et al*. (2017), Character 159; Cloutier *et al*. (2020), Character 159; Clement *et al*. (2021), Character 159
 
 160. Intercentra fused to solid ring: no (0); yes (1)
 
-> Zhu *et al*. (2017), Character 160; Cloutier *et al*. (2020), Character 160; Clement *et al*. (2021), Character 
+> Zhu *et al*. (2017), Character 160; Cloutier *et al*. (2020), Character 160; Clement *et al*. (2021), Character 160
 
 161. Ossified supraoccipital plug for the attachment of the supraneural ligament: present (0); absent (1)
 
-> Zhu *et al*. (2017), Character 161; Cloutier *et al*. (2020), Character 161; Clement *et al*. (2021), Character 
+> Zhu *et al*. (2017), Character 161; Cloutier *et al*. (2020), Character 161; Clement *et al*. (2021), Character 161
 
 162. Scales: rhombic (0); intermediate between rhombic and round (1); round (2)
 
-> *ordered*; Daeschler *et al*. (2006), Character 61 (in part); Swartz (2012), Character 199 (in part); Zhu *et al*. (2017), Character 162; Cloutier *et al*. (2020), Character 162; Clement *et al*. (2021), Character 
+> *ordered*; Daeschler *et al*. (2006), Character 61 (in part); Swartz (2012), Character 199 (in part); Zhu *et al*. (2017), Character 162; Cloutier *et al*. (2020), Character 162; Clement *et al*. (2021), Character 162
 
 > Cloutier et al. (2020): The original character states of Zhu et al. (2017) have been reordered to form a morphocline.
 
 163. Median boss on round scale: present (0); absent (1)
 
-> Zhu *et al*. (2017), Character 163; Cloutier *et al*. (2020), Character 163; Clement *et al*. (2021), Character 
+> Zhu *et al*. (2017), Character 163; Cloutier *et al*. (2020), Character 163; Clement *et al*. (2021), Character 163
 
 164. Long basal segments of lepidotrichia in pectoral fin: no (0); yes (1)
 
-> Swartz (2012), Character 180, Zhu *et al*. (2017), Character 164; Cloutier *et al*. (2020), Character 164; Clement *et al*. (2021), Character 
+> Swartz (2012), Character 180, Zhu *et al*. (2017), Character 164; Cloutier *et al*. (2020), Character 164; Clement *et al*. (2021), Character 164
 
 165. Basal scutes associated with fins: absent (0); present (1)
 
-> Daeschler *et al*. (2006), Character 60; Swartz (2012), Character 198; Zhu *et al*. (2017), Character 165; Cloutier *et al*. (2020), Character 165; Clement *et al*. (2021), Character 
+> Daeschler *et al*. (2006), Character 60; Swartz (2012), Character 198; Zhu *et al*. (2017), Character 165; Cloutier *et al*. (2020), Character 165; Clement *et al*. (2021), Character 165
 
 166. Pore-canal network: absent (0); present (1)
 
-> Zhu *et al*. (2017), Character 166; Cloutier *et al*. (2020), Character 166; Clement *et al*. (2021), Character 
+> Zhu *et al*. (2017), Character 166; Cloutier *et al*. (2020), Character 166; Clement *et al*. (2021), Character 166
 
 167. Enamel lining of pore canals: absent (0); present (1)
 
-> Zhu *et al*. (2017), Character 167; Cloutier *et al*. (2020), Character 167; Clement *et al*. (2021), Character 
+> Zhu *et al*. (2017), Character 167; Cloutier *et al*. (2020), Character 167; Clement *et al*. (2021), Character 167
 
 168. Rostral tubuli: absent (0); present (1)
 
-> Swartz (2012), Character 2; Zhu *et al*. (2017), Character 168; Cloutier *et al*. (2020), Character 168; Clement *et al*. (2021), Character 
+> Swartz (2012), Character 2; Zhu *et al*. (2017), Character 168; Cloutier *et al*. (2020), Character 168; Clement *et al*. (2021), Character 168
 
 169. Plicidentine: absent (0); simple or generalized polyplocodont (1); labyrinthodont (2); dendrodont (3)
 
-> Daeschler *et al*. (2006), Character 10; Swartz (2012), Character 201; Zhu *et al*. (2017), Character 169; Cloutier *et al*. (2020), Character 169; Clement *et al*. (2021), Character 
+> Daeschler *et al*. (2006), Character 10; Swartz (2012), Character 201; Zhu *et al*. (2017), Character 169; Cloutier *et al*. (2020), Character 169; Clement *et al*. (2021), Character 169
 
 170. Postspiracular: absent (0); present (1)
 
-> Daeschler *et al*. (2006), Character 37 (in part), Character 40 (in part); Swartz (2012), Character 124 (in part); Zhu *et al*. (2017), Character 29 (in part); Cloutier *et al*. (2020), Character 170; Clement *et al*. (2021), Character 
+> Daeschler *et al*. (2006), Character 37 (in part), Character 40 (in part); Swartz (2012), Character 124 (in part); Zhu *et al*. (2017), Character 29 (in part); Cloutier *et al*. (2020), Character 170; Clement *et al*. (2021), Character 170
 
 > Cloutier et al. (2020): This character is part of character 29 by Zhu et al. (2017). We divided the original character because we do not agree with the assumption that the extratemporal is homologous with the postspiracular.
 
 171. Posterior carotid opening in parasphenoid: large (0); small (1)
 
-> Swartz (2012), Character 10 (in part); Zhu *et al*. (2017), Character 70 (in part); Cloutier *et al*. (2020), Character 171; Clement *et al*. (2021), Character 
+> Swartz (2012), Character 10 (in part); Zhu *et al*. (2017), Character 70 (in part); Cloutier *et al*. (2020), Character 171; Clement *et al*. (2021), Character 171
 
 > Cloutier et al. (2020): This character is linked with character 70 (Zhu et al. 2017)
 
 172. Interclavicle ornamentation: unornamented (0); ornamented (1)
 
-> Daeschler *et al*. (2006), Character 83 (in part); Swartz (2012), Character 158 (in part); Zhu *et al*. (2017), Character 134 (in part); Cloutier *et al*. (2020), Character 172; Clement *et al*. (2021), Character 
+> Daeschler *et al*. (2006), Character 83 (in part); Swartz (2012), Character 158 (in part); Zhu *et al*. (2017), Character 134 (in part); Cloutier *et al*. (2020), Character 172; Clement *et al*. (2021), Character 172
 
 > Cloutier et al. (2020): This character corresponds in part of character 134 of Zhu et al. (2017).
 
 173. Choana: absent (0); present (1)
 
-> Daeschler *et al*. (2006), Character 22; Cloutier *et al*. (2020), Character 173; Clement *et al*. (2021), Character 
+> Daeschler *et al*. (2006), Character 22; Cloutier *et al*. (2020), Character 173; Clement *et al*. (2021), Character 173
 
 174. Anocleithrum: exposed (0); subdermal (1)
 
-> Daeschler *et al*. (2006), Character 54; Cloutier *et al*. (2020), Character 174; Clement *et al*. (2021), Character 
+> Daeschler *et al*. (2006), Character 54; Cloutier *et al*. (2020), Character 174; Clement *et al*. (2021), Character 174
 
 175. Archipterygial pectoral fin: no (0); yes (1)
 
-> Daeschler *et al*. (2006), Character 55; Cloutier *et al*. (2020), Character 175; Clement *et al*. (2021), Character 
+> Daeschler *et al*. (2006), Character 55; Cloutier *et al*. (2020), Character 175; Clement *et al*. (2021), Character 175
 
 176. Submandibulars: present (0); absent (1)
 
-> Daeschler *et al*. (2006), Character 80 (in part); Swartz (2012), Character 135 (in part); Cloutier *et al*. (2020), Character 176; Clement *et al*. (2021), Character 
+> Daeschler *et al*. (2006), Character 80 (in part); Swartz (2012), Character 135 (in part); Cloutier *et al*. (2020), Character 176; Clement *et al*. (2021), Character 176
 
 177. Gular: present (0); absent (1)
 
-> Daeschler *et al*. (2006), Character 80 (in part); Swartz (2012), Character 135 (in part); Cloutier *et al*. (2020), Character 177; Clement *et al*. (2021), Character 
+> Daeschler *et al*. (2006), Character 80 (in part); Swartz (2012), Character 135 (in part); Cloutier *et al*. (2020), Character 177; Clement *et al*. (2021), Character 177
 
 178. Contact between postorbital and lacrimal: absent (0); present (1)
 
-> Daeschler *et al*. (2006), Character 84; Swartz (2012), Character 99; Cloutier *et al*. (2020), Character 178; Clement *et al*. (2021), Character 
+> Daeschler *et al*. (2006), Character 84; Swartz (2012), Character 99; Cloutier *et al*. (2020), Character 178; Clement *et al*. (2021), Character 178
 
 179. Contact between postfrontal and supratemporal: no (0); yes (1)
 
-> Daeschler *et al*. (2006), Character 85; Cloutier *et al*. (2020), Character 179; Clement *et al*. (2021), Character 
+> Daeschler *et al*. (2006), Character 85; Cloutier *et al*. (2020), Character 179; Clement *et al*. (2021), Character 179
 
 180. Transverse joint at the level of the ulnare, intermedium and radius: absent (0); present (1)
 
-> Daeschler *et al*. (2006), Character 89; Swartz (2012), Character 173; Cloutier *et al*. (2020), Character 180; Clement *et al*. (2021), Character 
+> Daeschler *et al*. (2006), Character 89; Swartz (2012), Character 173; Cloutier *et al*. (2020), Character 180; Clement *et al*. (2021), Character 180
 
 181. Branched radials distal to the ulnare: absent (0); present (1)
 
-> Daeschler *et al*. (2006), Character 93, Swartz (2012), Character 176; Cloutier *et al*. (2020), Character 181; Clement *et al*. (2021), Character 
+> Daeschler *et al*. (2006), Character 93, Swartz (2012), Character 176; Cloutier *et al*. (2020), Character 181; Clement *et al*. (2021), Character 181
 
 182. Olecranon process on ulna: absent (0); present (1)
 
-> Daeschler *et al*. (2006), Character 95; Swartz (2012), Character 172; Cloutier *et al*. (2020), Character 182; Clement *et al*. (2021), Character 
+> Daeschler *et al*. (2006), Character 95; Swartz (2012), Character 172; Cloutier *et al*. (2020), Character 182; Clement *et al*. (2021), Character 182
 
 183. Radial facet : faces distally (0); has some ventrally directed component (1)
 
-> Daeschler *et al*. (2006), Character 98; Swartz (2012), Character 167; Cloutier *et al*. (2020), Character 183; Clement *et al*. (2021), Character 
+> Daeschler *et al*. (2006), Character 98; Swartz (2012), Character 167; Cloutier *et al*. (2020), Character 183; Clement *et al*. (2021), Character 183
 
 184. Ulnar facet: faces distally (0); has some ventrally directed component (1)
 
-> Daeschler *et al*. (2006), Character 99; Swartz (2012), Character 171; Cloutier *et al*. (2020), Character 184; Clement *et al*. (2021), Character 
+> Daeschler *et al*. (2006), Character 99; Swartz (2012), Character 171; Cloutier *et al*. (2020), Character 184; Clement *et al*. (2021), Character 184
 
 185. Glenoid position: elevated from plane formed by clavicles (0); offset ventrally to lie at same level as clavicular plane (1)
 
-> Daeschler *et al*. (2006), Character 104; Swartz (2012), Character 155; Cloutier *et al*. (2020), Character 185; Clement *et al*. (2021), Character 
+> Daeschler *et al*. (2006), Character 104; Swartz (2012), Character 155; Cloutier *et al*. (2020), Character 185; Clement *et al*. (2021), Character 185
 
 186. Glenoid orientation: posterior orientation (0); lateral component to glenoid orientation (1)
 
-> Daeschler *et al*. (2006), Character 110; Swartz (2012), Character 156; Cloutier *et al*. (2020), Character 186; Clement *et al*. (2021), Character 
+> Daeschler *et al*. (2006), Character 110; Swartz (2012), Character 156; Cloutier *et al*. (2020), Character 186; Clement *et al*. (2021), Character 186
 
 187. Premaxillary tooth proportion: all approximately same size (0); enlarged anterior tooth (1); posteriormost teeth at least twice height of anteriormost teeth (2)
 
-> Swartz (2012), Character 53; Chen *et al*. (2018), Character 35 (in part); Cloutier *et al*. (2020), Character 187; Clement *et al*. (2021), Character 
+> Swartz (2012), Character 53; Chen *et al*. (2018), Character 35 (in part); Cloutier *et al*. (2020), Character 187; Clement *et al*. (2021), Character 187
 
 188. Anocleithrum: oblong with distinct anterior overlap area (0); dropshaped with no anterior overlap area (1); absent (2)
 
-> Swartz (2012), Character 147; Chen *et al*. (2018), Character 87; Cloutier *et al*. (2020), Character 188; Clement *et al*. (2021), Character 
+> Swartz (2012), Character 147; Chen *et al*. (2018), Character 87; Cloutier *et al*. (2020), Character 188; Clement *et al*. (2021), Character 188
 
 189. Glenoid proportions: height/width ratio 60% or greater (0); height/width ratio 40-50% (1)
 
-> Swartz (2012), Character 157; Cloutier *et al*. (2020), Character 189; Clement *et al*. (2021), Character 
+> Swartz (2012), Character 157; Cloutier *et al*. (2020), Character 189; Clement *et al*. (2021), Character 189
 
 190. Interclavicle shape: ovoid (0); kite-shaped (1); kite-shaped with posterior stalk (2)
 
-> Swartz (2012), Character 159; Chen *et al*. (2018), Character 99; Cloutier *et al*. (2020), Character 190; Clement *et al*. (2021), Character 
+> Swartz (2012), Character 159; Chen *et al*. (2018), Character 99; Cloutier *et al*. (2020), Character 190; Clement *et al*. (2021), Character 190
 
 191. Deltoid and supinator process on humerus: absent (0); present (1)
 
-> Swartz (2012), Character 163; Cloutier *et al*. (2020), Character 191; Clement *et al*. (2021), Character 
+> Swartz (2012), Character 163; Cloutier *et al*. (2020), Character 191; Clement *et al*. (2021), Character 191
 
 192. Anterior termination of ventral ridge: adjacent to the caput humeri (0); offset distally toward the proximodistal mid-region of anterior margin of humerus (1)
 
-> Swartz (2012), Character 164; Cloutier *et al*. (2020), Character 192; Clement *et al*. (2021), Character 
+> Swartz (2012), Character 164; Cloutier *et al*. (2020), Character 192; Clement *et al*. (2021), Character 192
 
 193. Radius and ulna: radius much longer than ulna (0); approximately equal length (1)
 
-> Swartz (2012), Character 166, Chen *et al*. (2018), Character 102; Cloutier *et al*. (2020), Character 193; Clement *et al*. (2021), Character 
+> Swartz (2012), Character 166, Chen *et al*. (2018), Character 102; Cloutier *et al*. (2020), Character 193; Clement *et al*. (2021), Character 193
 
 194. Lepidotrichia in paired appendages: present (0); absent (1)
 
-> Swartz (2012), Character 179, Chen *et al*. (2018), Character 100; Cloutier *et al*. (2020), Character 194; Clement *et al*. (2021), Character 
+> Swartz (2012), Character 179, Chen *et al*. (2018), Character 100; Cloutier *et al*. (2020), Character 194; Clement *et al*. (2021), Character 194
 
 195. Ribs, trunk: no longer than diameter of intercentrum (0); longer (1)
 
-> Swartz (2012), Character 183; Chen *et al*. (2018), Character 103; Cloutier *et al*. (2020), Character 195; Clement *et al*. (2021), Character 
+> Swartz (2012), Character 183; Chen *et al*. (2018), Character 103; Cloutier *et al*. (2020), Character 195; Clement *et al*. (2021), Character 195
 
 196. Ribs, trunk: all cylindrical (0); some or all bear flanges from posterior margin that narrow distally (1); some or all flare distally (2)
 
-> Swartz (2012), Character 185; Chen *et al*. (2018), Character 105; Cloutier *et al*. (2020), Character 196; Clement *et al*. (2021), Character 
+> Swartz (2012), Character 185; Chen *et al*. (2018), Character 105; Cloutier *et al*. (2020), Character 196; Clement *et al*. (2021), Character 196
 
 197. Supraneural spines: present (0); absent (1)
 
-> Swartz (2012), Character 186; Cloutier *et al*. (2020), Character 197; Clement *et al*. (2021), Character 
+> Swartz (2012), Character 186; Cloutier *et al*. (2020), Character 197; Clement *et al*. (2021), Character 197
 
 198. Number of transverse flexion distal to ulnare: 1-2 rows (0); 3 rows (1); 4 rows (2); 5-6 rows (3)
 
-> *ordered*; Cloutier *et al*. (2020), Character 198; Clement *et al*. (2021), Character 
+> *ordered*; Cloutier *et al*. (2020), Character 198; Clement *et al*. (2021), Character 198
 
 199. Number radials articulating on ulnare: 0-2 radials (0); 3-4 radials (1); 5 radials (2)
 
-> *ordered*; Daeschler *et al*. (2006), Character 90 (in part), Swartz (2012), Character 174 (in part); Cloutier *et al*. (2020), Character 199; Clement *et al*. (2021), Character 
+> *ordered*; Daeschler *et al*. (2006), Character 90 (in part), Swartz (2012), Character 174 (in part); Cloutier *et al*. (2020), Character 199; Clement *et al*. (2021), Character 199
 
 200. Number of digits: five or less (0); more than five (1)
 
-> Cloutier *et al*. (2020), Character 200; Clement *et al*. (2021), Character 
+> Cloutier *et al*. (2020), Character 200; Clement *et al*. (2021), Character 200
 
 201. Radiale: absent (0); small (approximately one fifth the length of the radius) (1); large (approximately half the length of the radius) (2)
 
-> *ordered*; Cloutier *et al*. (2020), Character 201; Clement *et al*. (2021), Character 
+> *ordered*; Cloutier *et al*. (2020), Character 201; Clement *et al*. (2021), Character 201
 
 202. Tabular horn. A tabular horn is formed by an embayment in the posterior margin of the tabular: absent (0); present (1)
 
-> Cloutier *et al*. (2020), Character 202; Clement *et al*. (2021), Character 
+> Cloutier *et al*. (2020), Character 202; Clement *et al*. (2021), Character 202
 
 203. Long medioventral process of premaxilla absent (0); present (1).
 
