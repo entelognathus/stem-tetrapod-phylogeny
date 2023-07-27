@@ -4,7 +4,13 @@
 
 > The dipnomorph taxa *Youngolepis*, *Diabolepis*, *Powichthys*, *Porolepis* and *Glyptolepis* were designated as a monophyletic outgroup. Multistate characters were treated as unordered unless they formed clear morphoclines, in which case they were ordered (characters 7, 10, 20, 34, 42, 63, 73, 78, 84, 98, 100, 107, 130, 139, 162, 198, 199 and 201). All characters are weighted equally.
 
-> Characters 203-206 were added by Clement *et al*. (2021).
+> Characters 203-206 were added by Clement *et al*. (2021). Rather than being cited as a composite taxon, *Megalichthys* was represented by *M. hibberti* and *M. laticeps* in addition to *M. mullisoni* (Downs & Daeschler, 2020), all as separate species in Clement *et al*. (2021). *Mahalalepis resima* (Young, Long & Ritchie, 1992), *Askerichthys heintziorum* (Borgen & Nakrem, 2016), *Palatinichthys laticeps* (Witzmann & Schoch, 2012), *Sengoerichthys ottoman* (Janvier, Clément & Cloutier, 2007), were added to the taxon list of Zhu *et al*. (2017) and Cloutier *et al*. (2020).
+
+> *Parmastega* was added in the dataset by Simões and Pierce (2021). Simões and Pierce (2021) removed A total of 27 characters and recorded seven characters (three split into two characters), altering 15% of the original dataset and resulting in a revised and updated dataset for their subsequent analyses. This dataset was not followed herein. 
+
+> *Letognathus hardingi*
+
+
 
 1. Position of orbits: lateral and widely separated (0); dorsal and close together (1)
 
@@ -859,3 +865,4 @@
 > Clement *et al*. (2021), Character 206
 
 > Chen, D., et al. A partial lower jaw of a tetrapod from ‘‘Romer’s Gap’’. Earth and Environmental Science Transactions of the Royal Society of Edinburgh 108, 55–65 (2018).
+> Simões TR, Pierce SE. 2021. Sustained high rates of morphological evolution during the rise of tetrapods. Nature Ecology and Evolution 1–12 DOI 10.1038/s41559-021-01532-x.
