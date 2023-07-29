@@ -6,7 +6,7 @@
 
 > Characters 203-206 were added by Clement *et al*. (2021). Rather than being cited as a composite taxon, *Megalichthys* was represented by *M. hibberti* and *M. laticeps* in addition to *M. mullisoni* (Downs & Daeschler, 2020), all as separate species in Clement *et al*. (2021). *Mahalalepis resima* (Young, Long & Ritchie, 1992), *Askerichthys heintziorum* (Borgen & Nakrem, 2016), *Palatinichthys laticeps* (Witzmann & Schoch, 2012), *Sengoerichthys ottoman* (Janvier, Clément & Cloutier, 2007), were added to the taxon list of Zhu *et al*. (2017) and Cloutier *et al*. (2020).
 
-> *Parmastega* was added in the dataset by Simões and Pierce (2021). Simões and Pierce (2021) removed A total of 27 characters and recorded seven characters (three split into two characters), altering 15% of the original dataset and resulting in a revised and updated dataset for their subsequent analyses. This dataset was not followed herein. 
+> *Parmastega* was added in the dataset by Simões and Pierce (2021). Simões and Pierce (2021) removed a total of 27 characters and recorded seven characters (**three split into two characters**), altering 15% of the original dataset and resulting in a revised and updated dataset for their subsequent analyses. This dataset was not followed herein. 
 
 > *Letognathus hardingi*
 
@@ -706,7 +706,7 @@
 
 169. Plicidentine: absent (0); simple or generalized polyplocodont (1); labyrinthodont (2); dendrodont (3)
 
-> Daeschler *et al*. (2006), Character 10; Swartz (2012), Character 201; Zhu *et al*. (2017), Character 169; Cloutier *et al*. (2020), Character 169; Simões and Pierce (2021), Character 147; Clement *et al*. (2021), Character 169
+> Daeschler *et al*. (2006), Character 10; Swartz (2012), Character 201; Zhu *et al*. (2017), Character 169; Cloutier *et al*. (2020), Character 169; **Simões and Pierce (2021), Characters 147, 148**; Clement *et al*. (2021), Character 169
 
 170. Postspiracular: absent (0); present (1)
 
