@@ -1,6 +1,6 @@
 # Character list of early tetrapodomorphs
  
-## Daeschler et al. (2006); Swartz (2012); Clack et al. (2012); Zhu et al. (2017); Chen et al. (2018); Cloutier et al. (2020).
+## Daeschler et al. (2006); Swartz (2012); Clack et al. (2012); Zhu et al. (2017); Chen et al. (2018); Cloutier et al. (2020); Lu et al. (2012)
 
 > The dipnomorph taxa *Youngolepis*, *Diabolepis*, *Powichthys*, *Porolepis* and *Glyptolepis* were designated as a monophyletic outgroup. Multistate characters were treated as unordered unless they formed clear morphoclines, in which case they were ordered (characters 7, 10, 20, 34, 42, 63, 73, 78, 84, 98, 100, 107, 130, 139, 162, 198, 199 and 201). All characters are weighted equally.
 
@@ -12,11 +12,11 @@
 
 1. Position of orbits: lateral and widely separated (0); dorsal and close together (1)
 
-> Daeschler *et al*. (2006), Character 45; Swartz (2012), Character 97; Zhu *et al*. (2017), Character 1; Cloutier *et al*. (2020), Character 1; Simões and Pierce (2021), Character 1; Clement *et al*. (2021), Character 1
+> Daeschler *et al*. (2006), Character 45; Swartz (2012), Character 97; Zhu *et al*. (2017), Character 1; Cloutier *et al*. (2020), Character 1; Simões and Pierce (2021), Character 1; Clement *et al*. (2021), Character 1; Lu *et al*. (2012), Character 1
 
 2. Proportion of skull roof lying anterior to middle of orbits: <50% (0); ≧50% (1)
 
-> Daeschler *et al*. (2006), Character 75; Zhu *et al*. (2017), Character 2; Cloutier *et al*. (2020), Character 2; Clement *et al*. (2021), Character 2
+> Daeschler *et al*. (2006), Character 75; Zhu *et al*. (2017), Character 2; Cloutier *et al*. (2020), Character 2; Clement *et al*. (2021), Character 2; Lu *et al*. (2012), Character 2
 
 3. Facial lamina of premaxilla: vertical, indicating deep snout (0); curve posteriorly, indicating flattened snout (1)
 
@@ -28,11 +28,11 @@
 
 5. Orientation of anterior tectal and lateral rostral relative to anterior nostril: dorsal/ventral (0); posterior/anterior (1)
 
-> Daeschler *et al*. (2006), Character 23; Zhu *et al*. (2017), Character 5; Cloutier *et al*. (2020), Character 5; Simões and Pierce (2021), Character 3; Clement *et al*. (2021), Character 5
+> Daeschler *et al*. (2006), Character 23; Zhu *et al*. (2017), Character 5; Cloutier *et al*. (2020), Character 5; Simões and Pierce (2021), Character 3; Clement *et al*. (2021), Character 5; Lu *et al*. (2012), Character 4
 
-6. Postrostral: absent (0); postrostral mosaic of small variable bones (1); large median postrostral, with or without accessory bones (2)
+6. Postrostral: absent (0); postrostral mosaic of small variable bones (1); large median postrostral, with or without accessory bones (2); paired E bones (3)
 
-> Daeschler *et al*. (2006), Character 34 (in part); Swartz (2012), Character 86 (in part); Zhu *et al*. (2017), Character 6; Cloutier *et al*. (2020), Character 6; Simões and Pierce (2021), Character 4; Clement *et al*. (2021), Character 6
+> Daeschler *et al*. (2006), Character 34 (in part); Swartz (2012), Character 86 (in part); Zhu *et al*. (2017), Character 6; Cloutier *et al*. (2020), Character 6; Simões and Pierce (2021), Character 4; Clement *et al*. (2021), Character 6; Lu *et al*. (2012), Character 5
 
 7. Number of nasals: more than two (0); two (1); one (2)
 
