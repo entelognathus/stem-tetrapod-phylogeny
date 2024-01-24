@@ -618,7 +618,7 @@
 
 142. Body of humerus: cylindrical (0); flattened rectangular (1)
 
-> Swartz (2012), Character 162, Zhu *et al*. (2017), Character 142; Cloutier *et al*. (2020), Character 142; Simões and Pierce (2021), Character 120; Clement *et al*. (2021), Character 142
+> Swartz (2012), Character 162, Zhu *et al*. (2017), Character 142; Cloutier *et al*. (2020), Character 142; Simões and Pierce (2021), Character 120; Clement *et al*. (2021), Character 142; Lu *et al*. (2012), Character 217
 
 143. Caput humeri: almost flat (0); ball-shaped (1); elongate (2)
 
@@ -1183,6 +1183,206 @@ posterior margin of postparietals (1)
 
 > Lu *et al*. (2012), character 145
 
+278. Coronoid fangs larger than marginal teeth: yes (0); no (1)
 
+> Lu *et al*. (2012), character 148
 
+279. Coronoid proportions: posterior coronoid similar in length to, or shorter than middle coronoid (0); posterior coronoid significantly longer than middle coronoid (1)
 
+> Lu *et al*. (2012), character 154
+
+280. Prearticular: rear part with conspicuous horizontal ledge (0); rear part flat (1)
+
+> Lu *et al*. (2012), character 157
+
+281. Prearticular‐dentary contact: present (0); absent (1)
+
+> Lu *et al*. (2012), character 158
+
+282. Teeth radial rows on prearticular: absent (0); present (1)
+
+> Lu *et al*. (2012), character 160
+
+283. Labial pit: absent (0); present (1)
+
+> Lu *et al*. (2012), character 162
+
+284. Meckelian bone exposed immediately anterior to first coronoid: yes (0); no (1)
+
+> Lu *et al*. (2012), character 164
+
+285. Hyomandibula orientation: posteroventral, distally terminating near jaw joint (0); almost horizontal orientation, opercular process high up dorsally (1); very short, laterally directed (2)
+
+> Lu *et al*. (2012), character 165
+
+286. Width of submandibulars: narrow (0); broad (1)
+
+> Lu *et al*. (2012), character 174
+
+287. Pore clusters: absent (0); present (1)
+
+> Lu *et al*. (2012), character 175
+
+288. Ethmoid commissure: present (0); absent (1)
+
+> Lu *et al*. (2012), character 176
+
+289. Contact of supraorbital and infraorbital canals: in contact rostrally (0); not in contact rostrally (1)
+
+> Lu *et al*. (2012), character 182
+
+290. Infraorbital canal follows premaxillary suture: no (0); yes (1)
+
+> Lu *et al*. (2012), character 186
+
+291. Premaxilla canal‐bearing: yes (0); no (1)
+
+> Lu *et al*. (2012), character 187
+
+292. Sensory canal or pit‐line associated with maxilla: absent (0); present (1)
+
+> Lu *et al*. (2012), character 188
+
+293. Jugal canal: present (0); absent (1)
+
+> Lu *et al*. (2012), character 189
+
+294. Anterior portion of preopercular canal: present (0); absent (1)
+
+> Lu *et al*. (2012), character 190
+
+295. Course of mandibular canal: not passing through most posterior infradentary (0); passing through most posterior infradentary (1)
+
+> Lu *et al*. (2012), character 191
+
+296. Anterior pit‐line of lower jaw: not developed into enclosed canal (0); developed into enclosed canal linking oral and mandibular canals (1)
+
+> Lu *et al*. (2012), character 192
+
+297. Middle pit‐line of lower jaw: not developed into enclosed canal (0); developed into enclosed oral canal or intermediate morphology (1)
+
+> Lu *et al*. (2012), character 193
+
+298. Supracleithrum and postemporal: enlarged, bigger than scales (0); small, scale‐like bones (1); lost from shoulder girdle (2)
+
+> Lu *et al*. (2012), character 194
+
+299. Orientation of cleithrum: vertically oriented: tilted less than 10 degrees caudally (0); angulated: tilted over 10 degrees caudally (1)
+
+> Lu *et al*. (2012), character 196
+
+300. Dorsal cleithrum (AL of the Placodermi), ventral cleithrum (AVL of the Placodermi) and pectoral spine (SP of the Placodermi): not fused (0); fused (1)
+
+> Lu *et al*. (2012), character 198
+
+301. Dorsal end of cleithrum: pointed (0); broad and rounded (1)
+
+> Lu *et al*. (2012), character 199
+
+302. Paired pectoral spines: absent (0); present (1)
+
+> Lu *et al*. (2012), character 200
+
+303. Posterior process of cleithrum or pectoral spine: present (0); absent (1)
+
+> Lu *et al*. (2012), character 201
+
+304. Relationship of clavicle to cleithrum: ascending process of clavicle overlapping cleithrum laterally (0); ascending process of clavicle wrapping round anterior edge of cleithrum, overlapping it both laterally and mesially (1)
+
+> Lu *et al*. (2012), character 202
+
+305. Interclavicle: absent (0); present (1)
+
+> Lu *et al*. (2012), character 205
+
+306. Triradiate scapulocoracoid: absent (0); present (1)
+
+> Lu *et al*. (2012), character 207
+
+307. Attachment of triradiate scapulocoracoid to cleithrum: tripodal, via three processes (0); via a single dorsal process of scapulocoracoid that lies flush against internal surface of (1); complete fusion between surfaces of the scapula and cleithrum (2)
+
+> Lu *et al*. (2012), character 208
+
+308. Endoskeletal supports in pectoral fin: multiple elements articulating with girdle (0); single element ("humerus") articulating with girdle (1)
+
+> Lu *et al*. (2012), character 213
+
+309. Axis of pectoral fin skeleton: no more than 5 axial elements (0); more than 5 axial elements (1)
+
+> Lu *et al*. (2012), character 214
+
+310. Shoulder joint polarity: caput humeri convex (0); caput humeri concave (1)
+
+> Lu *et al*. (2012), character 216
+
+311. Caput humeri: rounded to hemispherical shaped (0); subrectangular, much wider than high (1); elongate (bifid or strap‐shaped) (2)
+
+> Lu *et al*. (2012), character 219
+
+312. Short ventral process on entepicondyle: absent (0); present (1)
+
+> Lu *et al*. (2012), character 220
+
+313. Ectepicondylar process: terminates proximal to epipodial facets (0); extends distal to epipodial facets (1)
+
+> Lu *et al*. (2012), character 222
+
+314. Articulations for more than two radials on ulnare: absent (0); present (1)
+
+> Lu *et al*. (2012), character 224
+
+315. Ventral ridge orientation: diagonal to long axis of the humerus (0); perpendicular to long axis of humerus (1)
+
+> Lu *et al*. (2012), character 227
+
+316. Radius and ulna facets: in same transverse plane (0); stepped, in different planes (1)
+
+> Lu *et al*. (2012), character 231
+
+317. Intermedium shape: narrow, tapered (0); broad or flared (1)
+
+> Lu *et al*. (2012), character 234
+
+318. Posterior radials in posterior dorsal fin: not branched (0); branched (1)
+
+> Lu *et al*. (2012), character 238
+
+319. Basal scutes (on fins): absent (0); present (1)
+
+> Lu *et al*. (2012), character 239
+
+320. Median fin spines: absent (0); present (1)
+
+> Lu *et al*. (2012), character 240
+
+321. Relative size of epichordal and hypochordal lobes of caudal fin: epichordal lobe less developed than hypochordal (0); epichordal and hypochordal lobes equally developed (1); epichordal lobe developed than hypochordal (2)
+
+> Lu *et al*. (2012), character 242
+
+322. Anterodorsal process on scale: absent (0); present (1)
+
+> Lu *et al*. (2012), character 251
+
+323. Scales with interlocking pegs and sockets: absent (0); present (1)
+
+> Lu *et al*. (2012), character 253
+
+324. Interlocking lepidotrichia: absent (0); present (1)
+
+> Lu *et al*. (2012), character 255
+
+325. Dermal bone surface with large openings of pore canals: absent (0); present (1)
+
+> Lu *et al*. (2012), character 257
+
+326. Westoll‐lines: absent (0); present (1)
+
+> Lu *et al*. (2012), character 259
+
+327. Rostral organ: absent (0); present (1)
+
+> Lu *et al*. (2012), character 261
+
+328. Resorption and redeposition of odontodes + enamel: lacking (0); partially developed (1); developed (2)
+
+> Lu *et al*. (2012), character 262
