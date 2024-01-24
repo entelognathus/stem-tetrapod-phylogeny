@@ -925,3 +925,77 @@
 213. B‐bone: absent (0); present (1)
 
 > Lu *et al*. (2012), character 13
+
+214. Dermosphenotic: absent (0); present (1)
+
+> Lu *et al*. (2012), character 17
+
+215. Paired bones anterior to parietals: absent (0); present (1)
+
+> Lu *et al*. (2012), character 20
+
+216. Anterior margin of parietal: between or in front of orbits (0); slightly posterior to orbits (1); much posterior to orbits (2)
+
+> Lu *et al*. (2012), character 21
+
+217. Pineal eminence (in those taxa with no pineal foramen): absent (0); present (1)
+
+> Lu *et al*. (2012), character 24
+
+218. Margins of postparietals and parietals participating in dermal intracranial joint: smooth (0); jagged (1)
+
+> Lu *et al*. (2012), character 28
+
+219. Number of marginal bones alongside postparietal: single (0); two or more (1)
+
+> Lu *et al*. (2012), character 32
+
+220. Posterior margin of tabulars: anterior to posterior margin of postparietals (0); level with
+posterior margin of postparietals (1)
+
+> Lu *et al*. (2012), character 35
+
+221. Internasal septum: narrow (0); broad (1)
+
+> Lu *et al*. (2012), character 39
+
+222. Fenestra ventralis: absent (0); present (1); common ventral fenestra for anterior and posterior nostrils (2)
+
+> Lu *et al*. (2012), character 41
+
+223. Postorbital process on braincase: present (0); absent (1)
+
+> Lu *et al*. (2012), character 42
+
+224. Ethmoid articulation for palatoquadrate: placed on postnasal wall (0); majority of facet located anterior to postnasal wall (1); extends posteriorly to the level of N.II (2)
+
+> Lu *et al*. (2012), character 45
+
+225. Eyestalk or unfinished area for similar structure: absent (0); present (1)
+
+> Lu *et al*. (2012), character 46
+
+226. Postorbital pillar: absent (0); present (1)
+
+> Lu *et al*. (2012), character 47
+
+227. Autopalatine fossa bearing unfinished articular surfaces: absent (0); present (1)
+
+> Lu *et al*. (2012), character 48
+
+228. Basipterygoid process: small knob‐like process (0); developed as a broad platform (1)
+
+> Lu *et al*. (2012), character 49
+
+229. Unconstricted cranial notochord: absent (0); present (1)
+
+> Lu *et al*. (2012), character 52
+
+230. Orientation of intracranial joint or fissure: vertical or anteroventrally slanting (0); posteroventrally slanting (1)
+
+> Lu *et al*. (2012), character 54
+
+231. Position of intracranial joint or fissure relative to cranial nerves: joint through profundus foramen (0); joint through trigeminal foramen (1)
+
+> Lu *et al*. (2012), character 55
+
