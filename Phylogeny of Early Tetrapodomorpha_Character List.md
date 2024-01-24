@@ -999,3 +999,190 @@ posterior margin of postparietals (1)
 
 > Lu *et al*. (2012), character 55
 
+232. Articulation facet with hyomandibular: single‐headed (0), double‐headed (1)
+
+> Lu *et al*. (2012), character 57
+
+233. Hyomandibular facets in those taxa where they straddle the level of the jugular canal: narrowly separated or confluent (0), broadly separated (1)
+
+> Lu *et al*. (2012), character 59
+
+234. Accessory fenestration in otic capsule: absent (0); present (1)
+
+> Lu *et al*. (2012), character 62
+
+235. Parachordal plates: separated from the otic capsule by cartilage or a persistent fissure (0); sutured or co‐mineralised with the otic capsule (1)
+
+> Lu *et al*. (2012), character 63
+
+236. Otoccipital fissure: absent (0); present (1)
+
+> Lu *et al*. (2012), character 64
+
+237. Supraotic cavity proper: absent (0); present (1)
+
+> Lu *et al*. (2012), character 66
+
+238. Otical process (an outgrowth from the lateral wall of the braincase penetrated by the branches of the r. oticus lateralis): absent (0); present (1)
+
+> Lu *et al*. (2012), character 69
+
+239. Quadratojugal, squamosal and preopercular fused: no (0); yes (1)
+
+> Lu *et al*. (2012), character 71
+
+240. Lacrimal posteriorly enclosing posterior nostril: absent (0); present (1)
+
+> Lu *et al*. (2012), character 74
+
+241. Most posterior major bone of cheek bearing preopercular canal ('preopercular') extending forward, close to orbit: absent (0); present (1)
+
+> Lu *et al*. (2012), character 78
+
+242. Contact between most posterior major bone of cheek bearing preopercular canal ('preopercular') and maxilla: present (0); absent (1)
+
+> Lu *et al*. (2012), character 79
+
+243. Vomeral area with grooves and raised areas: absent (0); present (1)
+
+> Lu *et al*. (2012), character 86
+
+244. Vomerine fangs: absent (0); present (1)
+
+> Lu *et al*. (2012), character 87
+
+245. Position of parasphenoid: beneath sphenethmoid part of endocranium (0); beneath sphenethmoid and otico‐occipital part (1)
+
+> Lu *et al*. (2012), character 92
+
+246. Parasphenoid denticle field: terminates at or anterior to level of foramina for internal carotid arteries (0); extends posterior to foramina for internal carotid arteries (1)
+
+> Lu *et al*. (2012), character 93
+
+247. Denticulated field of parasphenoid: without spiracular groove (0); with spiracular groove (1)
+
+> Lu *et al*. (2012), character 94
+
+248. Shape of parasphenoid: lozenge‐shaped (0); broad, splint‐shaped (1); slender, splint‐shaped (2)
+
+> Lu *et al*. (2012), character 96
+
+249. Shape of spiracular chamber: very large, steeply inclined anteriorly (0); acutely inclined anteriorly (1); horizontal (2)
+
+> Lu *et al*. (2012), character 99
+
+250. Posterior margin of palatoquadrate: sloping forward (0); erect or sloping backward (1)
+
+> Lu *et al*. (2012), character 101
+
+251. Dentition of palatoquadrate complex: marginal teeth (0); tooth plates (1)
+
+> Lu *et al*. (2012), character 102
+
+252. Number of fang pairs on ectopterygoid: one (0); two (1); none (2)
+
+> Lu *et al*. (2012), character 103
+
+253. Dental plate: denticles on entopterygoid or naked bone (0); tooth plate on entopterygoid (1); dentine plate on entopterygoid (2)
+
+> Lu *et al*. (2012), character 105
+
+254. Number of dermopalatines: multiple (0); single (1)
+
+> Lu *et al*. (2012), character 106
+
+255. Tooth‐bearing median rostral: absent (0), present (1)
+
+> Lu *et al*. (2012), character 108
+
+256. Premaxilla: absent (0); present (1)
+
+> Lu *et al*. (2012), character 110
+
+257. Premaxillae with inturned symphysial processes: absent (0); present (1)
+
+> Lu *et al*. (2012), character 112
+
+258. Maxilla: absent (0); present (1)
+
+> Lu *et al*. (2012), character 113
+
+259. Posterior expansion of maxilla (maxilla cleaver‐shaped): present (0); absent (1)
+
+> Lu *et al*. (2012), character 114
+
+260. Posteriorly deep maxilla: present (0); absent (1)
+
+> Lu *et al*. (2012), character 116
+
+261. Contribution by maxilla to posterior margin of cheek: present (0); absent (1)
+
+> Lu *et al*. (2012), character 117
+
+262. Strong ascending flexion of symphysial region of mandible: absent (0); present (1)
+
+> Lu *et al*. (2012), character 118
+
+263. Anterior projection of the dentary forming a dorsal border for the anteromesial rugosity and symphysial plate: absent (0); present (1)
+
+> Lu *et al*. (2012), character 119
+
+264. Teeth of outer dental arcade: several rows of disorganized teeth (0); two rows, with large teeth lingually and small teeth labially (1); single row of teeth (2)
+
+> Lu *et al*. (2012), character 123
+
+265. Flange‐like extension composed of Meckelian ossification and prearticular that extends below ventral margin of infradentaries: absent (0), present (1)
+
+> Lu *et al*. (2012), character 124
+
+266. Length of dentary: long (0); short with lip fold (1)
+
+> Lu *et al*. (2012), character 125
+
+267. Marginal teeth on dentary: present (0); absent (1)
+
+> Lu *et al*. (2012), character 126
+
+268. Teeth of dentary: reaching anterior end of dentary (0); not reaching anterior end (1)
+
+> Lu *et al*. (2012), character 127
+
+269. Dermal ornament on each infradentary: even (0); separate “starburst” on each bone (1)
+
+> Lu *et al*. (2012), character 130
+
+270. Infradentary foramina: always present (0); variable (1); always absent (2)
+
+> Lu *et al*. (2012), character 131
+
+271. Suture between splenial and anterior coronoid: absent (0); present (1)
+
+> Lu *et al*. (2012), character 134
+
+272. Postsplenial: present (0); absent (1)
+
+> Lu *et al*. (2012), character 135
+
+273. Raised crest on angular: absent (0); present (1)
+
+> Lu *et al*. (2012), character 136
+
+274. Surangular: absent (0); present (1)
+
+> Lu *et al*. (2012), character 138
+
+275. Fang pair on parasymphysial dental plate: absent (0); present (1)
+
+> Lu *et al*. (2012), character 140
+
+276. Coronoids (sensu stricto, excluding parasymphysial dental plate or foremost bone of the coronoid series): present (0); absent (1)
+
+> Lu *et al*. (2012), character 144
+
+277. Number of coronoids (sensu lato, including parasymphysial dental plate but parasymphysial tooth whorl): more than three (0); three (1)
+
+> Lu *et al*. (2012), character 145
+
+
+
+
