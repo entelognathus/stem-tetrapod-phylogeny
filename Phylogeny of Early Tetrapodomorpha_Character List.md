@@ -1,6 +1,6 @@
 # Character list of Tetrapodomorpha
  
-## Daeschler et al. (2006); Swartz (2012); Clack et al. (2012); Zhu et al. (2017); Chen et al. (2018); Cloutier et al. (2020); Lu et al. (2012)
+## Daeschler et al. (2006); Swartz (2012); Clack et al. (2012); Zhu et al. (2017); Chen et al. (2018); Cloutier et al. (2020); Lu et al. (2012); Long et al. (2006); Holland et al. (2009)
 
 > The dipnomorph taxa *Youngolepis*, *Diabolepis*, *Powichthys*, *Porolepis* and *Glyptolepis* were designated as a monophyletic outgroup. Multistate characters were treated as unordered unless they formed clear morphoclines, in which case they were ordered (characters 7, 10, 20, 34, 42, 63, 73, 78, 84, 98, 100, 107, 130, 139, 162, 198, 199 and 201). All characters are weighted equally.
 
@@ -92,7 +92,7 @@
 
 20. Width of ethmoid relative to length from snout tip to posterior margin of parietals: more than 80% (0); 70 - 79% (1); 50 - 69% (2); less than 50% (3)
 
-> *ordered*; Daeschler *et al*. (2006), Character 24 (in part); Swartz (2012), Character 103 (in part); Zhu *et al*. (2017), Character 20; Cloutier *et al*. (2020), Character 20; Clement *et al*. (2021), Character 20; Lu *et al*. (2012), Character 22
+> *ordered*; Daeschler *et al*. (2006), Character 24 (in part); Swartz (2012), Character 103 (in part); Zhu *et al*. (2017), Character 20; Cloutier *et al*. (2020), Character 20; Clement *et al*. (2021), Character 20; Lu *et al*. (2012), Character 22; Long *et al*. (2006), Character 31 (in part)
 
 21. Pineal foramen: present (0); absent (1)
 
@@ -114,7 +114,7 @@
 
 25. Dermal intracranial joint: absent (0); present (1)
 
-> Daeschler *et al*. (2006), Character 50; Swartz (2012), Character 119; Zhu *et al*. (2017), Character 25; Chen *et al*. (2018), Character 83; Cloutier *et al*. (2020), Character 25; Simões and Pierce (2021), Character 19; Clement *et al*. (2021), Character 25; Lu *et al*. (2012), Character 27
+> Daeschler *et al*. (2006), Character 50; Swartz (2012), Character 119; Zhu *et al*. (2017), Character 25; Chen *et al*. (2018), Character 83; Cloutier *et al*. (2020), Character 25; Simões and Pierce (2021), Character 19; Clement *et al*. (2021), Character 25; Lu *et al*. (2012), Character 27; Long *et al*. (2006), Character 3
 
 26. Postparietals narrow to a point posteriorly: no (0), yes (1)
 
@@ -156,9 +156,11 @@
 
 34. Internasal pits: undifferentiated or anterior palatal fossa (0); shallow paired pits with strong midline ridge (1); deep pear-shaped pits (2)
 
-> *ordered*; Daeschler *et al*. (2006), Character 19; Swartz (2012), Character 88; Zhu *et al*. (2017), Character 34; Cloutier *et al*. (2020), Character 34; Simões and Pierce (2021), Character 26; Clement *et al*. (2021), Character 34; Lu *et al*. (2012), Character 40 (in part)
+> *ordered*; Daeschler *et al*. (2006), Character 19; Swartz (2012), Character 88; Zhu *et al*. (2017), Character 34; Cloutier *et al*. (2020), Character 34; Simões and Pierce (2021), Character 26; Clement *et al*. (2021), Character 34; Lu *et al*. (2012), Character 40 (in part); Long *et al*. (2006), Character 28 (in part)
 
 > Lu *et al*. (2012) added code: absent (3)
+
+> Long *et al*. (2006):  In Daeschler et al. (2006) they use 3 states but as our taxa do not exhibit any differentiation between absent or very small spiracular slit, we have combined these as the basal state (0). State 1 only refers to the 2 outgroup taxa here.
 
 35. Tectum orbitale: narrow (0); extensive (1)
 
@@ -276,13 +278,13 @@
 
 62. Anteromedial process of vomer: absent (0); present (1)
 
-> Daeschler *et al*. (2006), Character 16 (in part); Swartz (2012), Character 63 (in part); Zhu *et al*. (2017), Character 62 (in part); Cloutier *et al*. (2020), Character 62; Simões and Pierce (2021), Character 51; Clement *et al*. (2021), Character 62; Lu *et al*. (2012), Character 88 (in part)
+> Daeschler *et al*. (2006), Character 16 (in part); Swartz (2012), Character 63 (in part); Zhu *et al*. (2017), Character 62 (in part); Cloutier *et al*. (2020), Character 62; Simões and Pierce (2021), Character 51; Clement *et al*. (2021), Character 62; Lu *et al*. (2012), Character 88 (in part); Long *et al*. (2006), Character 26 (in part)
 
 > Lu *et al*. (2012) coded the anteromedial process of vomer: absent, vomers separated (0); present (1); absent, vomers in close contact (2)
 
 63. Posterior process of vomers: absent (0); short (1); long (2)
 
-> *ordered*; Daeschler *et al*. (2006), Character 15; Swartz (2012), Character 64; Zhu *et al*. (2017), Character 63; Cloutier *et al*. (2020), Character 63; Simões and Pierce (2021), Character 52; Clement *et al*. (2021), Character 63; Lu *et al*. (2012), Character 89
+> *ordered*; Daeschler *et al*. (2006), Character 15; Swartz (2012), Character 64; Zhu *et al*. (2017), Character 63; Cloutier *et al*. (2020), Character 63; Simões and Pierce (2021), Character 52; Clement *et al*. (2021), Character 63; Lu *et al*. (2012), Character 89; Long *et al*. (2006), Character 25
 
 64. Articulation of vomers: vomers not articulating with each other (0); vomers articulating with each other (1)
 
@@ -294,11 +296,11 @@
 
 66. Denticulated field of parasphenoid: without spiracular groove (0); with spiracular groove (1)
 
-> Daeschler *et al*. (2006), Character 20 (in part); Swartz (2012), Character 67; Zhu *et al*. (2017), Character 66; Cloutier *et al*. (2020), Character 66; Simões and Pierce (2021), Character 55; Clement *et al*. (2021), Character 66
+> Daeschler *et al*. (2006), Character 20 (in part); Swartz (2012), Character 67; Zhu *et al*. (2017), Character 66; Cloutier *et al*. (2020), Character 66; Simões and Pierce (2021), Character 55; Clement *et al*. (2021), Character 66; Long *et al*. (2006), Character 29 (in part)
 
 67. Relationship of vomer to parasphenoid: no contact, or simple abutment (0); dorsal/ventral overlap anteriorly (1); side to side overlap between posterior processes of vomers and lateral sides of parasphenoid (2)
 
-> Daeschler *et al*. (2006), Character 18; Swartz (2012), Character 65 (in part); Zhu *et al*. (2017), Character 67;  Clack *et al*. (2012), Character 20 (in part); Chen *et al*. (2018), Character 19 (in part); Cloutier *et al*. (2020), Character 67; Simões and Pierce (2021), Character 56; Clement *et al*. (2021), Character 67; Lu *et al*. (2012), Character 95 (in part)
+> Daeschler *et al*. (2006), Character 18; Swartz (2012), Character 65 (in part); Zhu *et al*. (2017), Character 67;  Clack *et al*. (2012), Character 20 (in part); Chen *et al*. (2018), Character 19 (in part); Cloutier *et al*. (2020), Character 67; Simões and Pierce (2021), Character 56; Clement *et al*. (2021), Character 67; Lu *et al*. (2012), Character 95 (in part); Long *et al*. (2006), Character 27
 
 > Lu *et al*. (2012) merged the code (1) and (2) into "1": dorsal/ventral overlap anteriorly; side to side overlap between posterior processes of vomers and lateral sides of parasphenoid (1).   
 
@@ -320,21 +322,21 @@
 
 71. Articulation of pterygoids: pterygoids not articulating with each other (0); pterygoids articulating with each other (1)
 
-> Daeschler *et al*. (2006), Character 14; Swartz (2012), Character 70; Zhu *et al*. (2017), Character 71; Clack *et al*. (2012), Character 18 (in part), Chen *et al*. (2018), Character 17; Cloutier *et al*. (2020), Character 71; Simões and Pierce (2021), Character 59; Clement *et al*. (2021), Character 71; Lu *et al*. (2012), Character 100
+> Daeschler *et al*. (2006), Character 14; Swartz (2012), Character 70; Zhu *et al*. (2017), Character 71; Clack *et al*. (2012), Character 18 (in part), Chen *et al*. (2018), Character 17; Cloutier *et al*. (2020), Character 71; Simões and Pierce (2021), Character 59; Clement *et al*. (2021), Character 71; Lu *et al*. (2012), Character 100; Long *et al*. (2006), Character 24
 
 72. Proportions of entopterygoid: anterior end level with processus ascendens (0); anterior end considerably anterior to processus ascendens (1)
 
-> Daeschler *et al*. (2006), Character 13; Swartz (2012), Character 69; Zhu *et al*. (2017), Character 72; Cloutier *et al*. (2020), Character 72; Simões and Pierce (2021), Character 60; Clement *et al*. (2021), Character 72; Lu *et al*. (2012), Character 104
+> Daeschler *et al*. (2006), Character 13; Swartz (2012), Character 69; Zhu *et al*. (2017), Character 72; Cloutier *et al*. (2020), Character 72; Simões and Pierce (2021), Character 60; Clement *et al*. (2021), Character 72; Lu *et al*. (2012), Character 104; Long *et al*. (2006), Character 23
 
 73. Number of fang pairs on ectopterygoid: two (0); one (1); none (2)
 
-> *ordered*; Daeschler *et al*. (2006), Character 12 (morphocline changed); Swartz (2012), Character 80 (in part) (morphocline changed); Zhu *et al*. (2017), Character 73 (morphocline changed); Clack *et al*. (2012), Character 30 (in part); Chen *et al*. (2018), Character 29 (in part); Cloutier *et al*. (2020), Character 73; Simões and Pierce (2021), Character 61; Clement *et al*. (2021), Character 73
+> *ordered*; Daeschler *et al*. (2006), Character 12 (morphocline changed); Swartz (2012), Character 80 (in part) (morphocline changed); Zhu *et al*. (2017), Character 73 (morphocline changed); Clack *et al*. (2012), Character 30 (in part); Chen *et al*. (2018), Character 29 (in part); Cloutier *et al*. (2020), Character 73; Simões and Pierce (2021), Character 61; Clement *et al*. (2021), Character 73; Long *et al*. (2006), Character 22 (morphocline changed)
 
 > Cloutier et al. (2020): The original character states provided by Zhu et al. (2017) have been reordered to form a morphocline.
 
 74. Palatal fangs mesial to marginal tooth row: yes (0); no (1)
 
-> Daeschler *et al*. (2006), Character 72; Zhu *et al*. (2017), Character 74; Cloutier *et al*. (2020), Character 74; Clement *et al*. (2021), Character 74; Lu *et al*. (2012), Character 107
+> Daeschler *et al*. (2006), Character 72; Zhu *et al*. (2017), Character 74; Cloutier *et al*. (2020), Character 74; Clement *et al*. (2021), Character 74; Lu *et al*. (2012), Character 107; Long *et al*. (2006), Character 19
 
 75. Subterminal mouth: absent (0); present (1)
 
@@ -378,7 +380,7 @@
 
 85. Dentary fang pair: absent (0); present (1)
 
-> Daeschler *et al*. (2006), Character 8; Swartz (2012), Character 26 (in part); Zhu *et al*. (2017), Character 85; Cloutier *et al*. (2020), Character 85; Simões and Pierce (2021), Character 73; Clement *et al*. (2021), Character 85; Lu *et al*. (2012), Character 128
+> Daeschler *et al*. (2006), Character 8; Swartz (2012), Character 26 (in part); Zhu *et al*. (2017), Character 85; Cloutier *et al*. (2020), Character 85; Simões and Pierce (2021), Character 73; Clement *et al*. (2021), Character 85; Lu *et al*. (2012), Character 128; Long *et al*. (2006), Character 15
 
 86. Teeth of dentary: reaching anterior end of dentary (0); not reaching anterior end (1)
 
@@ -386,7 +388,7 @@
 
 87. Accessory tooth rows on dentary: present (0); absent (1)
 
-> Daeschler *et al*. (2006), Character 64; Swartz (2012), Character 24; Zhu *et al*. (2017), Character 87; Chen *et al*. (2018), Character 74 (in part); Cloutier *et al*. (2020), Character 87; Simões and Pierce (2021), Character 75; Clement *et al*. (2021), Character 87; Lu *et al*. (2012), Character 129
+> Daeschler *et al*. (2006), Character 64; Swartz (2012), Character 24; Zhu *et al*. (2017), Character 87; Chen *et al*. (2018), Character 74 (in part); Cloutier *et al*. (2020), Character 87; Simões and Pierce (2021), Character 75; Clement *et al*. (2021), Character 87; Lu *et al*. (2012), Character 129; Long *et al*. (2006), Character 14
 
 88. Splenial: not sutured to prearticular (0); sutured to prearticular (1); postsplenial obstructing splenial-prearticular contact (2)
 
@@ -398,11 +400,11 @@
 
 90. Mesial lamina of splenial: absent (0); present (1)
 
-> Daeschler *et al*. (2006), Character 62, Zhu *et al*. (2017), Character 90; Chen *et al*. (2018), Character 67 (in part); Cloutier *et al*. (2020), Character 90; Simões and Pierce (2021), Character 78; Clement *et al*. (2021), Character 90; Lu *et al*. (2012), Character 133
+> Daeschler *et al*. (2006), Character 62, Zhu *et al*. (2017), Character 90; Chen *et al*. (2018), Character 67 (in part); Cloutier *et al*. (2020), Character 90; Simões and Pierce (2021), Character 78; Clement *et al*. (2021), Character 90; Lu *et al*. (2012), Character 133; Long *et al*. (2006), Character 9
 
 91. Angular and prearticular: separated by ventral exposure of Meckelian bone (0); in contact (1)
 
-> Daeschler *et al*. (2006), Character 3; Swartz (2012), Character 48; Zhu *et al*. (2017), Character 91; Chen *et al*. (2018), Character 43 (in part); Cloutier *et al*. (2020), Character 91; Simões and Pierce (2021), Character 79; Clement *et al*. (2021), Character 91; Lu *et al*. (2012), Character 137
+> Daeschler *et al*. (2006), Character 3; Swartz (2012), Character 48; Zhu *et al*. (2017), Character 91; Chen *et al*. (2018), Character 43 (in part); Cloutier *et al*. (2020), Character 91; Simões and Pierce (2021), Character 79; Clement *et al*. (2021), Character 91; Lu *et al*. (2012), Character 137; Long *et al*. (2006), Character 8
 
 92. Parasymphysial tooth whorl: present (0); absent (1)
 
@@ -414,7 +416,7 @@
 
 94. Parasymphysial dental plate: long with posterior corner, sutured to anterior coronoid, denticulated or with tooth row (0); short, rounded, not sutured to anterior coronoid, denticulated (1)
 
-> Daeschler *et al*. (2006), Character 1 (in part); Swartz (2012), Character 16 (in part); Zhu *et al*. (2017), Character 94; Chen *et al*. (2018), Character 76 (in part); Cloutier *et al*. (2020), Character 94; Simões and Pierce (2021), Character 82; Clement *et al*. (2021), Character 94; Lu *et al*. (2012), Character 141 (in part)
+> Daeschler *et al*. (2006), Character 1 (in part); Swartz (2012), Character 16 (in part); Zhu *et al*. (2017), Character 94; Chen *et al*. (2018), Character 76 (in part); Cloutier *et al*. (2020), Character 94; Simões and Pierce (2021), Character 82; Clement *et al*. (2021), Character 94; Lu *et al*. (2012), Character 141 (in part); Long *et al*. (2006), Character 5 (in part)
 
 > Lu *et al*. (2012) defined the parasymphysial dental plate as the same of foremost coronoid of stem sarcopterygians and added the code: absent (2)
 
@@ -424,7 +426,7 @@
 
 96. Mesial parasymphysial foramen: absent (0); present (1)
 
-> Daeschler *et al*. (2006), Character 67; Swartz (2012), Character 21; Zhu *et al*. (2017), Character 96;  Chen *et al*. (2018), Character 57; Cloutier *et al*. (2020), Character 96; Simões and Pierce (2021), Character 84; Clement *et al*. (2021), Character 96; Lu *et al*. (2012), Character 143
+> Daeschler *et al*. (2006), Character 67; Swartz (2012), Character 21; Zhu *et al*. (2017), Character 96;  Chen *et al*. (2018), Character 57; Cloutier *et al*. (2020), Character 96; Simões and Pierce (2021), Character 84; Clement *et al*. (2021), Character 96; Lu *et al*. (2012), Character 143; Long *et al*. (2006), Character 6
 
 97. Fangs of coronoids (*sensu stricto*): absent (0); present (1)
 
@@ -436,17 +438,17 @@
 
 99. Coronoid proportions: posterior coronoid similar in length to, or shorter than middle coronoid (0); posterior coronoid significantly longer than middle coronoid (1)
 
-> Daeschler *et al*. (2006), Character 6; Swartz (2012), Character 34 (in part); Zhu *et al*. (2017), Character 99; Cloutier *et al*. (2020), Character 99; Clement *et al*. (2021), Character 99
+> Daeschler *et al*. (2006), Character 6; Swartz (2012), Character 34 (in part); Zhu *et al*. (2017), Character 99; Cloutier *et al*. (2020), Character 99; Clement *et al*. (2021), Character 99; Long *et al*. (2006), Character 13
 
 100. Number of fang pairs on posterior coronoid: two (0); one (1); none (2)
 
-> *ordered*; Daeschler *et al*. (2006), Character 9 (morphocline changed); Zhu *et al*. (2017), Character 100 (morphocline changed); Cloutier *et al*. (2020), Character 100; Simões and Pierce (2021), Character 86; Clement *et al*. (2021), Character 100; Lu *et al*. (2012), Character 155
+> *ordered*; Daeschler *et al*. (2006), Character 9 (morphocline changed); Zhu *et al*. (2017), Character 100 (morphocline changed); Cloutier *et al*. (2020), Character 100; Simões and Pierce (2021), Character 86; Clement *et al*. (2021), Character 100; Lu *et al*. (2012), Character 155; Long *et al*. (2006), Character 16 (morphocline changed)
 
 > Cloutier et al. (2020): The original character states of Zhu et al. (2017) have been reordered to form a morphocline.
 
 101. Anterior end of prearticular: not forked (0); forked (1)
 
-> Daeschler *et al*. (2006), Character 2; Swartz (2012), Character 46; Zhu *et al*. (2017), Character 101; Cloutier *et al*. (2020), Character 101; Simões and Pierce (2021), Character 87; Clement *et al*. (2021), Character 101; Lu *et al*. (2012), Character 156
+> Daeschler *et al*. (2006), Character 2; Swartz (2012), Character 46; Zhu *et al*. (2017), Character 101; Cloutier *et al*. (2020), Character 101; Simões and Pierce (2021), Character 87; Clement *et al*. (2021), Character 101; Lu *et al*. (2012), Character 156; Long *et al*. (2006), Character 7
 
 102. Longitudinal dorsal ridge on prearticular: absent (0); present (1)
 
@@ -730,7 +732,7 @@
 
 169. Plicidentine: absent (0); simple or generalized polyplocodont (1); labyrinthodont (2); dendrodont (3)
 
-> Daeschler *et al*. (2006), Character 10; Swartz (2012), Character 201; Zhu *et al*. (2017), Character 169; Cloutier *et al*. (2020), Character 169; **Simões and Pierce (2021), Characters 147, 148**; Clement *et al*. (2021), Character 169; Lu *et al*. (2012), Character 263
+> Daeschler *et al*. (2006), Character 10; Swartz (2012), Character 201; Zhu *et al*. (2017), Character 169; Cloutier *et al*. (2020), Character 169; **Simões and Pierce (2021), Characters 147, 148**; Clement *et al*. (2021), Character 169; Lu *et al*. (2012), Character 263; Long *et al*. (2006), Character 21
 
 170. Postspiracular: absent (0); present (1)
 
@@ -752,7 +754,7 @@
 
 173. Choana: absent (0); present (1)
 
-> Daeschler *et al*. (2006), Character 22; Cloutier *et al*. (2020), Character 173; Simões and Pierce (2021), Character 151; Clement *et al*. (2021), Character 173
+> Daeschler *et al*. (2006), Character 22; Cloutier *et al*. (2020), Character 173; Simões and Pierce (2021), Character 151; Clement *et al*. (2021), Character 173; Long *et al*. (2006), Character 30
 
 174. Anocleithrum: exposed (0); subdermal (1)
 
@@ -900,489 +902,489 @@
 > ## Newly-added characters in Lu *et al*. (2012)
 207. Parietal portion of skull roof relative to postparietal portion in length: parietal portion roughly as long as postparietal portion (0), parietal portion much longer postparietal portion (1), parietal portion much shorter than postparietal portion (2).
 
-> Lu *et al*. (2012), character 3
+> Lu *et al*. (2012), Character 3
 
 208. Paired nasals meet in midline of skull: absent (0); present (1)
 
-> Lu *et al*. (2012), character 7
+> Lu *et al*. (2012), Character 7
 
 209. Position of anterior external nostril: facial (0); edge of mouth (or marginal) (1); palatal
 
-> Lu *et al*. (2012), character 8
+> Lu *et al*. (2012), Character 8
 
 210. Posterior nostril enclosed posteriorly by preorbital or preorbital process of premaxilla: absent (0); present (1).
 
-> Lu *et al*. (2012), character 10
+> Lu *et al*. (2012), Character 10
 
 211. Dermintermedial process: absent (0); present (1)
 
-> Lu *et al*. (2012), character 11
+> Lu *et al*. (2012), Character 11
 
 212. Palatal opening surrounded by premaxilla, maxilla, dermopalatine, and vomer (“choana” sensu stricto): absent (0); present (1).
 
-> Lu *et al*. (2012), character 12
+> Lu *et al*. (2012), Character 12
 
 213. B‐bone: absent (0); present (1)
 
-> Lu *et al*. (2012), character 13
+> Lu *et al*. (2012), Character 13
 
 214. Dermosphenotic: absent (0); present (1)
 
-> Lu *et al*. (2012), character 17
+> Lu *et al*. (2012), Character 17
 
 215. Paired bones anterior to parietals: absent (0); present (1)
 
-> Lu *et al*. (2012), character 20
+> Lu *et al*. (2012), Character 20
 
 216. Anterior margin of parietal: between or in front of orbits (0); slightly posterior to orbits (1); much posterior to orbits (2)
 
-> Lu *et al*. (2012), character 21
+> Lu *et al*. (2012), Character 21
 
 217. Pineal eminence (in those taxa with no pineal foramen): absent (0); present (1)
 
-> Lu *et al*. (2012), character 24
+> Lu *et al*. (2012), Character 24
 
 218. Margins of postparietals and parietals participating in dermal intracranial joint: smooth (0); jagged (1)
 
-> Lu *et al*. (2012), character 28
+> Lu *et al*. (2012), Character 28
 
 219. Number of marginal bones alongside postparietal: single (0); two or more (1)
 
-> Lu *et al*. (2012), character 32
+> Lu *et al*. (2012), Character 32
 
 220. Posterior margin of tabulars: anterior to posterior margin of postparietals (0); level with
 posterior margin of postparietals (1)
 
-> Lu *et al*. (2012), character 35
+> Lu *et al*. (2012), Character 35
 
 221. Internasal septum: narrow (0); broad (1)
 
-> Lu *et al*. (2012), character 39
+> Lu *et al*. (2012), Character 39
 
 222. Fenestra ventralis: absent (0); present (1); common ventral fenestra for anterior and posterior nostrils (2)
 
-> Lu *et al*. (2012), character 41
+> Lu *et al*. (2012), Character 41
 
 223. Postorbital process on braincase: present (0); absent (1)
 
-> Lu *et al*. (2012), character 42
+> Lu *et al*. (2012), Character 42
 
 224. Ethmoid articulation for palatoquadrate: placed on postnasal wall (0); majority of facet located anterior to postnasal wall (1); extends posteriorly to the level of N.II (2)
 
-> Lu *et al*. (2012), character 45
+> Lu *et al*. (2012), Character 45
 
 225. Eyestalk or unfinished area for similar structure: absent (0); present (1)
 
-> Lu *et al*. (2012), character 46
+> Lu *et al*. (2012), Character 46
 
 226. Postorbital pillar: absent (0); present (1)
 
-> Lu *et al*. (2012), character 47
+> Lu *et al*. (2012), Character 47
 
 227. Autopalatine fossa bearing unfinished articular surfaces: absent (0); present (1)
 
-> Lu *et al*. (2012), character 48
+> Lu *et al*. (2012), Character 48
 
 228. Basipterygoid process: small knob‐like process (0); developed as a broad platform (1)
 
-> Lu *et al*. (2012), character 49
+> Lu *et al*. (2012), Character 49
 
 229. Unconstricted cranial notochord: absent (0); present (1)
 
-> Lu *et al*. (2012), character 52
+> Lu *et al*. (2012), Character 52
 
 230. Orientation of intracranial joint or fissure: vertical or anteroventrally slanting (0); posteroventrally slanting (1)
 
-> Lu *et al*. (2012), character 54
+> Lu *et al*. (2012), Character 54
 
 231. Position of intracranial joint or fissure relative to cranial nerves: joint through profundus foramen (0); joint through trigeminal foramen (1)
 
-> Lu *et al*. (2012), character 55
+> Lu *et al*. (2012), Character 55
 
 232. Articulation facet with hyomandibular: single‐headed (0), double‐headed (1)
 
-> Lu *et al*. (2012), character 57
+> Lu *et al*. (2012), Character 57
 
 233. Hyomandibular facets in those taxa where they straddle the level of the jugular canal: narrowly separated or confluent (0), broadly separated (1)
 
-> Lu *et al*. (2012), character 59
+> Lu *et al*. (2012), Character 59
 
 234. Accessory fenestration in otic capsule: absent (0); present (1)
 
-> Lu *et al*. (2012), character 62
+> Lu *et al*. (2012), Character 62
 
 235. Parachordal plates: separated from the otic capsule by cartilage or a persistent fissure (0); sutured or co‐mineralised with the otic capsule (1)
 
-> Lu *et al*. (2012), character 63
+> Lu *et al*. (2012), Character 63
 
 236. Otoccipital fissure: absent (0); present (1)
 
-> Lu *et al*. (2012), character 64
+> Lu *et al*. (2012), Character 64
 
 237. Supraotic cavity proper: absent (0); present (1)
 
-> Lu *et al*. (2012), character 66
+> Lu *et al*. (2012), Character 66
 
 238. Otical process (an outgrowth from the lateral wall of the braincase penetrated by the branches of the r. oticus lateralis): absent (0); present (1)
 
-> Lu *et al*. (2012), character 69
+> Lu *et al*. (2012), Character 69
 
 239. Quadratojugal, squamosal and preopercular fused: no (0); yes (1)
 
-> Lu *et al*. (2012), character 71
+> Lu *et al*. (2012), Character 71
 
 240. Lacrimal posteriorly enclosing posterior nostril: absent (0); present (1)
 
-> Lu *et al*. (2012), character 74
+> Lu *et al*. (2012), Character 74
 
 241. Most posterior major bone of cheek bearing preopercular canal ('preopercular') extending forward, close to orbit: absent (0); present (1)
 
-> Lu *et al*. (2012), character 78
+> Lu *et al*. (2012), Character 78
 
 242. Contact between most posterior major bone of cheek bearing preopercular canal ('preopercular') and maxilla: present (0); absent (1)
 
-> Lu *et al*. (2012), character 79
+> Lu *et al*. (2012), Character 79
 
 243. Vomeral area with grooves and raised areas: absent (0); present (1)
 
-> Lu *et al*. (2012), character 86
+> Lu *et al*. (2012), Character 86
 
 244. Vomerine fangs: absent (0); present (1)
 
-> Lu *et al*. (2012), character 87
+> Lu *et al*. (2012), Character 87
 
 245. Position of parasphenoid: beneath sphenethmoid part of endocranium (0); beneath sphenethmoid and otico‐occipital part (1)
 
-> Lu *et al*. (2012), character 92
+> Lu *et al*. (2012), Character 92
 
 246. Parasphenoid denticle field: terminates at or anterior to level of foramina for internal carotid arteries (0); extends posterior to foramina for internal carotid arteries (1)
 
-> Lu *et al*. (2012), character 93
+> Lu *et al*. (2012), Character 93
 
 247. Denticulated field of parasphenoid: without spiracular groove (0); with spiracular groove (1)
 
-> Lu *et al*. (2012), character 94
+> Lu *et al*. (2012), Character 94
 
 248. Shape of parasphenoid: lozenge‐shaped (0); broad, splint‐shaped (1); slender, splint‐shaped (2)
 
-> Lu *et al*. (2012), character 96
+> Lu *et al*. (2012), Character 96
 
 249. Shape of spiracular chamber: very large, steeply inclined anteriorly (0); acutely inclined anteriorly (1); horizontal (2)
 
-> Lu *et al*. (2012), character 99
+> Lu *et al*. (2012), Character 99
 
 250. Posterior margin of palatoquadrate: sloping forward (0); erect or sloping backward (1)
 
-> Lu *et al*. (2012), character 101
+> Lu *et al*. (2012), Character 101
 
 251. Dentition of palatoquadrate complex: marginal teeth (0); tooth plates (1)
 
-> Lu *et al*. (2012), character 102
+> Lu *et al*. (2012), Character 102
 
 252. Number of fang pairs on ectopterygoid: one (0); two (1); none (2)
 
-> Lu *et al*. (2012), character 103
+> Lu *et al*. (2012), Character 103
 
 253. Dental plate: denticles on entopterygoid or naked bone (0); tooth plate on entopterygoid (1); dentine plate on entopterygoid (2)
 
-> Lu *et al*. (2012), character 105
+> Lu *et al*. (2012), Character 105
 
 254. Number of dermopalatines: multiple (0); single (1)
 
-> Lu *et al*. (2012), character 106
+> Lu *et al*. (2012), Character 106
 
 255. Tooth‐bearing median rostral: absent (0), present (1)
 
-> Lu *et al*. (2012), character 108
+> Lu *et al*. (2012), Character 108
 
 256. Premaxilla: absent (0); present (1)
 
-> Lu *et al*. (2012), character 110
+> Lu *et al*. (2012), Character 110
 
 257. Premaxillae with inturned symphysial processes: absent (0); present (1)
 
-> Lu *et al*. (2012), character 112
+> Lu *et al*. (2012), Character 112
 
 258. Maxilla: absent (0); present (1)
 
-> Lu *et al*. (2012), character 113
+> Lu *et al*. (2012), Character 113
 
 259. Posterior expansion of maxilla (maxilla cleaver‐shaped): present (0); absent (1)
 
-> Lu *et al*. (2012), character 114
+> Lu *et al*. (2012), Character 114
 
 260. Posteriorly deep maxilla: present (0); absent (1)
 
-> Lu *et al*. (2012), character 116
+> Lu *et al*. (2012), Character 116
 
 261. Contribution by maxilla to posterior margin of cheek: present (0); absent (1)
 
-> Lu *et al*. (2012), character 117
+> Lu *et al*. (2012), Character 117
 
 262. Strong ascending flexion of symphysial region of mandible: absent (0); present (1)
 
-> Lu *et al*. (2012), character 118
+> Lu *et al*. (2012), Character 118
 
 263. Anterior projection of the dentary forming a dorsal border for the anteromesial rugosity and symphysial plate: absent (0); present (1)
 
-> Lu *et al*. (2012), character 119
+> Lu *et al*. (2012), Character 119
 
 264. Teeth of outer dental arcade: several rows of disorganized teeth (0); two rows, with large teeth lingually and small teeth labially (1); single row of teeth (2)
 
-> Lu *et al*. (2012), character 123
+> Lu *et al*. (2012), Character 123
 
 265. Flange‐like extension composed of Meckelian ossification and prearticular that extends below ventral margin of infradentaries: absent (0), present (1)
 
-> Lu *et al*. (2012), character 124
+> Lu *et al*. (2012), Character 124
 
 266. Length of dentary: long (0); short with lip fold (1)
 
-> Lu *et al*. (2012), character 125
+> Lu *et al*. (2012), Character 125
 
 267. Marginal teeth on dentary: present (0); absent (1)
 
-> Lu *et al*. (2012), character 126
+> Lu *et al*. (2012), Character 126
 
 268. Teeth of dentary: reaching anterior end of dentary (0); not reaching anterior end (1)
 
-> Lu *et al*. (2012), character 127
+> Lu *et al*. (2012), Character 127
 
 269. Dermal ornament on each infradentary: even (0); separate “starburst” on each bone (1)
 
-> Lu *et al*. (2012), character 130
+> Lu *et al*. (2012), Character 130
 
 270. Infradentary foramina: always present (0); variable (1); always absent (2)
 
-> Lu *et al*. (2012), character 131
+> Lu *et al*. (2012), Character 131
 
 271. Suture between splenial and anterior coronoid: absent (0); present (1)
 
-> Lu *et al*. (2012), character 134
+> Lu *et al*. (2012), Character 134; Daeschler *et al*. (2006), Character 63; Long *et al*. (2006), Character 17
 
 272. Postsplenial: present (0); absent (1)
 
-> Lu *et al*. (2012), character 135
+> Lu *et al*. (2012), Character 135
 
 273. Raised crest on angular: absent (0); present (1)
 
-> Lu *et al*. (2012), character 136
+> Lu *et al*. (2012), Character 136
 
 274. Surangular: absent (0); present (1)
 
-> Lu *et al*. (2012), character 138
+> Lu *et al*. (2012), Character 138
 
 275. Fang pair on parasymphysial dental plate: absent (0); present (1)
 
-> Lu *et al*. (2012), character 140
+> Lu *et al*. (2012), Character 140
 
 276. Coronoids (sensu stricto, excluding parasymphysial dental plate or foremost bone of the coronoid series): present (0); absent (1)
 
-> Lu *et al*. (2012), character 144
+> Lu *et al*. (2012), Character 144
 
 277. Number of coronoids (sensu lato, including parasymphysial dental plate but parasymphysial tooth whorl): more than three (0); three (1)
 
-> Lu *et al*. (2012), character 145
+> Lu *et al*. (2012), Character 145; Long *et al*. (2006), Character 11; Daeschler *et al*. (2006), Character 5
 
 278. Coronoid fangs larger than marginal teeth: yes (0); no (1)
 
-> Lu *et al*. (2012), character 148
+> Lu *et al*. (2012), Character 148; Long *et al*. (2006), Character 20; Daeschler *et al*. (2006), Character 70
 
 279. Coronoid proportions: posterior coronoid similar in length to, or shorter than middle coronoid (0); posterior coronoid significantly longer than middle coronoid (1)
 
-> Lu *et al*. (2012), character 154
+> Lu *et al*. (2012), Character 154
 
 280. Prearticular: rear part with conspicuous horizontal ledge (0); rear part flat (1)
 
-> Lu *et al*. (2012), character 157
+> Lu *et al*. (2012), Character 157; Long *et al*. (2006), Character 10; Daeschler *et al*. (2006), Character 4
 
 281. Prearticular‐dentary contact: present (0); absent (1)
 
-> Lu *et al*. (2012), character 158
+> Lu *et al*. (2012), Character 158
 
 282. Teeth radial rows on prearticular: absent (0); present (1)
 
-> Lu *et al*. (2012), character 160
+> Lu *et al*. (2012), Character 160
 
 283. Labial pit: absent (0); present (1)
 
-> Lu *et al*. (2012), character 162
+> Lu *et al*. (2012), Character 162
 
-284. Meckelian bone exposed immediately anterior to first coronoid: yes (0); no (1)
+284. Meckelian exposure in precoronoid fossa: present (0); absent (1)
 
-> Lu *et al*. (2012), character 164
+> Lu *et al*. (2012), Character 164 (in part); Long *et al*. (2006), Character 12; Daeschler *et al*. (2006), Character 65
 
 285. Hyomandibula orientation: posteroventral, distally terminating near jaw joint (0); almost horizontal orientation, opercular process high up dorsally (1); very short, laterally directed (2)
 
-> Lu *et al*. (2012), character 165
+> Lu *et al*. (2012), Character 165
 
 286. Width of submandibulars: narrow (0); broad (1)
 
-> Lu *et al*. (2012), character 174
+> Lu *et al*. (2012), Character 174
 
 287. Pore clusters: absent (0); present (1)
 
-> Lu *et al*. (2012), character 175
+> Lu *et al*. (2012), Character 175
 
 288. Ethmoid commissure: present (0); absent (1)
 
-> Lu *et al*. (2012), character 176
+> Lu *et al*. (2012), Character 176
 
 289. Contact of supraorbital and infraorbital canals: in contact rostrally (0); not in contact rostrally (1)
 
-> Lu *et al*. (2012), character 182
+> Lu *et al*. (2012), Character 182
 
 290. Infraorbital canal follows premaxillary suture: no (0); yes (1)
 
-> Lu *et al*. (2012), character 186
+> Lu *et al*. (2012), Character 186
 
 291. Premaxilla canal‐bearing: yes (0); no (1)
 
-> Lu *et al*. (2012), character 187
+> Lu *et al*. (2012), Character 187
 
 292. Sensory canal or pit‐line associated with maxilla: absent (0); present (1)
 
-> Lu *et al*. (2012), character 188
+> Lu *et al*. (2012), Character 188
 
 293. Jugal canal: present (0); absent (1)
 
-> Lu *et al*. (2012), character 189
+> Lu *et al*. (2012), Character 189
 
 294. Anterior portion of preopercular canal: present (0); absent (1)
 
-> Lu *et al*. (2012), character 190
+> Lu *et al*. (2012), Character 190
 
 295. Course of mandibular canal: not passing through most posterior infradentary (0); passing through most posterior infradentary (1)
 
-> Lu *et al*. (2012), character 191
+> Lu *et al*. (2012), Character 191
 
 296. Anterior pit‐line of lower jaw: not developed into enclosed canal (0); developed into enclosed canal linking oral and mandibular canals (1)
 
-> Lu *et al*. (2012), character 192
+> Lu *et al*. (2012), Character 192
 
 297. Middle pit‐line of lower jaw: not developed into enclosed canal (0); developed into enclosed oral canal or intermediate morphology (1)
 
-> Lu *et al*. (2012), character 193
+> Lu *et al*. (2012), Character 193
 
 298. Supracleithrum and postemporal: enlarged, bigger than scales (0); small, scale‐like bones (1); lost from shoulder girdle (2)
 
-> Lu *et al*. (2012), character 194
+> Lu *et al*. (2012), Character 194
 
 299. Orientation of cleithrum: vertically oriented: tilted less than 10 degrees caudally (0); angulated: tilted over 10 degrees caudally (1)
 
-> Lu *et al*. (2012), character 196
+> Lu *et al*. (2012), Character 196
 
 300. Dorsal cleithrum (AL of the Placodermi), ventral cleithrum (AVL of the Placodermi) and pectoral spine (SP of the Placodermi): not fused (0); fused (1)
 
-> Lu *et al*. (2012), character 198
+> Lu *et al*. (2012), Character 198
 
 301. Dorsal end of cleithrum: pointed (0); broad and rounded (1)
 
-> Lu *et al*. (2012), character 199
+> Lu *et al*. (2012), Character 199
 
 302. Paired pectoral spines: absent (0); present (1)
 
-> Lu *et al*. (2012), character 200
+> Lu *et al*. (2012), Character 200
 
 303. Posterior process of cleithrum or pectoral spine: present (0); absent (1)
 
-> Lu *et al*. (2012), character 201
+> Lu *et al*. (2012), Character 201
 
 304. Relationship of clavicle to cleithrum: ascending process of clavicle overlapping cleithrum laterally (0); ascending process of clavicle wrapping round anterior edge of cleithrum, overlapping it both laterally and mesially (1)
 
-> Lu *et al*. (2012), character 202
+> Lu *et al*. (2012), Character 202
 
 305. Interclavicle: absent (0); present (1)
 
-> Lu *et al*. (2012), character 205
+> Lu *et al*. (2012), Character 205
 
 306. Triradiate scapulocoracoid: absent (0); present (1)
 
-> Lu *et al*. (2012), character 207
+> Lu *et al*. (2012), Character 207
 
 307. Attachment of triradiate scapulocoracoid to cleithrum: tripodal, via three processes (0); via a single dorsal process of scapulocoracoid that lies flush against internal surface of (1); complete fusion between surfaces of the scapula and cleithrum (2)
 
-> Lu *et al*. (2012), character 208
+> Lu *et al*. (2012), Character 208
 
 308. Endoskeletal supports in pectoral fin: multiple elements articulating with girdle (0); single element ("humerus") articulating with girdle (1)
 
-> Lu *et al*. (2012), character 213
+> Lu *et al*. (2012), Character 213
 
 309. Axis of pectoral fin skeleton: no more than 5 axial elements (0); more than 5 axial elements (1)
 
-> Lu *et al*. (2012), character 214
+> Lu *et al*. (2012), Character 214
 
 310. Shoulder joint polarity: caput humeri convex (0); caput humeri concave (1)
 
-> Lu *et al*. (2012), character 216
+> Lu *et al*. (2012), Character 216
 
 311. Caput humeri: rounded to hemispherical shaped (0); subrectangular, much wider than high (1); elongate (bifid or strap‐shaped) (2)
 
-> Lu *et al*. (2012), character 219
+> Lu *et al*. (2012), Character 219
 
 312. Short ventral process on entepicondyle: absent (0); present (1)
 
-> Lu *et al*. (2012), character 220
+> Lu *et al*. (2012), Character 220
 
 313. Ectepicondylar process: terminates proximal to epipodial facets (0); extends distal to epipodial facets (1)
 
-> Lu *et al*. (2012), character 222
+> Lu *et al*. (2012), Character 222
 
 314. Articulations for more than two radials on ulnare: absent (0); present (1)
 
-> Lu *et al*. (2012), character 224
+> Lu *et al*. (2012), Character 224
 
 315. Ventral ridge orientation: diagonal to long axis of the humerus (0); perpendicular to long axis of humerus (1)
 
-> Lu *et al*. (2012), character 227
+> Lu *et al*. (2012), Character 227
 
 316. Radius and ulna facets: in same transverse plane (0); stepped, in different planes (1)
 
-> Lu *et al*. (2012), character 231
+> Lu *et al*. (2012), Character 231
 
 317. Intermedium shape: narrow, tapered (0); broad or flared (1)
 
-> Lu *et al*. (2012), character 234
+> Lu *et al*. (2012), Character 234
 
 318. Posterior radials in posterior dorsal fin: not branched (0); branched (1)
 
-> Lu *et al*. (2012), character 238
+> Lu *et al*. (2012), Character 238
 
 319. Basal scutes (on fins): absent (0); present (1)
 
-> Lu *et al*. (2012), character 239
+> Lu *et al*. (2012), Character 239
 
 320. Median fin spines: absent (0); present (1)
 
-> Lu *et al*. (2012), character 240
+> Lu *et al*. (2012), Character 240
 
 321. Relative size of epichordal and hypochordal lobes of caudal fin: epichordal lobe less developed than hypochordal (0); epichordal and hypochordal lobes equally developed (1); epichordal lobe developed than hypochordal (2)
 
-> Lu *et al*. (2012), character 242
+> Lu *et al*. (2012), Character 242
 
 322. Anterodorsal process on scale: absent (0); present (1)
 
-> Lu *et al*. (2012), character 251
+> Lu *et al*. (2012), Character 251
 
 323. Scales with interlocking pegs and sockets: absent (0); present (1)
 
-> Lu *et al*. (2012), character 253
+> Lu *et al*. (2012), Character 253
 
 324. Interlocking lepidotrichia: absent (0); present (1)
 
-> Lu *et al*. (2012), character 255
+> Lu *et al*. (2012), Character 255
 
 325. Dermal bone surface with large openings of pore canals: absent (0); present (1)
 
-> Lu *et al*. (2012), character 257
+> Lu *et al*. (2012), Character 257
 
 326. Westoll‐lines: absent (0); present (1)
 
-> Lu *et al*. (2012), character 259
+> Lu *et al*. (2012), Character 259
 
 327. Rostral organ: absent (0); present (1)
 
-> Lu *et al*. (2012), character 261
+> Lu *et al*. (2012), Character 261
 
 328. Resorption and redeposition of odontodes + enamel: lacking (0); partially developed (1); developed (2)
 
-> Lu *et al*. (2012), character 262
+> Lu *et al*. (2012), Character 262
