@@ -1,6 +1,6 @@
 # Character list of Tetrapodomorpha
  
-## Daeschler et al. (2006); Swartz (2012); Clack et al. (2012); Zhu et al. (2017); Chen et al. (2018); Cloutier et al. (2020); Lu et al. (2012); Long et al. (2006); Holland et al. (2009)
+## Daeschler et al. (2006); Swartz (2012); Clack et al. (2012); Zhu et al. (2017); Chen et al. (2018); Cloutier et al. (2020); Clement et al. (2021); Lu et al. (2012); Long et al. (2006); Holland et al. (2009)
 
 > The dipnomorph taxa *Youngolepis*, *Diabolepis*, *Powichthys*, *Porolepis* and *Glyptolepis* were designated as a monophyletic outgroup. Multistate characters were treated as unordered unless they formed clear morphoclines, in which case they were ordered (characters 7, 10, 20, 34, 42, 63, 73, 78, 84, 98, 100, 107, 130, 139, 162, 198, 199 and 201). All characters are weighted equally.
 
