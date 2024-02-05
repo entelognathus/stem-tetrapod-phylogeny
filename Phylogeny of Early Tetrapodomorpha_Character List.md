@@ -899,7 +899,7 @@
 > Chen, D., et al. A partial lower jaw of a tetrapod from ‘‘Romer’s Gap’’. Earth and Environmental Science Transactions of the Royal Society of Edinburgh 108, 55–65 (2018).
 > Simões TR, Pierce SE. 2021. Sustained high rates of morphological evolution during the rise of tetrapods. Nature Ecology and Evolution 1–12 DOI 10.1038/s41559-021-01532-x.
 
-> ## Newly-added characters in Long*et al*. (2006); Lu *et al*. (2012)
+> ## Newly-added characters in Long *et al*. (2006); Lu *et al*. (2012)
 207. Parietal portion of skull roof relative to postparietal portion in length: parietal portion roughly as long as postparietal portion (0), parietal portion much longer postparietal portion (1), parietal portion much shorter than postparietal portion (2).
 
 > Lu *et al*. (2012), Character 3
