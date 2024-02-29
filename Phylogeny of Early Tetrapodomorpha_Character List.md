@@ -128,7 +128,9 @@
 
 > Daeschler *et al*. (2006), Character 87 (in part); Long *et al*. (2006), Character 54 (in part); Swartz (2012), Character 140 (in part); Zhu *et al*. (2017), Character 28; Cloutier *et al*. (2020), Character 28; Simões and Pierce (2021), Character 21; Clement *et al*. (2021), Character 28; Lu *et al*. (2012), Character 31 (in part); Choo *et al*. (2024), Character 28
 
-> Lu *et al*. (2012) coded the spiracular notch: absent‐small (0); narrow groove (1); wide notch (2)
+> Long *et al*. (2006); Lu *et al*. (2012) coded the spiracular notch: absent‐small (0); narrow groove (1); wide notch (2)
+
+> ‘Wide’ notch here refs to the expanded size of the opening as in *Gogonasus*, *Panderichthys* and *Tiktaalik*.
 
 29. Extratemporal: absent (0); present (1)
 
@@ -260,7 +262,7 @@
 
 58. Bar-like preopercular: absent (0); present (1)
 
-> Daeschler *et al*. (2006), Character 88 (in part), Swartz (2012), Character 137, Zhu *et al*. (2017), Character 58; Clack *et al*. (2012), Character 17 (in part), Chen *et al*. (2018), Character 16 (in part); Cloutier *et al*. (2020), Character 58; Simões and Pierce (2021), Character 48; Clement *et al*. (2021), Character 58; Lu *et al*. (2012), Character 82; Choo *et al*. (2024), Character 58
+> Daeschler *et al*. (2006), Character 88 (in part); Long *et al*. (2006), Character 64 (in part); Swartz (2012), Character 137; Zhu *et al*. (2017), Character 58; Clack *et al*. (2012), Character 17 (in part); Chen *et al*. (2018), Character 16 (in part); Cloutier *et al*. (2020), Character 58; Simões and Pierce (2021), Character 48; Clement *et al*. (2021), Character 58; Lu *et al*. (2012), Character 82; Choo *et al*. (2024), Character 58
 
 > Lu *et al*. (2012) defined the bar-like preopercular as verticle (verticle bar‐like preopercular)
 
@@ -492,11 +494,13 @@
 
 112. Sublingual rod: absent (0); present (1)
 
-> Zhu *et al*. (2017), Character 112; Cloutier *et al*. (2020), Character 112; Simões and Pierce (2021), Character 98; Clement *et al*. (2021), Character 112; Lu *et al*. (2012), Character 168; Choo *et al*. (2024), Character 112
+> Long *et al*. (2006), Character 66; Zhu *et al*. (2017), Character 112; Cloutier *et al*. (2020), Character 112; Simões and Pierce (2021), Character 98; Clement *et al*. (2021), Character 112; Lu *et al*. (2012), Character 168; Choo *et al*. (2024), Character 112
+
+> The plesiomorphic state is taken to be the absence of a sublingual rod as it is not found in any actinopterygians, or in porolepiforms.
 
 113. Opercular: present (0); absent (1)
 
-> Daeschler *et al*. (2006), Character 111; Swartz (2012), Character 139; Zhu *et al*. (2017), Character 113;  Clack *et al*. (2012), Character 14, Chen *et al*. (2018), Character 13; Cloutier *et al*. (2020), Character 113; Simões and Pierce (2021), Character 99; Clement *et al*. (2021), Character 113; Lu *et al*. (2012), Character 169; Choo *et al*. (2024), Character 113
+> Daeschler *et al*. (2006), Character 111; Long *et al*. (2006), Character 62; Swartz (2012), Character 139; Zhu *et al*. (2017), Character 113;  Clack *et al*. (2012), Character 14, Chen *et al*. (2018), Character 13; Cloutier *et al*. (2020), Character 113; Simões and Pierce (2021), Character 99; Clement *et al*. (2021), Character 113; Lu *et al*. (2012), Character 169; Choo *et al*. (2024), Character 113
 
 114. Number of branchiostegal rays per side: more than one (0); one (1)
 
@@ -506,7 +510,9 @@
 
 115. Size of median gular: small (0); large (1)
 
-> Daeschler *et al*. (2006), Character 81 (in part); Swartz (2012), Character 136; Zhu *et al*. (2017), Character 115; Cloutier *et al*. (2020), Character 115; Clement *et al*. (2021), Character 115; Lu *et al*. (2012), Character 172; Choo *et al*. (2024), Character 115
+> Daeschler *et al*. (2006), Character 81 (in part); Long *et al*. (2006), Character 65 (in part); Swartz (2012), Character 136; Zhu *et al*. (2017), Character 115; Cloutier *et al*. (2020), Character 115; Clement *et al*. (2021), Character 115; Lu *et al*. (2012), Character 172; Choo *et al*. (2024), Character 115
+
+> Daeschler *et al*. (2006); Long *et al*. (2006): Large median gular: absent (0); present (1)
 
 116. Course of ethmoid commissure: canal penetrating the body of the premaxilla (0); sutural course (1)
 
@@ -580,13 +586,15 @@
 
 133. Clavicle ascending process: clavicle has rod-like ascending process (0); clavicle lacks rod-like ascending process (1)
 
-> Zhu *et al*. (2017), Character 133; Cloutier *et al*. (2020), Character 133; Simões and Pierce (2021), Character 114; Clement *et al*. (2021), Character 133; Lu *et al*. (2012), Character 204; Choo *et al*. (2024), Character 133
+> Long *et al*. (2006), Character 67; Zhu *et al*. (2017), Character 133; Cloutier *et al*. (2020), Character 133; Simões and Pierce (2021), Character 114; Clement *et al*. (2021), Character 133; Lu *et al*. (2012), Character 204; Choo *et al*. (2024), Character 133
+
+> The ascending process here defined as an extended narrow process, not just a process or corner of the posterolateral corner of the clavicle. In basal osteichthyans like *Mimia* and *Onychodus* there is well-developed ascending process, but in forms like *Gogonasus* the anterolateral corner of the clavicle ends with an acute point, but is not drawn out into a rod-like process.
 
 134. Interclavicle size: small (0); large (1)
 
-> Daeschler *et al*. (2006), Character 83 (in part); Swartz (2012), Character 158 (in part); Zhu *et al*. (2017), Character 134 (in part); Chen *et al*. (2018), Character 98 (in part); Cloutier *et al*. (2020), Character 134; Clement *et al*. (2021), Character 134; Lu *et al*. (2012), Character 206 (in part); Choo *et al*. (2024), Character 134
+> Daeschler *et al*. (2006), Character 83 (in part); Long *et al*. (2006), Character 68 (in part); Swartz (2012), Character 158 (in part); Zhu *et al*. (2017), Character 134 (in part); Chen *et al*. (2018), Character 98 (in part); Cloutier *et al*. (2020), Character 134; Clement *et al*. (2021), Character 134; Lu *et al*. (2012), Character 206 (in part); Choo *et al*. (2024), Character 134
 
-> Cloutier et al. (2020): Character 134 of Zhu et al. (2017) has been divided into two characters: size (char. 134) and ornamentation (char. 172).
+> Cloutier *et al*. (2020): Character 134 of Zhu *et al*. (2017) has been divided into two characters: size (char. 134) and ornamentation (char. 172).
 
 135. Scapulocoracoid and cleithrum attachment: triradiate scapulocoracoid lying flush against internal surface of cleithrum, not separated by foramina (0); single large foramen piercing C-shaped scapulocoracoid close to contact face for cleithrum (1); scapulocoracoid attaching to cleithrum via three buttresses (2); scapulocoracoid attaching to cleithrum along its anterodorsal margin (3)
 
@@ -768,13 +776,13 @@
 
 176. Submandibulars: present (0); absent (1)
 
-> Daeschler *et al*. (2006), Character 80 (in part); Swartz (2012), Character 135 (in part); Cloutier *et al*. (2020), Character 176; Clement *et al*. (2021), Character 176; Lu *et al*. (2012), Character 173 (in part); Choo *et al*. (2024), Character 176
+> Daeschler *et al*. (2006), Character 80 (in part); Long *et al*. (2006), Character 63 (in part); Swartz (2012), Character 135 (in part); Cloutier *et al*. (2020), Character 176; Clement *et al*. (2021), Character 176; Lu *et al*. (2012), Character 173 (in part); Choo *et al*. (2024), Character 176
 
 > Lu *et al*. (2012) coded the submandibular: absent (0); present (1)
 
 177. Gular: present (0); absent (1)
 
-> Daeschler *et al*. (2006), Character 80 (in part); Swartz (2012), Character 135 (in part); Cloutier *et al*. (2020), Character 177; Simões and Pierce (2021), Character 155; Clement *et al*. (2021), Character 177; Lu *et al*. (2012), Character 171; Choo *et al*. (2024), Character 177
+> Daeschler *et al*. (2006), Character 80 (in part); Long *et al*. (2006), Character 63 (in part); Swartz (2012), Character 135 (in part); Cloutier *et al*. (2020), Character 177; Simões and Pierce (2021), Character 155; Clement *et al*. (2021), Character 177; Lu *et al*. (2012), Character 171; Choo *et al*. (2024), Character 177
 
 > Lu *et al*. (2012) defined the gular as the median gular
 
@@ -1324,6 +1332,10 @@ posterior margin of postparietals (1)
 312. Short ventral process on entepicondyle: absent (0); present (1)
 
 > Long *et al*. (2006), Character 61; Lu *et al*. (2012), Character 220
+
+> As this process is absent on most tetrapodomorphan humeri, we consider it a
+derived feature. This process is here shown clearly on Fig 2a for *Gogonasus*
+and seen on *Tiktaalik* in Shubin *et al*., 2006, Fig 2a.
 
 313. Ectepicondylar process: terminates proximal to epipodial facets (0); extends distal to epipodial facets (1)
 
