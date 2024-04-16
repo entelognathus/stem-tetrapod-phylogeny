@@ -9,10 +9,6 @@
 > - [references]
 
 ## Outgrop taxa
-
-
-## Sarcopterygian taxa
-
 [*Achoania jarviki*](https://deepbone.org/public/#/explor?s_id=2877&functionId=Deepbone_header_searchResultOpen) Zhu *et al*., 2001
 > upper Lochkovian, 415.0, 410.8
 
@@ -39,29 +35,11 @@
 > - [horizon and locality]
 > - White, 1965; Ahlberg and Trewin, 1995
 
-[*Eusthenopteron foordi*](https://deepbone.org/public/#/explor?s_id=3053&functionId=Deepbone_header_searchResultOpen) Whiteaves, 1881
-> middle Frasnian, 379.2, 375.7
-
-> - Escuminac Formation; Quebec, Canada.
-> - Jarvik, 1980a; b
-
 [*Glyptolepis groenlandica*](https://deepbone.org/public/#/explor?s_id=72364&functionId=Deepbone_header_searchResultOpen) Jarvik, 1972
 > upper Eifelian to lower Givetian, 389.6, 386.0
 
 > - Canning Land, East Greenland.
 > - Jarvik, 1972; Ahlberg, 1989;
-
-[*Gogonasus andrewsae*](https://deepbone.org/public/#/explor?s_id=3054&functionId=Deepbone_header_searchResultOpen) Long, 1985
-> lower Frasnian, 382.7, 379.2
-
-> - Gogo Formation; Western Australia, Australia. -17.75, 125.17
-> - Long, 1985; Long et al., 1997; 2006; Holland, 2013; 2014; 
-
-[*Kenichthys campbelli*](https://deepbone.org/public/#/explor?s_id=58645&functionId=Deepbone_header_searchResultOpen) Chang and Zhu, 1993
-> upper Emsian, 400.45, 393.3
-
-> - Chuandong Formation; Qujing, Yunnan, China.
-> - [Chang and Zhu, 1993](https://www.researchgate.net/publication/225038585_A_new_Middle_Devonian_Osteolepidid_from_Qujing_Yunnan); [Zhu and Ahlberg, 2004](https://www.nature.com/articles/nature02843)
 
 [*Miguashaia bureaui*](https://deepbone.org/public/#/explor?s_id=3051&functionId=Deepbone_header_searchResultOpen) Schultze, 1973
 > middle Frasnian, 379.2, 375.7
@@ -76,12 +54,6 @@
 
 > - Gogo Formation; Western Australia, Australia. -17.75, 125.17
 > - [Andrews et al., 2005](https://www.researchgate.net/publication/213769142_The_structure_of_the_sarcopterygian_Onychodus_jandemarrai_n_sp_from_Gogo_Western_Australia_with_a_functional_interpretation_of_the_skeleton)
-
-[*Osteolepis macrolepidotus*](https://deepbone.org/public/#/explor?s_id=3055&functionId=Deepbone_header_searchResultOpen) Agassiz
-> upper Eifelian, 389.6, 387.7
-
-> - Achanarras fish beds, Achanarras Limestone, Lower Caithness Flagstone Group, Scotland.
-> - Jarvik, 1980a; b; Thomson, 1965; Westoll, 1936
 
 [*Porolepis* spp.](https://deepbone.org/public/#/explor?s_id=2889&functionId=Deepbone_header_searchResultOpen)
 > Pragian to Emsian, 410.8, 393.3
@@ -130,6 +102,31 @@
 
 > - Xitun Formation, Qujing, Yunnan, China
 > - Chang, 1982; 1991; Chang and Yu, 1981
+
+## Stem Tetrapoda taxa
+[*Eusthenopteron foordi*](https://deepbone.org/public/#/explor?s_id=3053&functionId=Deepbone_header_searchResultOpen) Whiteaves, 1881
+> middle Frasnian, 379.2, 375.7
+
+> - Escuminac Formation; Quebec, Canada.
+> - Jarvik, 1980a; b
+
+[*Gogonasus andrewsae*](https://deepbone.org/public/#/explor?s_id=3054&functionId=Deepbone_header_searchResultOpen) Long, 1985
+> lower Frasnian, 382.7, 379.2
+
+> - Gogo Formation; Western Australia, Australia. -17.75, 125.17
+> - Long, 1985; Long et al., 1997; 2006; Holland, 2013; 2014; 
+
+[*Kenichthys campbelli*](https://deepbone.org/public/#/explor?s_id=58645&functionId=Deepbone_header_searchResultOpen) Chang and Zhu, 1993
+> upper Emsian, 400.45, 393.3
+
+> - Chuandong Formation; Qujing, Yunnan, China.
+> - [Chang and Zhu, 1993](https://www.researchgate.net/publication/225038585_A_new_Middle_Devonian_Osteolepidid_from_Qujing_Yunnan); [Zhu and Ahlberg, 2004](https://www.nature.com/articles/nature02843)
+
+[*Osteolepis macrolepidotus*](https://deepbone.org/public/#/explor?s_id=3055&functionId=Deepbone_header_searchResultOpen) Agassiz
+> upper Eifelian, 389.6, 387.7
+
+> - Achanarras fish beds, Achanarras Limestone, Lower Caithness Flagstone Group, Scotland.
+> - Jarvik, 1980a; b; Thomson, 1965; Westoll, 1936
 
 **References**
 
