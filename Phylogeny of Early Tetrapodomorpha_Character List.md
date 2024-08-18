@@ -1427,4 +1427,4 @@ posterior margin of postparietals (1)
 
 > Long *et al*. (2006), Character 103
 
-> Long *et al*. (2006): This character is polarised as for Ch. 105.
+> Long *et al*. (2006): This character is polarised as for Character 105.
