@@ -8,7 +8,7 @@
 > - [horizon and locality]
 > - [references]
 
-## Outgrop taxa
+## Outgroup taxa
 [*Achoania jarviki*](https://deepbone.org/public/#/explor?s_id=2877&functionId=Deepbone_header_searchResultOpen) Zhu *et al*., 2001
 > upper Lochkovian, 415.0, 410.8
 
