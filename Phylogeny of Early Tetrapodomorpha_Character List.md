@@ -13,10 +13,14 @@
 1. Position of orbits: lateral and widely separated (0); dorsal and close together (1)
 
 > Daeschler *et al*. (2006), Character 45; Long *et al*. (2006), Character 49; Swartz (2012), Character 97; Zhu *et al*. (2017), Character 1; Cloutier *et al*. (2020), Character 1; Simões and Pierce (2021), Character 1; Clement *et al*. (2021), Character 1; Lu *et al*. (2012), Character 1; Choo *et al*. (2024), Character 1
+> The coding of *Thursius* is "0"
+> The coding of ZJYosteo is "0"
 
 2. Proportion of skull roof lying anterior to middle of orbits: <50% (0); ≧50% (1)
 
 > Daeschler *et al*. (2006), Character 75; Long *et al*. (2006), Character 55 (in part); Zhu *et al*. (2017), Character 2; Cloutier *et al*. (2020), Character 2; Clement *et al*. (2021), Character 2; Lu *et al*. (2012), Character 2; Choo *et al*. (2024), Character 2
+> The coding of *Thursius* is "0"
+> The coding of ZJYosteo is "0"
 
 3. Facial lamina of premaxilla: vertical, indicating deep snout (0); curve posteriorly, indicating flattened snout (1)
 
