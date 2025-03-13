@@ -44,7 +44,7 @@
 
 > Daeschler *et al*. (2006), Character 34 (in part); Swartz (2012), Character 86 (in part); Zhu *et al*. (2017), Character 6; Cloutier *et al*. (2020), Character 6; Simões and Pierce (2021), Character 4; Clement *et al*. (2021), Character 6; Lu *et al*. (2012), Character 5; Long *et al*. (2006), Character 40 (in part); Choo *et al*. (2024), Character 6
 
->The code (3) paired E bones is added in Lu *et al*
+> - The code (3) paired E bones is added in Lu *et al*. (2012)
 
 7. Number of nasals: more than two (0); two (1); one (2)
 
@@ -66,7 +66,7 @@
 
 > Zhu *et al*. (2017), Character 11; Cloutier *et al*. (2020), Character 11; Clement *et al*. (2021), Character 11; Lu *et al*. (2012), Character 14 (in part); Choo *et al*. (2024), Character 11
 
-> Lu *et al*. (2012) coded the number of supraorbitals: two (1); more than two (2)
+> - Lu *et al*. (2012) coded the number of supraorbitals: two (1); more than two (2)
 
 12. Posterior or posteriormost supraorbital (postfrontal) extends anterior of orbit: yes (0); no (1)
 
@@ -112,7 +112,7 @@
 
 > Daeschler *et al*. (2006), Character 30, Swartz (2012), Character 117, Zhu *et al*. (2017), Character 22; Cloutier *et al*. (2020), Character 22; Simões and Pierce (2021), Character 16; Clement *et al*. (2021), Character 22; Choo *et al*. (2024), Character 22
 
-> Cloutier et al. (2020): The taxa having a pineal opening (char. 21) but not plates are coded as "-".
+> - Cloutier et al. (2020): The taxa having a pineal opening (char. 21) but not plates are coded as "-".
 
 23. Location of pineal foramen/eminence: level with, or anterior to posterior margin of orbits (0); posterior to orbits (1)
 
@@ -164,7 +164,7 @@
 
 > Daeschler *et al*. (2006), Character 48; Long *et al*. (2006), Character 50 (in part); Swartz (2012), Character 142; Zhu *et al*. (2017), Character 33; Cloutier *et al*. (2020), Character 33; Simões and Pierce (2021), Character 25; Clement *et al*. (2021), Character 33; Lu *et al*. (2012), Character 38 (in part); Choo *et al*. (2024), Character 33
 
-> Lu *et al*. (2012) added code: median extrascapular abutting lateral extrascapulars (2)
+> - Lu *et al*. (2012) added code: median extrascapular abutting lateral extrascapulars (2)
 
 34. Internasal pits: undifferentiated or anterior palatal fossa (0); shallow paired pits with strong midline ridge (1); deep pear-shaped pits (2)
 
