@@ -13,28 +13,32 @@
 1. Position of orbits: lateral and widely separated (0); dorsal and close together (1)
 
 > Daeschler *et al*. (2006), Character 45; Long *et al*. (2006), Character 49; Swartz (2012), Character 97; Zhu *et al*. (2017), Character 1; Cloutier *et al*. (2020), Character 1; Simões and Pierce (2021), Character 1; Clement *et al*. (2021), Character 1; Lu *et al*. (2012), Character 1; Choo *et al*. (2024), Character 1
-
-> The coding of *Thursius* is "0"
-
-> The coding of ZJYosteo is "0"
+> - The coding of *Thursius* is "0"
+> - The coding of ZJYosteo is "0"
 
 2. Proportion of skull roof lying anterior to middle of orbits: <50% (0); ≧50% (1)
 
 > Daeschler *et al*. (2006), Character 75; Long *et al*. (2006), Character 55 (in part); Zhu *et al*. (2017), Character 2; Cloutier *et al*. (2020), Character 2; Clement *et al*. (2021), Character 2; Lu *et al*. (2012), Character 2; Choo *et al*. (2024), Character 2
-> The coding of *Thursius* is "0"
-> The coding of ZJYosteo is "0"
+> - The coding of *Thursius* is "0"
+> - The coding of ZJYosteo is "0"
 
 3. Facial lamina of premaxilla: vertical, indicating deep snout (0); curve posteriorly, indicating flattened snout (1)
 
 > Zhu *et al*. (2017), Character 3; Cloutier *et al*. (2020), Character 3; Simões and Pierce (2021), Character 2; Clement *et al*. (2021), Character 3; Choo *et al*. (2024), Character 1
+> - The coding of *Thursius* is "0"
+> - The coding of ZJYosteo is "0"
 
 4. Facial lamina of premaxilla: height less than 50% of length of premaxilla (0); more than 50% of length of premaxilla (1)
 
 > Zhu *et al*. (2017), Character 4; Cloutier *et al*. (2020), Character 4; Clement *et al*. (2021), Character 4; Choo *et al*. (2024), Character 4
+> - The coding of *Thursius* is "0"
+> - The coding of ZJYosteo is "0"
 
 5. Orientation of anterior tectal and lateral rostral relative to anterior nostril: dorsal/ventral (0); posterior/anterior (1)
 
 > Daeschler *et al*. (2006), Character 23; Zhu *et al*. (2017), Character 5; Cloutier *et al*. (2020), Character 5; Simões and Pierce (2021), Character 3; Clement *et al*. (2021), Character 5; Lu *et al*. (2012), Character 4; Choo *et al*. (2024), Character 5
+> - The coding of *Thursius* is "0"
+> - The coding of ZJYosteo is "0"
 
 6. Postrostral: absent (0); postrostral mosaic of small variable bones (1); large median postrostral, with or without accessory bones (2); paired E bones (3)
 
@@ -134,15 +138,15 @@
 
 > Daeschler *et al*. (2006), Character 87 (in part); Long *et al*. (2006), Character 54 (in part); Swartz (2012), Character 140 (in part); Zhu *et al*. (2017), Character 28; Cloutier *et al*. (2020), Character 28; Simões and Pierce (2021), Character 21; Clement *et al*. (2021), Character 28; Lu *et al*. (2012), Character 31 (in part); Choo *et al*. (2024), Character 28
 
-> Long *et al*. (2006); Lu *et al*. (2012) coded the spiracular notch: absent‐small (0); narrow groove (1); wide notch (2)
+> - Long *et al*. (2006); Lu *et al*. (2012) coded the spiracular notch: absent‐small (0); narrow groove (1); wide notch (2)
 
-> ‘Wide’ notch here refs to the expanded size of the opening as in *Gogonasus*, *Panderichthys* and *Tiktaalik*.
+> - ‘Wide’ notch here refs to the expanded size of the opening as in *Gogonasus*, *Panderichthys* and *Tiktaalik*.
 
 29. Extratemporal: absent (0); present (1)
 
 > Daeschler *et al*. (2006), Character 37 (in part), Character 40 (in part); Long *et al*. (2006), Character 44 (in part); Swartz (2012), Character 124 (in part); Zhu *et al*. (2017), Character 29 (in part); Cloutier *et al*. (2020), Character 29; Simões and Pierce (2021), Character 22; Clement *et al*. (2021), Character 29; Lu *et al*. (2012), Character 33 (in part); Choo *et al*. (2024), Character 29
 
-> Cloutier et al. (2020): Zhu et al. (2017) created apomorphic state 2 in which the extratemporal separates the lateral extrascapular from the squamosal, suggesting homology between the extratemporal and the postspiracular. We divided character 29 of Zhu et al. (2017) into two characters (29 and 170) because the homology between the extratemporal and spiracular is dubious.
+> - Cloutier et al. (2020): Zhu et al. (2017) created apomorphic state 2 in which the extratemporal separates the lateral extrascapular from the squamosal, suggesting homology between the extratemporal and the postspiracular. We divided character 29 of Zhu et al. (2017) into two characters (29 and 170) because the homology between the extratemporal and spiracular is dubious.
 
 30. Contact between extratemporal and supratemporal: absent (0); present (1)
 
@@ -166,9 +170,9 @@
 
 > *ordered*; Daeschler *et al*. (2006), Character 19; Swartz (2012), Character 88; Zhu *et al*. (2017), Character 34; Cloutier *et al*. (2020), Character 34; Simões and Pierce (2021), Character 26; Clement *et al*. (2021), Character 34; Lu *et al*. (2012), Character 40 (in part); Long *et al*. (2006), Character 28 (in part); Choo *et al*. (2024), Character 34
 
-> Lu *et al*. (2012) added code: absent (3)
+> - Lu *et al*. (2012) added code: absent (3)
 
-> Long *et al*. (2006):  In Daeschler et al. (2006) they use 3 states but as our taxa do not exhibit any differentiation between absent or very small spiracular slit, we have combined these as the basal state (0). State 1 only refers to the 2 outgroup taxa here.
+> - Long *et al*. (2006):  In Daeschler et al. (2006) they use 3 states but as our taxa do not exhibit any differentiation between absent or very small spiracular slit, we have combined these as the basal state (0). State 1 only refers to the 2 outgroup taxa here.
 
 35. Tectum orbitale: narrow (0); extensive (1)
 
@@ -202,7 +206,7 @@
 
 > *ordered*; Swartz (2012), Character 15 (morphocline changed); Zhu *et al*. (2017), Character 42 (morphocline changed); Cloutier *et al*. (2020), Character 42; Simões and Pierce (2021), Character 33; Clement *et al*. (2021), Character 42; Lu *et al*. (2012), Character 58; Choo *et al*. (2024), Character 42
 
-> Cloutier et al. (2020): The original character states provided by Zhu et al. (2017) have been reordered to form a morphocline.
+> - Cloutier et al. (2020): The original character states provided by Zhu et al. (2017) have been reordered to form a morphocline.
 
 43. Vestibular fontanelle: absent (0); present (1)
 
