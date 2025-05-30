@@ -88,9 +88,15 @@
 
 > Lu *et al*. (2012) coded the number of supraorbitals: two (1); more than two (2)
 
+> - The coding of *Thursius* is "?"
+> - The coding of ZJYosteo is "?"
+
 12. Posterior or posteriormost supraorbital (postfrontal) extends anterior of orbit: yes (0); no (1)
 
 > Daeschler *et al*. (2006), Character 86; Long *et al*. (2006), Character 57; Swartz (2012), Character 109; Zhu *et al*. (2017), Character 12; Cloutier *et al*. (2020), Character 12; Simões and Pierce (2021), Character 9; Clement *et al*. (2021), Character 12; Choo *et al*. (2024), Character 12
+
+> - The coding of *Thursius* is "?"
+> - The coding of ZJYosteo is "?"
 
 13. Relative size of anterior (or anteriormost) supraorbital (prefrontal, posterior tectal of Jarvik) and posterior (or posteriormost) supraorbital (postfrontal): similar (0); anterior supraorbital much bigger (1)
 
