@@ -145,6 +145,7 @@
 > Daeschler *et al*. (2006), Character 30, Swartz (2012), Character 117, Zhu *et al*. (2017), Character 22; Cloutier *et al*. (2020), Character 22; Simões and Pierce (2021), Character 16; Clement *et al*. (2021), Character 22; Choo *et al*. (2024), Character 22
 
 > - Cloutier et al. (2020): The taxa having a pineal opening (char. 21) but not plates are coded as "-".
+
 > - The coding of *Thursius* is "0"
 > - The coding of ZJYosteo is "0"
 
@@ -185,6 +186,7 @@
 > - Long *et al*. (2006); Lu *et al*. (2012) coded the spiracular notch: absent‐small (0); narrow groove (1); wide notch (2)
 
 > - ‘Wide’ notch here refs to the expanded size of the opening as in *Gogonasus*, *Panderichthys* and *Tiktaalik*.
+
 > - The coding of *Thursius* is "0"
 > - The coding of ZJYosteo is "0"
 
@@ -219,6 +221,7 @@
 > Daeschler *et al*. (2006), Character 48; Long *et al*. (2006), Character 50 (in part); Swartz (2012), Character 142; Zhu *et al*. (2017), Character 33; Cloutier *et al*. (2020), Character 33; Simões and Pierce (2021), Character 25; Clement *et al*. (2021), Character 33; Lu *et al*. (2012), Character 38 (in part); Choo *et al*. (2024), Character 33
 
 > - Lu *et al*. (2012) added code: median extrascapular abutting lateral extrascapulars (2)
+
 > - The coding of *Thursius* is "0"
 > - The coding of ZJYosteo is "?"
 
@@ -229,6 +232,7 @@
 > - Lu *et al*. (2012) added code: absent (3)
 
 > - Long *et al*. (2006):  In Daeschler et al. (2006) they use 3 states but as our taxa do not exhibit any differentiation between absent or very small spiracular slit, we have combined these as the basal state (0). State 1 only refers to the 2 outgroup taxa here.
+
 > - The coding of *Thursius* is "0"
 > - The coding of ZJYosteo is "0"
 
