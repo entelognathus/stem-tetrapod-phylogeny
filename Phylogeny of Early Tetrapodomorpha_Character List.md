@@ -45,14 +45,20 @@
 > Daeschler *et al*. (2006), Character 34 (in part); Swartz (2012), Character 86 (in part); Zhu *et al*. (2017), Character 6; Cloutier *et al*. (2020), Character 6; Simões and Pierce (2021), Character 4; Clement *et al*. (2021), Character 6; Lu *et al*. (2012), Character 5; Long *et al*. (2006), Character 40 (in part); Choo *et al*. (2024), Character 6
 
 > - The code (3) paired E bones is added in Lu *et al*. (2012)
+> - The coding of *Thursius* is "?"
+> - The coding of ZJYosteo is "?"
 
 7. Number of nasals: more than two (0); two (1); one (2)
 
 > *ordered*; Daeschler *et al*. (2006), Character 35, Swartz (2012), Character 83, Zhu *et al*. (2017), Character 7 (in part); Cloutier *et al*. (2020), Character 7; Simões and Pierce (2021), Character 5; Clement *et al*. (2021), Character 7; Lu *et al*. (2012), Character 6; Long *et al*. (2006), Character 41; Choo *et al*. (2024), Character 7
+> - The coding of *Thursius* is "?"
+> - The coding of ZJYosteo is "?"
 
 8. Position of anterior nostril: facial (0); edge of mouth (1)
 
 > Swartz (2012), Character 91; Zhu *et al*. (2017), Character 8; Cloutier *et al*. (2020), Character 8; Simões and Pierce (2021), Character 6; Clement *et al*. (2021), Character 8; Choo *et al*. (2024), Character 8
+> - The coding of *Thursius* is "0"
+> - The coding of ZJYosteo is "0"
 
 9. Dermintermedial process: absent (0); present (1)
 
