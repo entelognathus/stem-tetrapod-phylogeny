@@ -63,82 +63,120 @@
 9. Dermintermedial process: absent (0); present (1)
 
 > Zhu *et al*. (2017), Character 9; Cloutier *et al*. (2020), Character 9; Simões and Pierce (2021), Character 7; Clement *et al*. (2021), Character 9; Choo *et al*. (2024), Character 9
+> - The coding of *Thursius* is "0"
+> - The coding of ZJYosteo is "0"
 
 10. Position of posterior nostril: external, far from jaw margin (0); external, close to jaw margin (1); palatal (2)
 
 > *ordered*; Swartz (2012), Character 89 (in part); Zhu *et al*. (2017), Character 10; Cloutier *et al*. (2020), Character 10; Simões and Pierce (2021), Character 8; Clement *et al*. (2021), Character 10; Lu *et al*. (2012), Character 9; Choo *et al*. (2024), Character 10
+> - The coding of *Thursius* is "1"
+> - The coding of ZJYosteo is "1"
 
 11. Number of supraorbitals: one (0); more than one (1)
 
 > Zhu *et al*. (2017), Character 11; Cloutier *et al*. (2020), Character 11; Clement *et al*. (2021), Character 11; Lu *et al*. (2012), Character 14 (in part); Choo *et al*. (2024), Character 11
 
 > - Lu *et al*. (2012) coded the number of supraorbitals: two (1); more than two (2)
+> - The coding of *Thursius* is "?"
+> - The coding of ZJYosteo is "?"
 
 12. Posterior or posteriormost supraorbital (postfrontal) extends anterior of orbit: yes (0); no (1)
 
 > Daeschler *et al*. (2006), Character 86; Long *et al*. (2006), Character 57; Swartz (2012), Character 109; Zhu *et al*. (2017), Character 12; Cloutier *et al*. (2020), Character 12; Simões and Pierce (2021), Character 9; Clement *et al*. (2021), Character 12; Choo *et al*. (2024), Character 12
+> - The coding of *Thursius* is "?"
+> - The coding of ZJYosteo is "?"
 
 13. Relative size of anterior (or anteriormost) supraorbital (prefrontal, posterior tectal of Jarvik) and posterior (or posteriormost) supraorbital (postfrontal): similar (0); anterior supraorbital much bigger (1)
 
 > Daeschler *et al*. (2006), Character 76 (rephrased); Long *et al*. (2006), Character 56 (rephrased); Zhu *et al*. (2017), Character 13; Cloutier *et al*. (2020), Character 13; Clement *et al*. (2021), Character 13; Lu *et al*. (2012), Character 15; Choo *et al*. (2024), Character 13
+> - The coding of *Thursius* is "?"
+> - The coding of ZJYosteo is "?"
 
 14. Shape of posterior supraorbital: posterior process similar in length or shorter than orbital margin (0); posterior process much longer than orbital margin (1)
 
 > Swartz (2012), Character 110 (in part); Zhu *et al*. (2017), Character 14; Cloutier *et al*. (2020), Character 14; Clement *et al*. (2021), Character 14; Choo *et al*. (2024), Character 14
+> - The coding of *Thursius* is "?"
+> - The coding of ZJYosteo is "?"
 
 15. Contact between parietal and supraorbital: present (0); absent (1)
 
 > Swartz (2012), Character 112 (in part); Zhu *et al*. (2017), Character 15; Cloutier *et al*. (2020), Character 15; Simões and Pierce (2021), Character 10; Clement *et al*. (2021), Character 15; Lu *et al*. (2012), Character 16; Choo *et al*. (2024), Character 15
+> - The coding of *Thursius* is "?"
+> - The coding of ZJYosteo is "?"
 
 16. Intertemporal: present (0); absent (1)
 
 > Daeschler *et al*. (2006), Character 74; Long *et al*. (2006), Character 53; Swartz (2012), Character 118; Zhu *et al*. (2017), Character 16; Clack *et al*. (2012), Character 6; Chen *et al*. (2018), Character 5; Cloutier *et al*. (2020), Character 16; Simões and Pierce (2021), Character 11; Clement *et al*. (2021), Character 16; Lu *et al*. (2012), Character 18; Choo *et al*. (2024), Character 16
+> - The coding of *Thursius* is "0"
+> - The coding of ZJYosteo is "0"
 
 17. Contact between posterior supraorbital and intertemporal: present (0); absent (1)
 
 > Swartz (2012), Character 111; Zhu *et al*. (2017), Character 17; Cloutier *et al*. (2020), Character 17; Simões and Pierce (2021), Character 12; Clement *et al*. (2021), Character 17; Choo *et al*. (2024), Character 17
+> - The coding of *Thursius* is "0"
+> - The coding of ZJYosteo is "0"
 
 18. Number of tectals: one (0); more than one (1)
 
 > Zhu *et al*. (2017), Character 18; Cloutier *et al*. (2020), Character 18; Simões and Pierce (2021), Character 13; Clement *et al*. (2021), Character 18; Lu *et al*. (2012), Character 19; Choo *et al*. (2024), Character 18
+> - The coding of *Thursius* is "?"
+> - The coding of ZJYosteo is "?"
 
 19. Paired frontal bones meeting in midline, anterior to parietals: absent (0); present (1)
 
 > Daeschler *et al*. (2006), Character 36; Swartz (2012), Character 113; Zhu *et al*. (2017), Character 19; Clack *et al*. (2012), Character 5; Chen *et al*. (2018), Character 4; Cloutier *et al*. (2020), Character 19; Simões and Pierce (2021), Character 14; Clement *et al*. (2021), Character 19; Long *et al*. (2006), Character 42; Choo *et al*. (2024), Character 19
+> - The coding of *Thursius* is "?"
+> - The coding of ZJYosteo is "?"
 
 20. Width of ethmoid relative to length from snout tip to posterior margin of parietals: more than 80% (0); 70 - 79% (1); 50 - 69% (2); less than 50% (3)
 
 > *ordered*; Daeschler *et al*. (2006), Character 24 (in part); Swartz (2012), Character 103 (in part); Zhu *et al*. (2017), Character 20; Cloutier *et al*. (2020), Character 20; Clement *et al*. (2021), Character 20; Lu *et al*. (2012), Character 22; Long *et al*. (2006), Character 31 (in part); Choo *et al*. (2024), Character 20
+> - The coding of *Thursius* is "0"
+> - The coding of ZJYosteo is "0"
 
 21. Pineal foramen: present (0); absent (1)
 
 > Daeschler *et al*. (2006), Character 27, Swartz (2012), Character 115, Zhu *et al*. (2017), Character 21; Cloutier *et al*. (2020), Character 21; Simões and Pierce (2021), Character 15; Clement *et al*. (2021), Character 21; Lu *et al*. (2012), Character 23; Long *et al*. (2006), Character 36; Choo *et al*. (2024), Character 21
+> - The coding of *Thursius* is "0"
+> - The coding of ZJYosteo is "0"
 
 22. Shape of pineal series: round or oval (0); kite shaped with distinct posterior corner (1)
 
 > Daeschler *et al*. (2006), Character 30, Swartz (2012), Character 117, Zhu *et al*. (2017), Character 22; Cloutier *et al*. (2020), Character 22; Simões and Pierce (2021), Character 16; Clement *et al*. (2021), Character 22; Choo *et al*. (2024), Character 22
 
 > - Cloutier et al. (2020): The taxa having a pineal opening (char. 21) but not plates are coded as "-".
+> - The coding of *Thursius* is "0"
+> - The coding of ZJYosteo is "0"
 
 23. Location of pineal foramen/eminence: level with, or anterior to posterior margin of orbits (0); posterior to orbits (1)
 
 > Daeschler *et al*. (2006), Character 28; Swartz (2012), Character 116; Zhu *et al*. (2017), Character 23; Cloutier *et al*. (2020), Character 23; Simões and Pierce (2021), Character 17; Clement *et al*. (2021), Character 23; Lu *et al*. (2012), Character 25; Choo *et al*. (2024), Character 23
- 
+> - The coding of *Thursius* is "0"
+> - The coding of ZJYosteo is "0"
+
 24. Parietals surround pineal foramen/eminence: yes (0); no (1)
 
 > Daeschler *et al*. (2006), Character 29; Swartz (2012), Character 114; Zhu *et al*. (2017), Character 24; Cloutier *et al*. (2020), Character 24; Simões and Pierce (2021), Character 18; Clement *et al*. (2021), Character 24; Lu *et al*. (2012), Character 26; Choo *et al*. (2024), Character 24
+> - The coding of *Thursius* is "0"
+> - The coding of ZJYosteo is "0"
 
 25. Dermal intracranial joint: absent (0); present (1)
 
 > Daeschler *et al*. (2006), Character 50; Swartz (2012), Character 119; Zhu *et al*. (2017), Character 25; Chen *et al*. (2018), Character 83; Cloutier *et al*. (2020), Character 25; Simões and Pierce (2021), Character 19; Clement *et al*. (2021), Character 25; Lu *et al*. (2012), Character 27; Long *et al*. (2006), Character 3; Choo *et al*. (2024), Character 25
+> - The coding of *Thursius* is "1"
+> - The coding of ZJYosteo is "1"
 
 26. Postparietals narrow to a point posteriorly: no (0), yes (1)
 
 > Daeschler *et al*. (2006), Character 32; Swartz (2012), Character 120; Zhu *et al*. (2017), Character 26; Cloutier *et al*. (2020), Character 26; Simões and Pierce (2021), Character 20; Clement *et al*. (2021), Character 26; Lu *et al*. (2012), Character 29; Long *et al*. (2006), Character 38; Choo *et al*. (2024), Character 26
+> - The coding of *Thursius* is "1"
+> - The coding of ZJYosteo is "?"
 
 27. Proportions of postparietal shield maximum width of postparietal shield versus skull width at level of anterior end of postparietal: maximum width of postparietal shield <1/3 skull width at level of anterior end of postparietal (0); maximum width of postparietal shield >=1/3 skull width at level of anterior end of postparietal (1)
 
 > Daeschler *et al*. (2006), Character 31 (in part); Swartz (2012), Character 121 (in part); Zhu *et al*. (2017), Character 27; Cloutier *et al*. (2020), Character 27; Clement *et al*. (2021), Character 27; Lu *et al*. (2012), Character 30; Long *et al*. (2006), Character 37 (in part); Choo *et al*. (2024), Character 27
+> - The coding of *Thursius* is "1"
+> - The coding of ZJYosteo is "?"
 
 28. Spiracular notch: small hole or narrow slit (0); wide notch between skull roof and cheek (1)
 
@@ -147,30 +185,42 @@
 > - Long *et al*. (2006); Lu *et al*. (2012) coded the spiracular notch: absent‐small (0); narrow groove (1); wide notch (2)
 
 > - ‘Wide’ notch here refs to the expanded size of the opening as in *Gogonasus*, *Panderichthys* and *Tiktaalik*.
+> - The coding of *Thursius* is "0"
+> - The coding of ZJYosteo is "0"
 
 29. Extratemporal: absent (0); present (1)
 
 > Daeschler *et al*. (2006), Character 37 (in part), Character 40 (in part); Long *et al*. (2006), Character 44 (in part); Swartz (2012), Character 124 (in part); Zhu *et al*. (2017), Character 29 (in part); Cloutier *et al*. (2020), Character 29; Simões and Pierce (2021), Character 22; Clement *et al*. (2021), Character 29; Lu *et al*. (2012), Character 33 (in part); Choo *et al*. (2024), Character 29
 
 > - Cloutier et al. (2020): Zhu et al. (2017) created apomorphic state 2 in which the extratemporal separates the lateral extrascapular from the squamosal, suggesting homology between the extratemporal and the postspiracular. We divided character 29 of Zhu et al. (2017) into two characters (29 and 170) because the homology between the extratemporal and spiracular is dubious.
+> - The coding of *Thursius* is "?"
+> - The coding of ZJYosteo is "?"
 
 30. Contact between extratemporal and supratemporal: absent (0); present (1)
 
 > Daeschler *et al*. (2006), Character 38; Long *et al*. (2006), Character 45; Swartz (2012), Character 126; Zhu *et al*. (2017), Character 30; Cloutier *et al*. (2020), Character 30; Simões and Pierce (2021), Character 23; Clement *et al*. (2021), Character 30; Lu *et al*. (2012), Character 34; Choo *et al*. (2024), Character 30
+> - The coding of *Thursius* is "?"
+> - The coding of ZJYosteo is "?"
 
 31. Extrascapulars: present (0); absent (1)
 
 > Daeschler *et al*. (2006), Character 77; Long *et al*. (2006), Character 58; Swartz (2012), Character 143; Zhu *et al*. (2017), Character 31; Cloutier *et al*. (2020), Character 31; Simões and Pierce (2021), Character 24; Clement *et al*. (2021), Character 31; Lu *et al*. (2012), Character 36; Choo *et al*. (2024), Character 31
+> - The coding of *Thursius* is "0"
+> - The coding of ZJYosteo is "?"
 
 32. Anterior margin of median extrascapular: long (0); very short (1)
 
 > Daeschler *et al*. (2006), Character 49; Long *et al*. (2006), Character 51; Swartz (2012), Character 141; Zhu *et al*. (2017), Character 32; Cloutier *et al*. (2020), Character 32; Clement *et al*. (2021), Character 32; Lu *et al*. (2012), Character 37; Choo *et al*. (2024), Character 32
+> - The coding of *Thursius* is "0"
+> - The coding of ZJYosteo is "?"
 
 33. Median extrascapular overlap: median extrascapular overlapped by lateral extrascapulars (0); median extrascapular overlapping lateral extrascapulars (1)
 
 > Daeschler *et al*. (2006), Character 48; Long *et al*. (2006), Character 50 (in part); Swartz (2012), Character 142; Zhu *et al*. (2017), Character 33; Cloutier *et al*. (2020), Character 33; Simões and Pierce (2021), Character 25; Clement *et al*. (2021), Character 33; Lu *et al*. (2012), Character 38 (in part); Choo *et al*. (2024), Character 33
 
 > - Lu *et al*. (2012) added code: median extrascapular abutting lateral extrascapulars (2)
+> - The coding of *Thursius* is "0"
+> - The coding of ZJYosteo is "?"
 
 34. Internasal pits: undifferentiated or anterior palatal fossa (0); shallow paired pits with strong midline ridge (1); deep pear-shaped pits (2)
 
@@ -179,18 +229,26 @@
 > - Lu *et al*. (2012) added code: absent (3)
 
 > - Long *et al*. (2006):  In Daeschler et al. (2006) they use 3 states but as our taxa do not exhibit any differentiation between absent or very small spiracular slit, we have combined these as the basal state (0). State 1 only refers to the 2 outgroup taxa here.
+> - The coding of *Thursius* is "0"
+> - The coding of ZJYosteo is "0"
 
 35. Tectum orbitale: narrow (0); extensive (1)
 
 > Swartz (2012), Character 11; Zhu *et al*. (2017), Character 35; Cloutier *et al*. (2020), Character 35; Clement *et al*. (2021), Character 35; Lu *et al*. (2012), Character 43; Choo *et al*. (2024), Character 35
+> - The coding of *Thursius* is "0"
+> - The coding of ZJYosteo is "0"
 
 36. Large median opening and several small dorsolateral openings in postnasal wall: absent (0); present (1)
 
 > Zhu *et al*. (2017), Character 36; Cloutier *et al*. (2020), Character 36; Simões and Pierce (2021), Character 27; Clement *et al*. (2021), Character 36; Lu *et al*. (2012), Character 44; Choo *et al*. (2024), Character 36
- 
+> - The coding of *Thursius* is "0"
+> - The coding of ZJYosteo is "0"
+
 37. Position of exit of pituitary vein: in front of basipterygoid process (0); dorsal to vertical portion of basipterygoid process (1)
 
 > Swartz (2012), Character 5; Zhu *et al*. (2017), Character 37; Cloutier *et al*. (2020), Character 37; Simões and Pierce (2021), Character 28; Clement *et al*. (2021), Character 37; Lu *et al*. (2012), Character 50; Choo *et al*. (2024), Character 37
+> - The coding of *Thursius* is "0"
+> - The coding of ZJYosteo is "0"
 
 38. Descending process of sphenoid (with its posterior extremity lacking periostegeal lining): absent (0); present (1)
 
