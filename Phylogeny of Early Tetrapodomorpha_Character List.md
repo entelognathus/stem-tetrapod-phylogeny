@@ -77,6 +77,7 @@
 > Zhu *et al*. (2017), Character 11; Cloutier *et al*. (2020), Character 11; Clement *et al*. (2021), Character 11; Lu *et al*. (2012), Character 14 (in part); Choo *et al*. (2024), Character 11
 
 > - Lu *et al*. (2012) coded the number of supraorbitals: two (1); more than two (2)
+
 > - The coding of *Thursius* is "?"
 > - The coding of ZJYosteo is "?"
 
@@ -195,6 +196,7 @@
 > Daeschler *et al*. (2006), Character 37 (in part), Character 40 (in part); Long *et al*. (2006), Character 44 (in part); Swartz (2012), Character 124 (in part); Zhu *et al*. (2017), Character 29 (in part); Cloutier *et al*. (2020), Character 29; Simões and Pierce (2021), Character 22; Clement *et al*. (2021), Character 29; Lu *et al*. (2012), Character 33 (in part); Choo *et al*. (2024), Character 29
 
 > - Cloutier et al. (2020): Zhu et al. (2017) created apomorphic state 2 in which the extratemporal separates the lateral extrascapular from the squamosal, suggesting homology between the extratemporal and the postspiracular. We divided character 29 of Zhu et al. (2017) into two characters (29 and 170) because the homology between the extratemporal and spiracular is dubious.
+
 > - The coding of *Thursius* is "?"
 > - The coding of ZJYosteo is "?"
 
@@ -250,25 +252,33 @@
 
 37. Position of exit of pituitary vein: in front of basipterygoid process (0); dorsal to vertical portion of basipterygoid process (1)
 
-> Swartz (2012), Character 5; Zhu *et al*. (2017), Character 37; Cloutier *et al*. (2020), Character 37; Simões and Pierce (2021), Character 28; Clement *et al*. (2021), Character 37; Lu *et al*. (2012), Character 50; Choo *et al*. (2024), Character 37
-> - The coding of *Thursius* is "0"
-> - The coding of ZJYosteo is "0"
+> Swartz (2012), Character 5; Zhu *et al*. (2017), Character 37; Cloutier *et al*. (2020), Character 37; Simões and Pierce (2021), Character 28; Clement *et al*. (2021), Character 37; Lu *et al*. (2012), Character 50; 
+> - The coding of *Thursius* is "?"
+> - The coding of ZJYosteo is "?"
 
 38. Descending process of sphenoid (with its posterior extremity lacking periostegeal lining): absent (0); present (1)
 
 > Swartz (2012), Character 9; Zhu *et al*. (2017), Character 38; Cloutier *et al*. (2020), Character 38; Simões and Pierce (2021), Character 29; Clement *et al*. (2021), Character 38; Lu *et al*. (2012), Character 51; Choo *et al*. (2024), Character 38
+> - The coding of *Thursius* is "0"
+> - The coding of ZJYosteo is "0"
 
 39. Endoskeletal intracranial joint: absent (0); present (1)
 
 > Daeschler *et al*. (2006), Character 51; Swartz (2012), Character 7; Zhu *et al*. (2017), Character 39; Cloutier *et al*. (2020), Character 39; Simões and Pierce (2021), Character 30; Clement *et al*. (2021), Character 39; Lu *et al*. (2012), Character 53; Long *et al*. (2006), Character 32; Choo *et al*. (2024), Character 39
+> - The coding of *Thursius* is "1"
+> - The coding of ZJYosteo is "1"
 
 40. Proportion of neurocranium: ethmosphenoid shorter than or equal in length to otoccipital (0); ethmosphenoid longer than otoccipital (1)
 
 > Zhu *et al*. (2017), Character 40; Cloutier *et al*. (2020), Character 40; Simões and Pierce (2021), Character 31; Clement *et al*. (2021), Character 40; Lu *et al*. (2012), Character 56; Choo *et al*. (2024), Character 40
+> - The coding of *Thursius* is "0"
+> - The coding of ZJYosteo is "0"
 
 41. Dorsal element of hyoid arch: hyomandibula articulating with lateral commissure (0); stapes inserted into fenestra ovalis (1)
 
 > Zhu *et al*. (2017), Character 41; Cloutier *et al*. (2020), Character 41; Simões and Pierce (2021), Character 32; Clement *et al*. (2021), Character 41; Choo *et al*. (2024), Character 41
+> - The coding of *Thursius* is "?"
+> - The coding of ZJYosteo is "?"
 
 42. Relative positions of hyomandibular facets: ventral anterior to dorsal (0); dorsal directly above ventral (1); dorsal anterior to ventral (2)
 
@@ -276,25 +286,38 @@
 
 > - Cloutier et al. (2020): The original character states provided by Zhu et al. (2017) have been reordered to form a morphocline.
 
+> - The coding of *Thursius* is "?"
+> - The coding of ZJYosteo is "?"
+
 43. Vestibular fontanelle: absent (0); present (1)
 
 > Zhu *et al*. (2017), Character 43; Cloutier *et al*. (2020), Character 43; Simões and Pierce (2021), Character 34; Clement *et al*. (2021), Character 43; Lu *et al*. (2012), Character 60; Choo *et al*. (2024), Character 43
+> - The coding of *Thursius* is "1"
+> - The coding of ZJYosteo is "?"
 
 44. Anterior margin of vestibular fontanelle anterior to posterior margin of basicranial fenestra: no (0); yes (1)
 
 > Zhu *et al*. (2017), Character 44; Cloutier *et al*. (2020), Character 44; Simões and Pierce (2021), Character 35; Clement *et al*. (2021), Character 44; Lu *et al*. (2012), Character 61; Choo *et al*. (2024), Character 44
+> - The coding of *Thursius* is "?"
+> - The coding of ZJYosteo is "?"
 
 45. Basicranial fenestra: absent (0); present (1)
 
 > Daeschler *et al*. (2006), Character 52; Swartz (2012), Character 8; Zhu *et al*. (2017), Character 45; Cloutier *et al*. (2020), Character 45; Simões and Pierce (2021), Character 36; Clement *et al*. (2021), Character 45; Lu *et al*. (2012), Character 65; Long *et al*. (2006), Character 34; Choo *et al*. (2024), Character 45
+> - The coding of *Thursius* is "1"
+> - The coding of ZJYosteo is "?"
 
 46. Posttemporal fossae: absent (0); present (1)
 
 > Zhu *et al*. (2017), Character 46; Cloutier *et al*. (2020), Character 46; Simões and Pierce (2021), Character 37; Clement *et al*. (2021), Character 46; Lu *et al*. (2012), Character 67; Choo *et al*. (2024), Character 46
+> - The coding of *Thursius* is "?"
+> - The coding of ZJYosteo is "?"
 
 47. Extent of crista parotica: does not reach posterior margin of tabular (0); reaches posterior margin of tabular (1)
 
 > Daeschler *et al*. (2006), Character 25; Swartz (2012), Character 6; Zhu *et al*. (2017), Character 47; Cloutier *et al*. (2020), Character 47; Simões and Pierce (2021), Character 38; Clement *et al*. (2021), Character 47; Lu *et al*. (2012), Character 68; Long *et al*. (2006), Character 35; Choo *et al*. (2024), Character 47
+> - The coding of *Thursius* is "?"
+> - The coding of ZJYosteo is "?"
 
 48. Otical process: absent (0); present (1)
 
@@ -302,41 +325,62 @@
 
 > Cloutier et al. (2020): Zhu et al. (2017) defined the optical process as an outgrowth from the lateral wall of the braincase penetrated by the branches of the r. oticus lateralis.
 
+> - The coding of *Thursius* is "?"
+> - The coding of ZJYosteo is "?"
+
 49. Foramina (similar to infradentary foramina) on cheek bones: absent (0); present (1)
 
 > Swartz (2012), Character 134, Zhu *et al*. (2017), Character 49; Cloutier *et al*. (2020), Character 49; Simões and Pierce (2021), Character 40; Clement *et al*. (2021), Character 49; Lu *et al*. (2012), Character 70; Choo *et al*. (2024), Character 49
+> - The coding of *Thursius* is "0"
+> - The coding of ZJYosteo is "?"
 
 50. Postorbital: contributes to orbital margin (0); excluded from orbital margin (1)
 
 > Swartz (2012), Character 98, Zhu *et al*. (2017), Character 50; Cloutier *et al*. (2020), Character 50; Simões and Pierce (2021), Character 41; Clement *et al*. (2021), Character 50; Lu *et al*. (2012), Character 72; Choo *et al*. (2024), Character 50
+> - The coding of *Thursius* is "0"
+> - The coding of ZJYosteo is "0"
 
 51. Jugal extends anterior to middle of orbit: no (0); yes (1)
 
 > Daeschler *et al*. (2006), Character 78; Long *et al*. (2006), Character 59; Swartz (2012), Character 95; Zhu *et al*. (2017), Character 51;  Clack *et al*. (2012), Character 7; Chen *et al*. (2018), Character 6; Cloutier *et al*. (2020), Character 51; Simões and Pierce (2021), Character 42; Clement *et al*. (2021), Character 51; Lu *et al*. (2012), Character 73; Choo *et al*. (2024), Character 51
+> - The coding of *Thursius* is "0"
+> - The coding of ZJYosteo is "?"
 
 52. Relationship of jugal to orbit: contributes to orbital margin (0); excluded from orbital margin (1)
 
 > Daeschler *et al*. (2006), Character 43; Zhu *et al*. (2017), Character 52; Cloutier *et al*. (2020), Character 52; Simões and Pierce (2021), Character 43; Clement *et al*. (2021), Character 52; Choo *et al*. (2024), Character 52
+> - The coding of *Thursius* is "0"
+> - The coding of ZJYosteo is "?"
 
 53. Lacrimal excluded from orbit: no (0); yes (1)
 
 > Daeschler *et al*. (2006), Character 79; Long *et al*. (2006), Character 60; Swartz (2012), Character 92, Zhu *et al*. (2017), Character 53; Clack *et al*. (2012), Character 8; Chen *et al*. (2018), Character 7; Cloutier *et al*. (2020), Character 53; Simões and Pierce (2021), Character 44; Clement *et al*. (2021), Character 53; Lu *et al*. (2012), Character 75; Choo *et al*. (2024), Character 53
+> - The coding of *Thursius* is "0"
+> - The coding of ZJYosteo is "?"
 
 54. Contact between posterior supraorbital (postfrontal) and lacrimal: absent (0); present (1)
 
 > Daeschler *et al*. (2006), Character 44; Swartz (2012), Character 93; Zhu *et al*. (2017), Character 54; Cloutier *et al*. (2020), Character 54; Simões and Pierce (2021), Character 45; Clement *et al*. (2021), Character 54; Choo *et al*. (2024), Character 54
+> - The coding of *Thursius* is "0"
+> - The coding of ZJYosteo is "0"
 
 55. Jugal-quadratojugal contact: absent (0); present (1)
 
 > Daeschler *et al*. (2006), Character 42; Long *et al*. (2006), Character 47; Swartz (2012), Character 96; Zhu *et al*. (2017), Character 55; Cloutier *et al*. (2020), Character 55; Simões and Pierce (2021), Character 46; Clement *et al*. (2021), Character 55; Lu *et al*. (2012), Character 77; Choo *et al*. (2024), Character 55
+> - The coding of *Thursius* is "0"
+> - The coding of ZJYosteo is "0"
 
 56. Number of cheek bones bearing preopercular canal posterior to jugal: one (0); two (1)
 
 > Zhu *et al*. (2017), Character 56; Cloutier *et al*. (2020), Character 56; Clement *et al*. (2021), Character 56; Lu *et al*. (2012), Character 80; Choo *et al*. (2024), Character 56
+> - The coding of *Thursius* is "1"
+> - The coding of ZJYosteo is "1"
 
 57. Bone bearing both quadratojugal pit-line and preopercular canal: absent (0); present (1)
 
 > Zhu *et al*. (2017), Character 57; Cloutier *et al*. (2020), Character 57; Simões and Pierce (2021), Character 47; Clement *et al*. (2021), Character 57; Lu *et al*. (2012), Character 81; Choo *et al*. (2024), Character 57
+> - The coding of *Thursius* is "0"
+> - The coding of ZJYosteo is "0"
 
 58. Bar-like preopercular: absent (0); present (1)
 
@@ -344,17 +388,26 @@
 
 > Lu *et al*. (2012) defined the bar-like preopercular as verticle (verticle bar‐like preopercular)
 
+> - The coding of *Thursius* is "?"
+> - The coding of ZJYosteo is "?"
+
 59. Subsquamosals: absent (0); present (1)
 
 > Daeschler *et al*. (2006), Character 47; Swartz (2012), Character 101; Zhu *et al*. (2017), Character 59; Cloutier *et al*. (2020), Character 59; Simões and Pierce (2021), Character 49; Clement *et al*. (2021), Character 59; Lu *et al*. (2012), Character 83; Choo *et al*. (2024), Character 59
+> - The coding of *Thursius* is "0"
+> - The coding of ZJYosteo is "0"
 
 60. Preoperculosubmandibular: absent (0); present (1)
 
 > Daeschler *et al*. (2006), Character 46; Swartz (2012), Character 102; Zhu *et al*. (2017), Character 60; Cloutier *et al*. (2020), Character 60; Simões and Pierce (2021), Character 50; Clement *et al*. (2021), Character 60; Lu *et al*. (2012), Character 84; Choo *et al*. (2024), Character 60
+> - The coding of *Thursius* is "0"
+> - The coding of ZJYosteo is "0"
 
 61. Vomer proportions: not much broader than long (0); much broader than long (1)
 
 > Daeschler *et al*. (2006), Character 17; Swartz (2012), Character 57; Zhu *et al*. (2017), Character 61; Clack *et al*. (2012), Character 22 (in part); Chen *et al*. (2018), Character 21 (in part); Cloutier *et al*. (2020), Character 61; Clement *et al*. (2021), Character 61 ; Lu *et al*. (2012), Character 85; Choo *et al*. (2024), Character 61
+> - The coding of *Thursius* is "1"
+> - The coding of ZJYosteo is "1"
 
 62. Anteromedial process of vomer: absent (0); present (1)
 
@@ -362,21 +415,32 @@
 
 > Lu *et al*. (2012) coded the anteromedial process of vomer: absent, vomers separated (0); present (1); absent, vomers in close contact (2)
 
+> - The coding of *Thursius* is "?"
+> - The coding of ZJYosteo is "?"
+
 63. Posterior process of vomers: absent (0); short (1); long (2)
 
 > *ordered*; Daeschler *et al*. (2006), Character 15; Swartz (2012), Character 64; Zhu *et al*. (2017), Character 63; Cloutier *et al*. (2020), Character 63; Simões and Pierce (2021), Character 52; Clement *et al*. (2021), Character 63; Lu *et al*. (2012), Character 89; Long *et al*. (2006), Character 25; Choo *et al*. (2024), Character 63
+> - The coding of *Thursius* is "?"
+> - The coding of ZJYosteo is "?"
 
 64. Articulation of vomers: vomers not articulating with each other (0); vomers articulating with each other (1)
 
 > Zhu *et al*. (2017), Character 64; Cloutier *et al*. (2020), Character 64; Simões and Pierce (2021), Character 53; Clement *et al*. (2021), Character 64; Lu *et al*. (2012), Character 90; Choo *et al*. (2024), Character 64
+> - The coding of *Thursius* is "1"
+> - The coding of ZJYosteo is "1"
 
 65. Parasphenoid: protruding forward into ethmoid region of endocranium (0); behind ethmoid region (1)
 
 > Zhu *et al*. (2017), Character 65;  Clack *et al*. (2012), Character 27 (in part); Cloutier *et al*. (2020), Character 65; Simões and Pierce (2021), Character 54; Clement *et al*. (2021), Character 65; Lu *et al*. (2012), Character 91; Choo *et al*. (2024), Character 65
+> - The coding of *Thursius* is "1"
+> - The coding of ZJYosteo is "1"
 
 66. Denticulated field of parasphenoid: without spiracular groove (0); with spiracular groove (1)
 
 > Daeschler *et al*. (2006), Character 20 (in part); Swartz (2012), Character 67; Zhu *et al*. (2017), Character 66; Cloutier *et al*. (2020), Character 66; Simões and Pierce (2021), Character 55; Clement *et al*. (2021), Character 66; Long *et al*. (2006), Character 29 (in part); Choo *et al*. (2024), Character 66
+> - The coding of *Thursius* is "0"
+> - The coding of ZJYosteo is "0"
 
 67. Relationship of vomer to parasphenoid: no contact, or simple abutment (0); dorsal/ventral overlap anteriorly (1); side to side overlap between posterior processes of vomers and lateral sides of parasphenoid (2)
 
@@ -384,15 +448,23 @@
 
 > Lu *et al*. (2012) merged the code (1) and (2) into "1": dorsal/ventral overlap anteriorly; side to side overlap between posterior processes of vomers and lateral sides of parasphenoid (1).   
 
+> - The coding of *Thursius* is "1"
+> - The coding of ZJYosteo is "1"
+
 68. Shape of parasphenoid: broad, splint-shaped (0); slender, splint-shaped (1)
 
 > Zhu *et al*. (2017), Character 68; Cloutier *et al*. (2020), Character 68; Clement *et al*. (2021), Character 68; Lu *et al*. (2012), Character 96 (in part); Choo *et al*. (2024), Character 68
 
 > Lu *et al*. (2012) noded the Shape of parasphenoid: lozenge‐shaped (0); broad, splint-shaped (1); slender, splint‐shaped (2)
 
+> - The coding of *Thursius* is "1"
+> - The coding of ZJYosteo is "1"
+
 69. Lateral sides of parasphenoid: parallel or slightly diverging anteriorly (0); converging anteriorly (1)
 
 > Zhu *et al*. (2017), Character 69; Cloutier *et al*. (2020), Character 69; Simões and Pierce (2021), Character 57; Clement *et al*. (2021), Character 69; Lu *et al*. (2012), Character 97; Choo *et al*. (2024), Character 69
+> - The coding of *Thursius* is "1"
+> - The coding of ZJYosteo is "1"
 
 70. Posterior carotid opening in parasphenoid: present (0); absent (1)
 
@@ -400,13 +472,20 @@
 
 > Cloutier et al. (2020): Character 70 of Zhu et al. (2017) has been divided into two binary characters (char. 70 and 171).
 
+> - The coding of *Thursius* is "1"
+> - The coding of ZJYosteo is "1"
+
 71. Articulation of pterygoids: pterygoids not articulating with each other (0); pterygoids articulating with each other (1)
 
 > Daeschler *et al*. (2006), Character 14; Swartz (2012), Character 70; Zhu *et al*. (2017), Character 71; Clack *et al*. (2012), Character 18 (in part), Chen *et al*. (2018), Character 17; Cloutier *et al*. (2020), Character 71; Simões and Pierce (2021), Character 59; Clement *et al*. (2021), Character 71; Lu *et al*. (2012), Character 100; Long *et al*. (2006), Character 24; Choo *et al*. (2024), Character 71
+> - The coding of *Thursius* is "0"
+> - The coding of ZJYosteo is "0"
 
 72. Proportions of entopterygoid: anterior end level with processus ascendens (0); anterior end considerably anterior to processus ascendens (1)
 
 > Daeschler *et al*. (2006), Character 13; Swartz (2012), Character 69; Zhu *et al*. (2017), Character 72; Cloutier *et al*. (2020), Character 72; Simões and Pierce (2021), Character 60; Clement *et al*. (2021), Character 72; Lu *et al*. (2012), Character 104; Long *et al*. (2006), Character 23; Choo *et al*. (2024), Character 72
+> - The coding of *Thursius* is "?"
+> - The coding of ZJYosteo is "?"
 
 73. Number of fang pairs on ectopterygoid: two (0); one (1); none (2)
 
