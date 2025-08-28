@@ -493,49 +493,74 @@
 
 > Cloutier et al. (2020): The original character states provided by Zhu et al. (2017) have been reordered to form a morphocline.
 
+> - The coding of *Thursius* is "1"
+> - The coding of ZJYosteo is "1"
+
 74. Palatal fangs mesial to marginal tooth row: yes (0); no (1)
 
 > Daeschler *et al*. (2006), Character 72; Zhu *et al*. (2017), Character 74; Cloutier *et al*. (2020), Character 74; Clement *et al*. (2021), Character 74; Lu *et al*. (2012), Character 107; Long *et al*. (2006), Character 19; Choo *et al*. (2024), Character 74
+> - The coding of *Thursius* is "0"
+> - The coding of ZJYosteo is "0"
 
 75. Subterminal mouth: absent (0); present (1)
 
 > Daeschler *et al*. (2006), Character 73;  Swartz (2012), Character 82; Zhu *et al*. (2017), Character 75; Cloutier *et al*. (2020), Character 75; Simões and Pierce (2021), Character 62; Clement *et al*. (2021), Character 75; Lu *et al*. (2012), Character 109; Choo *et al*. (2024), Character 75
+> - The coding of *Thursius* is "0"
+> - The coding of ZJYosteo is "0"
 
 76. Enlarged anterior tooth on premaxilla: absent (0); present (1)
 
 > Daeschler *et al*. (2006), Character 21; Swartz (2012), Character 53 (in part); Zhu *et al*. (2017), Character 76; Cloutier *et al*. (2020), Character 76; Simões and Pierce (2021), Character 63; Clement *et al*. (2021), Character 76; Lu *et al*. (2012), Character 111; Choo *et al*. (2024), Character 76
+> - The coding of *Thursius* is "1"
+> - The coding of ZJYosteo is "1"
 
 77. Posterodorsal process of maxilla: present (0); very weak or absent (1)
 
 > Daeschler *et al*. (2006), Character 41; Long *et al*. (2006), Character 46; Swartz (2012), Character 56; Zhu *et al*. (2017), Character 77; Cloutier *et al*. (2020), Character 77; Simões and Pierce (2021), Character 64; Clement *et al*. (2021), Character 77; Lu *et al*. (2012), Character 115; Choo *et al*. (2024), Character 77
+> - The coding of *Thursius* is "0"
+> - The coding of ZJYosteo is "?"
 
 78. Meckelian ossification: strong, complete from articular to symphysial region (0); incomplete (1); absent (2)
 
 > *ordered*; Zhu *et al*. (2017), Character 78;  Chen *et al*. (2018), Character 53 (in part); Cloutier *et al*. (2020), Character 78; **Simões and Pierce (2021), Characters 65, 66**; Clement *et al*. (2021), Character 78; Choo *et al*. (2024), Character 78
+> - The coding of *Thursius* is "0"
+> - The coding of ZJYosteo is "?"
 
 79. Coronoids labiolingually flattened: no (0); yes (1)
 
 > Zhu *et al*. (2017), Character 79; Cloutier *et al*. (2020), Character 79; Simões and Pierce (2021), Character 67; Clement *et al*. (2021), Character 79; Choo *et al*. (2024), Character 79
+> - The coding of *Thursius* is "0"
+> - The coding of ZJYosteo is "0"
 
 80. Protrusion of lower jaw in front of skull: absent (0); present (1)
 
 > Daeschler *et al*. (2006), Character 75; Zhu *et al*. (2017), Character 80; Cloutier *et al*. (2020), Character 80; Simões and Pierce (2021), Character 68; Clement *et al*. (2021), Character 80; Lu *et al*. (2012), Character 120; Choo *et al*. (2024), Character 80
+> - The coding of *Thursius* is "0"
+> - The coding of ZJYosteo is "0"
 
 81. Anteroventral lower jaw profile: rounded (0); squared off (1)
 
 > Zhu *et al*. (2017), Character 81; Cloutier *et al*. (2020), Character 81; Simões and Pierce (2021), Character 69; Clement *et al*. (2021), Character 81; Lu *et al*. (2012), Character 121; Choo *et al*. (2024), Character 81
+> - The coding of *Thursius* is "0"
+> - The coding of ZJYosteo is "0"
 
 82. Large ventromesially directed flange of symphysial region of mandible: absent (0); present (1)
 
 > Zhu *et al*. (2017), Character 82; Cloutier *et al*. (2020), Character 82; Simões and Pierce (2021), Character 70; Clement *et al*. (2021), Character 82; Lu *et al*. (2012), Character 122; Choo *et al*. (2024), Character 82
+> - The coding of *Thursius* is "0"
+> - The coding of ZJYosteo is "0"
 
 83. Dermal ornament on each infradentary: even (0); separate "starburst" on each bone (1)
 
 > Daeschler *et al*. (2006), Character 69; Long *et al*. (2006), Character 52; Zhu *et al*. (2017), Character 83; Cloutier *et al*. (2020), Character 83; Simões and Pierce (2021), Character 71; Clement *et al*. (2021), Character 83; Choo *et al*. (2024), Character 83
+> - The coding of *Thursius* is "?"
+> - The coding of ZJYosteo is "?"
 
 84. Infradentary foramina: always present (0); variable (1); always absent (2)
 
 > *ordered*; D11, Zhu *et al*. (2017), Character 84; Cloutier *et al*. (2020), Character 84; Simões and Pierce (2021), Character 72; Clement *et al*. (2021), Character 84; Choo *et al*. (2024), Character 84
+> - The coding of *Thursius* is "0"
+> - The coding of ZJYosteo is "0"
 
 85. Dentary fang pair: absent (0); present (1)
 
