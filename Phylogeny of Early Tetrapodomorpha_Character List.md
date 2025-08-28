@@ -524,7 +524,7 @@
 
 > *ordered*; Zhu *et al*. (2017), Character 78;  Chen *et al*. (2018), Character 53 (in part); Cloutier *et al*. (2020), Character 78; **Simões and Pierce (2021), Characters 65, 66**; Clement *et al*. (2021), Character 78; Choo *et al*. (2024), Character 78
 > - The coding of *Thursius* is "0"
-> - The coding of ZJYosteo is "?"
+> - The coding of ZJYosteo is "0"
 
 79. Coronoids labiolingually flattened: no (0); yes (1)
 
@@ -565,38 +565,56 @@
 85. Dentary fang pair: absent (0); present (1)
 
 > Daeschler *et al*. (2006), Character 8; Swartz (2012), Character 26 (in part); Zhu *et al*. (2017), Character 85; Cloutier *et al*. (2020), Character 85; Simões and Pierce (2021), Character 73; Clement *et al*. (2021), Character 85; Lu *et al*. (2012), Character 128; Long *et al*. (2006), Character 15; Choo *et al*. (2024), Character 85
+> - The coding of *Thursius* is "0"
+> - The coding of ZJYosteo is "0"
 
 86. Teeth of dentary: reaching anterior end of dentary (0); not reaching anterior end (1)
 
 > Daeschler *et al*. (2006), Character 7; Swartz (2012), Character 25; Zhu *et al*. (2017), Character 86; Cloutier *et al*. (2020), Character 86; Simões and Pierce (2021), Character 74; Clement *et al*. (2021), Character 86; Choo *et al*. (2024), Character 86
+> - The coding of *Thursius* is "0"
+> - The coding of ZJYosteo is "0"
 
 87. Accessory tooth rows on dentary: present (0); absent (1)
 
 > Daeschler *et al*. (2006), Character 64; Swartz (2012), Character 24; Zhu *et al*. (2017), Character 87; Chen *et al*. (2018), Character 74 (in part); Cloutier *et al*. (2020), Character 87; Simões and Pierce (2021), Character 75; Clement *et al*. (2021), Character 87; Lu *et al*. (2012), Character 129; Long *et al*. (2006), Character 14; Choo *et al*. (2024), Character 87
+> - The coding of *Thursius* is "0"
+> - The coding of ZJYosteo is "0"
 
 88. Splenial: not sutured to prearticular (0); sutured to prearticular (1); postsplenial obstructing splenial-prearticular contact (2)
 
 > Daeschler *et al*. (2006), Character 28 (in part); Swartz (2012), Character 47 (in part); Zhu *et al*. (2017), Character 88; Cloutier *et al*. (2020), Character 88; Simões and Pierce (2021), Character 76; Clement *et al*. (2021), Character 88; Lu *et al*. (2012), Character 132; Choo *et al*. (2024), Character 88
+> - The coding of *Thursius* is "0"
+> - The coding of ZJYosteo is "0"
 
 89. Suture between splenial and anterior coronoid: absent (0); present (1)
 
 > Daeschler *et al*. (2006), Character 63; Swartz (2012), Character 40; Zhu *et al*. (2017), Character 89; Chen *et al*. (2018), Character 44; Cloutier *et al*. (2020), Character 89; Simões and Pierce (2021), Character 77; Clement *et al*. (2021), Character 89; Choo *et al*. (2024), Character 89
+> - The coding of *Thursius* is "0"
+> - The coding of ZJYosteo is "0"
 
 90. Mesial lamina of splenial: absent (0); present (1)
 
 > Daeschler *et al*. (2006), Character 62, Zhu *et al*. (2017), Character 90; Chen *et al*. (2018), Character 67 (in part); Cloutier *et al*. (2020), Character 90; Simões and Pierce (2021), Character 78; Clement *et al*. (2021), Character 90; Lu *et al*. (2012), Character 133; Long *et al*. (2006), Character 9; Choo *et al*. (2024), Character 90
+> - The coding of *Thursius* is "0"
+> - The coding of ZJYosteo is "0"
 
 91. Angular and prearticular: separated by ventral exposure of Meckelian bone (0); in contact (1)
 
 > Daeschler *et al*. (2006), Character 3; Swartz (2012), Character 48; Zhu *et al*. (2017), Character 91; Chen *et al*. (2018), Character 43 (in part); Cloutier *et al*. (2020), Character 91; Simões and Pierce (2021), Character 79; Clement *et al*. (2021), Character 91; Lu *et al*. (2012), Character 137; Long *et al*. (2006), Character 8; Choo *et al*. (2024), Character 91
+> - The coding of *Thursius* is "0"
+> - The coding of ZJYosteo is "0"
 
 92. Parasymphysial tooth whorl: present (0); absent (1)
 
 > Daeschler *et al*. (2006), Character 16 (in part), Character 17 (in part), Character 18,  Character 19; Zhu *et al*. (2017), Character 92; Cloutier *et al*. (2020), Character 92; Simões and Pierce (2021), Character 80; Clement *et al*. (2021), Character 92; Lu *et al*. (2012), Character 139; Choo *et al*. (2024), Character 92
+> - The coding of *Thursius* is "1"
+> - The coding of ZJYosteo is "1"
 
 93. Parasymphysial dental plate: absent (0); present (1)
 
 > Daeschler *et al*. (2006), Character 1 (in part); Swartz (2012), Character 17 (in part); Zhu *et al*. (2017), Character 93; Chen *et al*. (2018), Character 75; Cloutier *et al*. (2020), Character 93; Simões and Pierce (2021), Character 81; Clement *et al*. (2021), Character 93; Choo *et al*. (2024), Character 93
+> - The coding of *Thursius* is "1"
+> - The coding of ZJYosteo is "1"
 
 94. Parasymphysial dental plate: long with posterior corner, sutured to anterior coronoid, denticulated or with tooth row (0); short, rounded, not sutured to anterior coronoid, denticulated (1)
 
@@ -604,25 +622,38 @@
 
 > Lu *et al*. (2012) defined the parasymphysial dental plate as the same of foremost coronoid of stem sarcopterygians and added the code: absent (2)
 
+> - The coding of *Thursius* is "0"
+> - The coding of ZJYosteo is "0"
+
 95. Tooth row on parasymphysial dental plate: absent (0); present (1)
 
 > Swartz (2012), Character 17 (in part); Zhu *et al*. (2017), Character 95; Chen *et al*. (2018), Character 78 (in part); Cloutier *et al*. (2020), Character 95; Simões and Pierce (2021), Character 83; Clement *et al*. (2021), Character 95; Lu *et al*. (2012), Character 142; Choo *et al*. (2024), Character 95
+> - The coding of *Thursius* is "0"
+> - The coding of ZJYosteo is "0"
 
 96. Mesial parasymphysial foramen: absent (0); present (1)
 
 > Daeschler *et al*. (2006), Character 67; Swartz (2012), Character 21; Zhu *et al*. (2017), Character 96;  Chen *et al*. (2018), Character 57; Cloutier *et al*. (2020), Character 96; Simões and Pierce (2021), Character 84; Clement *et al*. (2021), Character 96; Lu *et al*. (2012), Character 143; Long *et al*. (2006), Character 6; Choo *et al*. (2024), Character 96
+> - The coding of *Thursius* is "0"
+> - The coding of ZJYosteo is "0"
 
 97. Fangs of coronoids (*sensu stricto*): absent (0); present (1)
 
 > Daeschler *et al*. (2006), Character 70 (in part); Swartz (2012), Character 30 (in part), Character 44 (in part); Zhu *et al*. (2017), Character 97;  Chen *et al*. (2018), Character 68; Cloutier *et al*. (2020), Character 97; Simões and Pierce (2021), Character 85; Clement *et al*. (2021), Character 97; Lu *et al*. (2012), Character 146; Choo *et al*. (2024), Character 97
+> - The coding of *Thursius* is "1"
+> - The coding of ZJYosteo is "1"
 
 98. Marginal denticle band on coronoids: broad band, at least posteriorly (0); narrow band with 2-4 denticle rows (1); single tooth row or absent (2)
 
 > *ordered*; Swartz (2012), Character 38 (in part); Zhu *et al*. (2017), Character 98; Chen *et al*. (2018), Character 72 (in part); Cloutier *et al*. (2020), Character 98; Clement *et al*. (2021), Character 98; Lu *et al*. (2012), Character 147; Choo *et al*. (2024), Character 98
+> - The coding of *Thursius* is "1"
+> - The coding of ZJYosteo is "1"
 
 99. Coronoid proportions: posterior coronoid similar in length to, or shorter than middle coronoid (0); posterior coronoid significantly longer than middle coronoid (1)
 
 > Daeschler *et al*. (2006), Character 6; Swartz (2012), Character 34 (in part); Zhu *et al*. (2017), Character 99; Cloutier *et al*. (2020), Character 99; Clement *et al*. (2021), Character 99; Long *et al*. (2006), Character 13; Choo *et al*. (2024), Character 99
+> - The coding of *Thursius* is "0"
+> - The coding of ZJYosteo is "0"
 
 100. Number of fang pairs on posterior coronoid: two (0); one (1); none (2)
 
@@ -630,49 +661,74 @@
 
 > Cloutier et al. (2020): The original character states of Zhu et al. (2017) have been reordered to form a morphocline.
 
+> - The coding of *Thursius* is "1"
+> - The coding of ZJYosteo is "1"
+
 101. Anterior end of prearticular: not forked (0); forked (1)
 
 > Daeschler *et al*. (2006), Character 2; Swartz (2012), Character 46; Zhu *et al*. (2017), Character 101; Cloutier *et al*. (2020), Character 101; Simões and Pierce (2021), Character 87; Clement *et al*. (2021), Character 101; Lu *et al*. (2012), Character 156; Long *et al*. (2006), Character 7; Choo *et al*. (2024), Character 101
+> - The coding of *Thursius* is "0"
+> - The coding of ZJYosteo is "0"
 
 102. Longitudinal dorsal ridge on prearticular: absent (0); present (1)
 
 > Zhu *et al*. (2017), Character 102; Chen *et al*. (2018), Character 63; Cloutier *et al*. (2020), Character 102; Simões and Pierce (2021), Character 88; Clement *et al*. (2021), Character 102; Lu *et al*. (2012), Character 159; Choo *et al*. (2024), Character 102
+> - The coding of *Thursius* is "0"
+> - The coding of ZJYosteo is "0"
 
 103. Anterior mandibular (precoronoid) fossa: absent (0); present (1)
 
 > Zhu *et al*. (2017), Character 103; Cloutier *et al*. (2020), Character 103; Simões and Pierce (2021), Character 89; Clement *et al*. (2021), Character 103; Lu *et al*. (2012), Character 161; Choo *et al*. (2024), Character 103
+> - The coding of *Thursius* is "1"
+> - The coding of ZJYosteo is "1"
 
 104. Retroarticular process: absent (0); present (1)
 
 > Zhu *et al*. (2017), Character 104; Cloutier *et al*. (2020), Character 104; Simões and Pierce (2021), Character 90; Clement *et al*. (2021), Character 104; Lu *et al*. (2012), Character 163; Choo *et al*. (2024), Character 104
+> - The coding of *Thursius* is "?"
+> - The coding of ZJYosteo is "?"
 
 105. Foramen in hyomandibular: absent (0); present (1)
 
 > Zhu *et al*. (2017), Character 105; Cloutier *et al*. (2020), Character 105; Simões and Pierce (2021), Character 91; Clement *et al*. (2021), Character 105; Lu *et al*. (2012), Character 166; Choo *et al*. (2024), Character 105
+> - The coding of *Thursius* is "?"
+> - The coding of ZJYosteo is "?"
 
 106. Opercular process of hyomandibula: present (0); absent (1)
 
 > Zhu *et al*. (2017), Character 106; Cloutier *et al*. (2020), Character 106; Simões and Pierce (2021), Character 92; Clement *et al*. (2021), Character 106; Choo *et al*. (2024), Character 106
+> - The coding of *Thursius* is "?"
+> - The coding of ZJYosteo is "?"
 
 107. Distal portion of hyomandibula: developed (0); reduced (1); absent (2)
 
 > *ordered*; Zhu *et al*. (2017), Character 107; Cloutier *et al*. (2020), Character 107; Simões and Pierce (2021), Character 93 (reformulated); Clement *et al*. (2021), Character 107; Choo *et al*. (2024), Character 107
+> - The coding of *Thursius* is "?"
+> - The coding of ZJYosteo is "?"
 
 108. Contact between hyomandibula and palatoquadrate: present (0); absent (1)
 
 > Zhu *et al*. (2017), Character 108; Cloutier *et al*. (2020), Character 108; Simões and Pierce (2021), Character 94; Clement *et al*. (2021), Character 108; Choo *et al*. (2024), Character 108
+> - The coding of *Thursius* is "?"
+> - The coding of ZJYosteo is "?"
 
 109. Position of distal exit of hyomandibular canal or sulcus on anterolateral face of hyomandibula: at a level of mid-shaft or obvious curvature (0); within proximal portion (1)
 
 > Zhu *et al*. (2017), Character 109; Cloutier *et al*. (2020), Character 109; Simões and Pierce (2021), Character 95; Clement *et al*. (2021), Character 109; Choo *et al*. (2024), Character 109
+> - The coding of *Thursius* is "?"
+> - The coding of ZJYosteo is "?"
 
 110. 'Urohyal' morphology: dorsoventrally compressed and rod-like, may bifurcate posteriorly (0); vertical plate (1)
 96
 > Zhu *et al*. (2017), Character 110; Cloutier *et al*. (2020), Character 110; Simões and Pierce (2021), Character ; Clement *et al*. (2021), Character 110; Lu *et al*. (2012), Character 167; Choo *et al*. (2024), Character 110
+> - The coding of *Thursius* is "?"
+> - The coding of ZJYosteo is "?"
 
 111. Shape of anterior basibranchial: rounded (0); rectangular, significantly longer than wide (1)
 
 > Zhu *et al*. (2017), Character 111; Cloutier *et al*. (2020), Character 111; Simões and Pierce (2021), Character 97; Clement *et al*. (2021), Character 111; Choo *et al*. (2024), Character 111
+> - The coding of *Thursius* is "?"
+> - The coding of ZJYosteo is "?"
 
 112. Sublingual rod: absent (0); present (1)
 
@@ -680,9 +736,14 @@
 
 > The plesiomorphic state is taken to be the absence of a sublingual rod as it is not found in any actinopterygians, or in porolepiforms.
 
+> - The coding of *Thursius* is "?"
+> - The coding of ZJYosteo is "?"
+
 113. Opercular: present (0); absent (1)
 
 > Daeschler *et al*. (2006), Character 111; Long *et al*. (2006), Character 62; Swartz (2012), Character 139; Zhu *et al*. (2017), Character 113;  Clack *et al*. (2012), Character 14, Chen *et al*. (2018), Character 13; Cloutier *et al*. (2020), Character 113; Simões and Pierce (2021), Character 99; Clement *et al*. (2021), Character 113; Lu *et al*. (2012), Character 169; Choo *et al*. (2024), Character 113
+> - The coding of *Thursius* is "0"
+> - The coding of ZJYosteo is "?"
 
 114. Number of branchiostegal rays per side: more than one (0); one (1)
 
@@ -690,11 +751,17 @@
 
 > Lu *et al*. (2012) coded the number of branchiostegal rays per side: ten or more (0); two to seven (1); one (2); none (3).   
 
+> - The coding of *Thursius* is "?"
+> - The coding of ZJYosteo is "?"
+
 115. Size of median gular: small (0); large (1)
 
 > Daeschler *et al*. (2006), Character 81 (in part); Long *et al*. (2006), Character 65 (in part); Swartz (2012), Character 136; Zhu *et al*. (2017), Character 115; Cloutier *et al*. (2020), Character 115; Clement *et al*. (2021), Character 115; Lu *et al*. (2012), Character 172; Choo *et al*. (2024), Character 115
 
 > Daeschler *et al*. (2006); Long *et al*. (2006): Large median gular: absent (0); present (1)
+
+> - The coding of *Thursius* is "0"
+> - The coding of ZJYosteo is "?"
 
 116. Course of ethmoid commissure: canal penetrating the body of the premaxilla (0); sutural course (1)
 
@@ -702,69 +769,104 @@
 
 > Lu *et al*. (2012) coded the course of ethmoid commissure: middle portion through median rostral (0); sutural course (1); through bone center of premaxilla (2)
 
+> - The coding of *Thursius* is "?"
+> - The coding of ZJYosteo is "?"
+
 117. Direction of anterior pit-line on parietal shield: antero-posterior, reaching or almost reaching parietal-postparietal border (0); essentially transverse, anterior or almost anterior to pineal foramen/eminence (1)
 
 > Zhu *et al*. (2017), Character 117; Cloutier *et al*. (2020), Character 117; Simões and Pierce (2021), Character 102; Clement *et al*. (2021), Character 117; Lu *et al*. (2012), Character 178; Choo *et al*. (2024), Character 117
+> - The coding of *Thursius* is "0"
+> - The coding of ZJYosteo is "0"
 
 118. Middle and posterior pit-lines on postparietal: posteriorly situated (0); mesially situated (1)
 
 > Zhu *et al*. (2017), Character 118; Cloutier *et al*. (2020), Character 118; Simões and Pierce (2021), Character 103; Clement *et al*. (2021), Character 118; Lu *et al*. (2012), Character 179; Choo *et al*. (2024), Character 118
+> - The coding of *Thursius* is "0"
+> - The coding of ZJYosteo is "0"
 
 119. Course of supraorbital canal: straight (0); lyre-shaped (1)
 
 > Zhu *et al*. (2017), Character 119; Cloutier *et al*. (2020), Character 119; Simões and Pierce (2021), Character 104; Clement *et al*. (2021), Character 119; Lu *et al*. (2012), Character 180; Choo *et al*. (2024), Character 119
+> - The coding of *Thursius* is "1"
+> - The coding of ZJYosteo is "1"
 
 120. Posterior end of supraorbital canal: in postparietal (0); in parietal (1); in intertemporal (2)
 
 > Zhu *et al*. (2017), Character 120; Cloutier *et al*. (2020), Character 120; Simões and Pierce (2021), Character 105; Clement *et al*. (2021), Character 120; Lu *et al*. (2012), Character 181; Choo *et al*. (2024), Character 120
+> - The coding of *Thursius* is "2"
+> - The coding of ZJYosteo is "2"
 
 121. Contact between otic and supraorbital canals: not in contact (0); in contact (1)
 
 > Zhu *et al*. (2017), Character 121; Cloutier *et al*. (2020), Character 121; Simões and Pierce (2021), Character 106; Clement *et al*. (2021), Character 121; Lu *et al*. (2012), Character 183; Choo *et al*. (2024), Character 121
+> - The coding of *Thursius* is "1"
+> - The coding of ZJYosteo is "1"
 
 122. Otic (postotic) canal: runs through skull roof (0); follows edge of skull roof (1)
 
 > Swartz (2012), Character 129; Zhu *et al*. (2017), Character 122; Cloutier *et al*. (2020), Character 122; Simões and Pierce (2021), Character 107; Clement *et al*. (2021), Character 122; Lu *et al*. (2012), Character 184; Choo *et al*. (2024), Character 122
+> - The coding of *Thursius* is "0"
+> - The coding of ZJYosteo is "0"
 
 123. Otic (postotic) canal enters postparietal: no (0); yes (1)
 
 > Zhu *et al*. (2017), Character 123; Cloutier *et al*. (2020), Character 123; Simões and Pierce (2021), Character 108; Clement *et al*. (2021), Character 123; Lu *et al*. (2012), Character 185; Choo *et al*. (2024), Character 123
+> - The coding of *Thursius* is "0"
+> - The coding of ZJYosteo is "0"
 
 124. Supracleithrum and posttemporal: present (0); absent (1)
 
 > Swartz (2012), Character 145 (in part); Zhu *et al*. (2017), Character 124;Chen *et al*. (2018), Character 101; Cloutier *et al*. (2020), Character 124; Simões and Pierce (2021), Character 109; Clement *et al*. (2021), Character 124; Choo *et al*. (2024), Character 124
+> - The coding of *Thursius* is "?"
+> - The coding of ZJYosteo is "?"
 
 125. Curvature of dermal shoulder girdle: smoothly curving chain from cleithrum to posttemporal, paralleling the posterior margin of the skull (0); tall caudally-inclined cleithrum sloping away from the skull and forming sharp angle with anocleithrumsupracleithrum-posttemporal (if present) (1)
 
 > Zhu *et al*. (2017), Character 125; Cloutier *et al*. (2020), Character 125; Clement *et al*. (2021), Character 125; Choo *et al*. (2024), Character 125
+> - The coding of *Thursius* is "?"
+> - The coding of ZJYosteo is "?"
 
 126. Cleithral ornamentation: present (0); absent (1)
 
 > Daeschler *et al*. (2006), Character 106; Long *et al*. (2006), Character 72; Swartz (2012), Character 197; Zhu *et al*. (2017), Character 126; Chen *et al*. (2018), Character 88; Cloutier *et al*. (2020), Character 126; Simões and Pierce (2021), Character 110; Clement *et al*. (2021), Character 126; Lu *et al*. (2012), Character 197; Choo *et al*. (2024), Character 126
+> - The coding of *Thursius* is "?"
+> - The coding of ZJYosteo is "?"
 
 127. Contact margin for clavicle on cleithrum: straight or faintly convex (0); strongly concave (1)
 
 > Daeschler *et al*. (2006), Character 53; Long *et al*. (2006), Character 73; Swartz (2012), Character 150; Zhu *et al*. (2017), Character 127; Cloutier *et al*. (2020), Character 127; Simões and Pierce (2021), Character 111; Clement *et al*. (2021), Character 127; Lu *et al*. (2012), Character 203; Choo *et al*. (2024), Character 127
+> - The coding of *Thursius* is "?"
+> - The coding of ZJYosteo is "?"
 
 128. Ventral or lower lamina of cleithrum: extensive without or with little scapulocoracoid lateral exposure (0); reduced, with large scapulocoracoid lateral exposure (1)
 
 > Zhu *et al*. (2017), Character 128; Cloutier *et al*. (2020), Character 128; Clement *et al*. (2021), Character 128; Choo *et al*. (2024), Character 128
+> - The coding of *Thursius* is "?"
+> - The coding of ZJYosteo is "?"
 
 129. Overlap relations of cleithrum and clavicle: normal (0); rhizodontid condition (1)
 
 > Zhu *et al*. (2017), Character 129; Cloutier *et al*. (2020), Character 129; Clement *et al*. (2021), Character 129; Choo *et al*. (2024), Character 129
+> - The coding of *Thursius* is "?"
+> - The coding of ZJYosteo is "?"
 
 130. Depressed posterior flange on cleithrum: absent (0); poorly developed (1); well developed (2)
 
 > *ordered*; Zhu *et al*. (2017), Character 130; Cloutier *et al*. (2020), Character 130; Simões and Pierce (2021), Character 112; Clement *et al*. (2021), Character 130; Choo *et al*. (2024), Character 130
+> - The coding of *Thursius* is "?"
+> - The coding of ZJYosteo is "?"
 
 131. Narrow waist on cleithrum: no (0); yes (1)
 
 > Zhu *et al*. (2017), Character 131; Cloutier *et al*. (2020), Character 131; Simões and Pierce (2021), Character 113; Clement *et al*. (2021), Character 131; Choo *et al*. (2024), Character 131
+> - The coding of *Thursius* is "?"
+> - The coding of ZJYosteo is "?"
 
 132. Ventral lamina of cleithrum much broader than dorsal lamina: no (0); yes (1)
 
 > Zhu *et al*. (2017), Character 132; Cloutier *et al*. (2020), Character 132; Clement *et al*. (2021), Character 132; Choo *et al*. (2024), Character 132
+> - The coding of *Thursius* is "?"
+> - The coding of ZJYosteo is "?"
 
 133. Clavicle ascending process: clavicle has rod-like ascending process (0); clavicle lacks rod-like ascending process (1)
 
@@ -772,27 +874,41 @@
 
 > The ascending process here defined as an extended narrow process, not just a process or corner of the posterolateral corner of the clavicle. In basal osteichthyans like *Mimia* and *Onychodus* there is well-developed ascending process, but in forms like *Gogonasus* the anterolateral corner of the clavicle ends with an acute point, but is not drawn out into a rod-like process.
 
+> - The coding of *Thursius* is "?"
+> - The coding of ZJYosteo is "?"
+
 134. Interclavicle size: small (0); large (1)
 
 > Daeschler *et al*. (2006), Character 83 (in part); Long *et al*. (2006), Character 68 (in part); Swartz (2012), Character 158 (in part); Zhu *et al*. (2017), Character 134 (in part); Chen *et al*. (2018), Character 98 (in part); Cloutier *et al*. (2020), Character 134; Clement *et al*. (2021), Character 134; Lu *et al*. (2012), Character 206 (in part); Choo *et al*. (2024), Character 134
 
 > Cloutier *et al*. (2020): Character 134 of Zhu *et al*. (2017) has been divided into two characters: size (char. 134) and ornamentation (char. 172).
 
+> - The coding of *Thursius* is "?"
+> - The coding of ZJYosteo is "?"
+
 135. Scapulocoracoid and cleithrum attachment: triradiate scapulocoracoid lying flush against internal surface of cleithrum, not separated by foramina (0); single large foramen piercing C-shaped scapulocoracoid close to contact face for cleithrum (1); scapulocoracoid attaching to cleithrum via three buttresses (2); scapulocoracoid attaching to cleithrum along its anterodorsal margin (3)
 
 > Daeschler *et al*. (2006), Character 108 (in part); Long *et al*. (2006), Character 74 (in part); Swartz (2012), Character 82 (in part); Zhu *et al*. (2017), Character 135; Cloutier *et al*. (2020), Character 135; Clement *et al*. (2021), Character 135; Choo *et al*. (2024), Character 135
+> - The coding of *Thursius* is "?"
+> - The coding of ZJYosteo is "?"
 
 136. Scapular process of scapulocoracoid: small (0); large, dorsally projecting (1)
 
 > S153, Zhu *et al*. (2017), Character 136; Chen *et al*. (2018), Character 106 (in part); Cloutier *et al*. (2020), Character 136; Clement *et al*. (2021), Character 136; Choo *et al*. (2024), Character 136
+> - The coding of *Thursius* is "?"
+> - The coding of ZJYosteo is "?"
 
 137. Subscapular fossa: absent (0); present (1)
 
 > Daeschler *et al*. (2006), Character 109; Long *et al*. (2006), Character 78; Zhu *et al*. (2017), Character 137; Cloutier *et al*. (2020), Character 137; Simões and Pierce (2021), Character 115; Clement *et al*. (2021), Character 137; Lu *et al*. (2012), Character 209; Choo *et al*. (2024), Character 137
+> - The coding of *Thursius* is "?"
+> - The coding of ZJYosteo is "?"
 
 138. Coracoid plate: absent (0); present and extends ventromedially (1)
 
 > Daeschler *et al*. (2006), Character 103; Long *et al*. (2006), Character 77; Swartz (2012), Character 152; Zhu *et al*. (2017), Character 138; Cloutier *et al*. (2020), Character 138; Simões and Pierce (2021), Character 116; Clement *et al*. (2021), Character 138; Lu *et al*. (2012), Character 210; Choo *et al*. (2024), Character 138
+> - The coding of *Thursius* is "?"
+> - The coding of ZJYosteo is "?"
 
 139. Pectoral fin radials: only preaxial and terminal (0); preaxial and postaxial radials in distal part of fin, only preaxial radials in proximal part (1); symmetrical array of preaxial and postaxial radials (2)
 
@@ -800,9 +916,14 @@
 
 > Cloutier et al. (2020): The term “radial” refers to endoskeletal elements located distally to the first row of proximal carpals (i.e., radiale, intermedium and tibiale). “Proximal radials” refer to the first proximo-distal row of elements (also referred to as “central carpals”) located distally to the proximal carpals. Proximal radials include the A4 element. “Intermediate radials” refer to the second proximo-distal row of elements located distally to the proximal radials and including the A5 elements. All the elements located distally to the intermediate radials are referred to as “distal radials” (or phalanges). This terminology follows that used by Wagner & Chiu (2001) and Johanson et al. (2007).
 
+> - The coding of *Thursius* is "?"
+> - The coding of ZJYosteo is "?"
+
 140. Shape of ectepicondyle: rounded (0); elongate parallel-sided ridge (1)
 
 > Zhu *et al*. (2017), Character 140; Chen *et al*. (2018), Character 91 (in part); Cloutier *et al*. (2020), Character 140; Simões and Pierce (2021), Character 118; Clement *et al*. (2021), Character 140; Choo *et al*. (2024), Character 140
+> - The coding of *Thursius* is "?"
+> - The coding of ZJYosteo is "?"
 
 141. Entepicondyle size: entepicondyle narrow relative to humerus shaft length (0); entepicondyle as broad as or broader than humerus is long (1)
 
@@ -810,9 +931,14 @@
 
 > Long *et al*. (2006): Based on plesiomorphic archipterygial fin patterns (e.g. dipnoans, porolepiforms) we assume that primary mesomere (A1) lacks a well- developed entepicondyle, so the extensive developments of such a feature are here considered to be derived within tetrapodomorphs. We measure the entepicondylar process as being the ventrally-orientated flange coming off the humeral shaft, measured from the ventral humeral shaft edge to its widest extent relative to maximum humeral shaft length. Thus in *Gogonasus*, as shown in Fig.1a, the entepicondyle is clearly much shorter in its width than the humerus is long.
 
+> - The coding of *Thursius* is "?"
+> - The coding of ZJYosteo is "?"
+
 142. Body of humerus: cylindrical (0); flattened rectangular (1)
 
 > Daeschler *et al*. (2006), Character 56; Long *et al*. (2006), Character 79; Swartz (2012), Character 162; Zhu *et al*. (2017), Character 142; Cloutier *et al*. (2020), Character 142; Simões and Pierce (2021), Character 120; Clement *et al*. (2021), Character 142; Lu *et al*. (2012), Character 217; Choo *et al*. (2024), Character 142
+> - The coding of *Thursius* is "?"
+> - The coding of ZJYosteo is "?"
 
 143. Caput humeri: almost flat (0); ball-shaped (1); elongate (2)
 
@@ -820,29 +946,45 @@
 
 > Long *et al*. (2006): In Daeschler *et al*. (2006) only 2 states are defined (0, ball-like or 1, straplike). After closer examination of the humeri of a number of tetrapodomorphs, we have added an extra state to accommodate the condition seen in *Gogonasus* where it is neither ball-shaped nor strap-like, but extensively wide and of uniform width.
 
+> - The coding of *Thursius* is "?"
+> - The coding of ZJYosteo is "?"
+
 144. Area proximal to radial facet: short, cylindrical leading edge (0); enlarged, sharp leading edge (1)
 
 > Daeschler *et al*. (2006), Character 102; Long *et al*. (2006), Character 85; Zhu *et al*. (2017), Character 144; Cloutier *et al*. (2020), Character 144; Simões and Pierce (2021), Character 122; Clement *et al*. (2021), Character 144; Lu *et al*. (2012), Character 223; Choo *et al*. (2024), Character 144
 
+> - The coding of *Thursius* is "?"
+> - The coding of ZJYosteo is "?"
+
 145. Shape of entepicondyle: narrow, finger-like (0); broad rectangular plate (1)
 
 > Zhu *et al*. (2017), Character 145; Cloutier *et al*. (2020), Character 145; Simões and Pierce (2021), Character 123; Clement *et al*. (2021), Character 145; Choo *et al*. (2024), Character 145
+> - The coding of *Thursius* is "?"
+> - The coding of ZJYosteo is "?"
 
 146. Discrete pectoral process on ventral ridge of humerus: absent (0); present (1)
 
 > Zhu *et al*. (2017), Character 146; Chen *et al*. (2018), Character 92; Cloutier *et al*. (2020), Character 146; Simões and Pierce (2021), Character 124; Clement *et al*. (2021), Character 146; Choo *et al*. (2024), Character 146
+> - The coding of *Thursius* is "?"
+> - The coding of ZJYosteo is "?"
 
 147. Postaxial process on ulnare: present (0); absent (1)
 
 > Daeschler *et al*. (2006), Character 91; Long *et al*. (2006), Character 87; Swartz (2012), Character 175; Zhu *et al*. (2017), Character 147; Cloutier *et al*. (2020), Character 147; Simões and Pierce (2021), Character 125; Clement *et al*. (2021), Character 147; Lu *et al*. (2012), Character 226; Choo *et al*. (2024), Character 147
+> - The coding of *Thursius* is "?"
+> - The coding of ZJYosteo is "?"
 
 148. Pectoral fin radials: jointed (0); unjointed (1)
 
 > Daeschler *et al*. (2006), Character 57 (in part); Long *et al*. (2006), Character 89 (in part); Swartz (2012), Character 177; Zhu *et al*. (2017), Character 148; Cloutier *et al*. (2020), Character 148; Simões and Pierce (2021), Character 126; Clement *et al*. (2021), Character 148; Lu *et al*. (2012), Character 228; Choo *et al*. (2024), Character 148
+> - The coding of *Thursius* is "?"
+> - The coding of ZJYosteo is "?"
 
 149. Radial length: longer than humerus (0); equal to or shorter than humerus (1)
 
 > Daeschler *et al*. (2006), Character 101; Long *et al*. (2006), Character 91; Swartz (2012), Character 170; Zhu *et al*. (2017), Character 149; Cloutier *et al*. (2020), Character 149; Simões and Pierce (2021), Character 127; Clement *et al*. (2021), Character 149; Lu *et al*. (2012), Character 229; Choo *et al*. (2024), Character 149
+> - The coding of *Thursius* is "?"
+> - The coding of ZJYosteo is "?"
 
 150. Shape of radius: bladelike (0); subcylindrical (1)
 
@@ -850,9 +992,14 @@
 
 > Long *et al*. (2006): We clarify our definition of this character as expressed by Daeschler et al. (2006) by stating that the plesiomorphic radius must have been rod-like, not broad or expanded, as it is in the small radials in dipnoans and porolepiform pectoral fins.
 
+> - The coding of *Thursius* is "?"
+> - The coding of ZJYosteo is "?"
+
 151. Termination of radius: radius and intermedium terminate at different levels (0); radius and intermedium terminate at same level (1)
 
 > Long *et al*. (2006), Character 92; Zhu *et al*. (2017), Character 151; Cloutier *et al*. (2020), Character 151; Simões and Pierce (2021), Character 129; Clement *et al*. (2021), Character 151; Lu *et al*. (2012), Character 233; Choo *et al*. (2024), Character 151
+> - The coding of *Thursius* is "?"
+> - The coding of ZJYosteo is "?"
 
 152. Digits (parallel, segmented, non-branching endoskeletal elements relatively uniform in size and shape (radials or phalanges), and articulating one-to-one proximodistally, at the distal end of vertebrate paired appendages): absent (0); present (1)
 
@@ -860,41 +1007,62 @@
 
 > Clouitier et al. (2020): We modified Coates’ (1994) and Stewart et al.’s (2017) definitions to take into account digits in transitional fin to manus, thus we defined digits as parallel, segmented, non-branching endoskeletal elements relatively uniform in size and shape (radials or phalanges), and articulating one-to-one proximodistally, at the distal end of vertebrate paired appendages
 
+> - The coding of *Thursius* is "?"
+> - The coding of ZJYosteo is "?"
+
 153. Dorsal and anal fins: present (0); absent (1)
 
 > Daeschler *et al*. (2006), Character 58; Long *et al*. (2006), Character 95; Swartz (2012), Character 191; Zhu *et al*. (2017), Character 153; Cloutier *et al*. (2020), Character 153; Simões and Pierce (2021), Character 131; Clement *et al*. (2021), Character 153; Lu *et al*. (2012), Character 237; Choo *et al*. (2024), Character 153
+> - The coding of *Thursius* is "?"
+> - The coding of ZJYosteo is "?"
 
 154. Caudal fin: heterocercal (0); triphycercal (1); diphycercal (2)
 
 > Daeschler *et al*. (2006), Character 59 (in part); Long *et al*. (2006), Character 96 (in part); Swartz (2012), Character 193 (in part); Zhu *et al*. (2017), Character 154; Cloutier *et al*. (2020), Character 154; Simões and Pierce (2021), Character 132; Clement *et al*. (2021), Character 154; Lu *et al*. (2012), Character 241; Choo *et al*. (2024), Character 154
+> - The coding of *Thursius* is "?"
+> - The coding of ZJYosteo is "?"
 
 155. Epichordal radials in caudal fin: absent (0); present (1)
 
 > Swartz (2012), Character 194; Zhu *et al*. (2017), Character 155; Cloutier *et al*. (2020), Character 155; Simões and Pierce (2021), Character 133; Clement *et al*. (2021), Character 155; Lu *et al*. (2012), Character 244; Choo *et al*. (2024), Character 155
+> - The coding of *Thursius* is "?"
+> - The coding of ZJYosteo is "?"
 
 156. Well-ossified ribs: absent (0); present (1)
 
 > Zhu *et al*. (2017), Character 156; Cloutier *et al*. (2020), Character 156; Simões and Pierce (2021), Character 134; Clement *et al*. (2021), Character 156; Lu *et al*. (2012), Character 245; Choo *et al*. (2024), Character 156
+> - The coding of *Thursius* is "?"
+> - The coding of ZJYosteo is "?"
 
 157. Expanded ribs: absent (0); present (1)
 
 > Daeschler *et al*. (2006), Character 113; Long *et al*. (2006), Character 101; Swartz (2012), Character 181; Zhu *et al*. (2017), Character 157; Cloutier *et al*. (2020), Character 157; Simões and Pierce (2021), Character 135; Clement *et al*. (2021), Character 157; Lu *et al*. (2012), Character 246; Choo *et al*. (2024), Character 157
+> - The coding of *Thursius* is "?"
+> - The coding of ZJYosteo is "?"
 
 158. Imbricate ribs: absent (0); present (1)
 
 > Daeschler *et al*. (2006), Character 113; Long *et al*. (2006), Character 100; Swartz (2012), Character 182; Zhu *et al*. (2017), Character 158; Cloutier *et al*. (2020), Character 158; Simões and Pierce (2021), Character 136; Clement *et al*. (2021), Character 158; Lu *et al*. (2012), Character 247; Choo *et al*. (2024), Character 158
+> - The coding of *Thursius* is "?"
+> - The coding of ZJYosteo is "?"
 
 159. Sacrum: absent (0); present (1)
 
 > Zhu *et al*. (2017), Character 159; Cloutier *et al*. (2020), Character 159; Simões and Pierce (2021), Character 137; Clement *et al*. (2021), Character 159; Lu *et al*. (2012), Character 248; Choo *et al*. (2024), Character 159
+> - The coding of *Thursius* is "?"
+> - The coding of ZJYosteo is "?"
 
 160. Intercentra fused to solid ring: no (0); yes (1)
 
 > Zhu *et al*. (2017), Character 160; Cloutier *et al*. (2020), Character 160; Simões and Pierce (2021), Character 138; Clement *et al*. (2021), Character 160; Choo *et al*. (2024), Character 160
+> - The coding of *Thursius* is "?"
+> - The coding of ZJYosteo is "?"
 
 161. Ossified supraoccipital plug for the attachment of the supraneural ligament: present (0); absent (1)
 
 > Zhu *et al*. (2017), Character 161; Cloutier *et al*. (2020), Character 161; Simões and Pierce (2021), Character 139; Clement *et al*. (2021), Character 161; Lu *et al*. (2012), Character 249; Choo *et al*. (2024), Character 161
+> - The coding of *Thursius* is "?"
+> - The coding of ZJYosteo is "?"
 
 162. Scales: rhombic (0); intermediate between rhombic and round (1); round (2)
 
@@ -904,33 +1072,50 @@
 
 > Cloutier et al. (2020): The original character states of Zhu et al. (2017) have been reordered to form a morphocline.
 
+> - The coding of *Thursius* is "0"
+> - The coding of ZJYosteo is "?"
+
 163. Median boss on round scale: present (0); absent (1)
 
 > Zhu *et al*. (2017), Character 163; Cloutier *et al*. (2020), Character 163; Simões and Pierce (2021), Character 141; Clement *et al*. (2021), Character 163; Lu *et al*. (2012), Character 252; Choo *et al*. (2024), Character 163
+> - The coding of *Thursius* is "?"
+> - The coding of ZJYosteo is "?"
 
 164. Long basal segments of lepidotrichia in pectoral fin: no (0); yes (1)
 
 > Swartz (2012), Character 180, Zhu *et al*. (2017), Character 164; Cloutier *et al*. (2020), Character 164; Simões and Pierce (2021), Character 142; Clement *et al*. (2021), Character 164; Lu *et al*. (2012), Character 254; Choo *et al*. (2024), Character 164
+> - The coding of *Thursius* is "?"
+> - The coding of ZJYosteo is "?"
 
 165. Basal scutes associated with fins: absent (0); present (1)
 
 > Daeschler *et al*. (2006), Character 60; Swartz (2012), Character 198; Zhu *et al*. (2017), Character 165; Cloutier *et al*. (2020), Character 165; Simões and Pierce (2021), Character 143; Clement *et al*. (2021), Character 165; Choo *et al*. (2024), Character 165
+> - The coding of *Thursius* is "?"
+> - The coding of ZJYosteo is "?"
 
 166. Pore-canal network: absent (0); present (1)
 
 > Zhu *et al*. (2017), Character 166; Cloutier *et al*. (2020), Character 166; Simões and Pierce (2021), Character 144; Clement *et al*. (2021), Character 166; Lu *et al*. (2012), Character 256; Choo *et al*. (2024), Character 166
+> - The coding of *Thursius* is "?"
+> - The coding of ZJYosteo is "?"
 
 167. Enamel lining of pore canals: absent (0); present (1)
 
 > Zhu *et al*. (2017), Character 167; Cloutier *et al*. (2020), Character 167; Simões and Pierce (2021), Character 145; Clement *et al*. (2021), Character 167; Lu *et al*. (2012), Character 258; Choo *et al*. (2024), Character 167
+> - The coding of *Thursius* is "?"
+> - The coding of ZJYosteo is "?"
 
 168. Rostral tubuli: absent (0); present (1)
 
 > Swartz (2012), Character 2; Zhu *et al*. (2017), Character 168; Cloutier *et al*. (2020), Character 168; Simões and Pierce (2021), Character 146; Clement *et al*. (2021), Character 168; Lu *et al*. (2012), Character 260; Choo *et al*. (2024), Character 168
+> - The coding of *Thursius* is "?"
+> - The coding of ZJYosteo is "?"
 
 169. Plicidentine: absent (0); simple or generalized polyplocodont (1); labyrinthodont (2); dendrodont (3)
 
 > Daeschler *et al*. (2006), Character 10; Swartz (2012), Character 201; Zhu *et al*. (2017), Character 169; Cloutier *et al*. (2020), Character 169; **Simões and Pierce (2021), Characters 147, 148**; Clement *et al*. (2021), Character 169; Lu *et al*. (2012), Character 263; Long *et al*. (2006), Character 21; Choo *et al*. (2024), Character 169
+> - The coding of *Thursius* is "?"
+> - The coding of ZJYosteo is "?"
 
 170. Postspiracular: absent (0); present (1)
 
@@ -938,11 +1123,17 @@
 
 > Cloutier et al. (2020): This character is part of character 29 by Zhu et al. (2017). We divided the original character because we do not agree with the assumption that the extratemporal is homologous with the postspiracular.
 
+> - The coding of *Thursius* is "?"
+> - The coding of ZJYosteo is "?"
+
 171. Posterior carotid opening in parasphenoid: large (0); small (1)
 
 > Swartz (2012), Character 10 (in part); Zhu *et al*. (2017), Character 70 (in part); Cloutier *et al*. (2020), Character 171; Clement *et al*. (2021), Character 171; Lu *et al*. (2012), Character 98 (in part); Choo *et al*. (2024), Character 171
 
 > Cloutier et al. (2020): This character is linked with character 70 (Zhu et al. 2017)
+
+> - The coding of *Thursius* is "?"
+> - The coding of ZJYosteo is "?"
 
 172. Interclavicle ornamentation: unornamented (0); ornamented (1)
 
@@ -950,9 +1141,14 @@
 
 > Cloutier et al. (2020): This character corresponds in part of character 134 of Zhu et al. (2017).
 
+> - The coding of *Thursius* is "?"
+> - The coding of ZJYosteo is "?"
+
 173. Choana: absent (0); present (1)
 
 > Daeschler *et al*. (2006), Character 22; Cloutier *et al*. (2020), Character 173; Simões and Pierce (2021), Character 151; Clement *et al*. (2021), Character 173; Long *et al*. (2006), Character 30; Choo *et al*. (2024), Character 173
+> - The coding of *Thursius* is "1"
+> - The coding of ZJYosteo is "1"
 
 174. Anocleithrum: exposed (0); subdermal (1)
 
@@ -960,9 +1156,14 @@
 
 > Lu *et al*. (2012) defined the Anocleithrum as Anocleithrum sensu stricto (in a narrow or strict sense)
 
+> - The coding of *Thursius* is "?"
+> - The coding of ZJYosteo is "?"
+
 175. Archipterygial pectoral fin: no (0); yes (1)
 
 > Daeschler *et al*. (2006), Character 55; Cloutier *et al*. (2020), Character 175; Simões and Pierce (2021), Character 153; Clement *et al*. (2021), Character 175; Choo *et al*. (2024), Character 175
+> - The coding of *Thursius* is "?"
+> - The coding of ZJYosteo is "?"
 
 176. Submandibulars: present (0); absent (1)
 
@@ -970,43 +1171,65 @@
 
 > Lu *et al*. (2012) coded the submandibular: absent (0); present (1)
 
+> - The coding of *Thursius* is "?"
+> - The coding of ZJYosteo is "?"
+
 177. Gular: present (0); absent (1)
 
 > Daeschler *et al*. (2006), Character 80 (in part); Long *et al*. (2006), Character 63 (in part); Swartz (2012), Character 135 (in part); Cloutier *et al*. (2020), Character 177; Simões and Pierce (2021), Character 155; Clement *et al*. (2021), Character 177; Lu *et al*. (2012), Character 171; Choo *et al*. (2024), Character 177
 
 > Lu *et al*. (2012) defined the gular as the median gular
 
+> - The coding of *Thursius* is "0"
+> - The coding of ZJYosteo is "?"
+
 178. Contact between postorbital and lacrimal: absent (0); present (1)
 
 > Daeschler *et al*. (2006), Character 84; Swartz (2012), Character 99; Cloutier *et al*. (2020), Character 178; Simões and Pierce (2021), Character 156; Clement *et al*. (2021), Character 178; Lu *et al*. (2012), Character 76; Choo *et al*. (2024), Character 178
+> - The coding of *Thursius* is "0"
+> - The coding of ZJYosteo is "?"
 
 179. Contact between postfrontal and supratemporal: no (0); yes (1)
 
 > Daeschler *et al*. (2006), Character 85; Cloutier *et al*. (2020), Character 179; Simões and Pierce (2021), Character 157; Clement *et al*. (2021), Character 179; Choo *et al*. (2024), Character 179
+> - The coding of *Thursius* is "0"
+> - The coding of ZJYosteo is "?"
 
 180. Transverse joint at the level of the ulnare, intermedium and radius: absent (0); present (1)
 
 > Long *et al*. (2006), Character 93; Daeschler *et al*. (2006), Character 89; Swartz (2012), Character 173; Cloutier *et al*. (2020), Character 180; Simões and Pierce (2021), Character 158; Clement *et al*. (2021), Character 180; Lu *et al*. (2012), Character 235; Choo *et al*. (2024), Character 180
+> - The coding of *Thursius* is "?"
+> - The coding of ZJYosteo is "?"
 
 181. Branched radials distal to the ulnare: absent (0); present (1)
 
 > Daeschler *et al*. (2006), Character 93, Swartz (2012), Character 176; Cloutier *et al*. (2020), Character 181; Simões and Pierce (2021), Character 159; Clement *et al*. (2021), Character 181; Choo *et al*. (2024), Character 181
+> - The coding of *Thursius* is "?"
+> - The coding of ZJYosteo is "?"
 
 182. Olecranon process on ulna: absent (0); present (1)
 
 > Daeschler *et al*. (2006), Character 95; Swartz (2012), Character 172; Cloutier *et al*. (2020), Character 182; Simões and Pierce (2021), Character 160; Clement *et al*. (2021), Character 182; Choo *et al*. (2024), Character 182
+> - The coding of *Thursius* is "?"
+> - The coding of ZJYosteo is "?"
 
 183. Radial facet : faces distally (0); has some ventrally directed component (1)
 
 > Daeschler *et al*. (2006), Character 98; Long *et al*. (2006), Character 81; Swartz (2012), Character 167; Cloutier *et al*. (2020), Character 183; Simões and Pierce (2021), Character 161; Clement *et al*. (2021), Character 183; Lu *et al*. (2012), Character 230; Choo *et al*. (2024), Character 183
+> - The coding of *Thursius* is "?"
+> - The coding of ZJYosteo is "?"
 
 184. Ulnar facet: faces distally (0); has some ventrally directed component (1)
 
 > Daeschler *et al*. (2006), Character 99; Swartz (2012), Character 171; Cloutier *et al*. (2020), Character 18; Simões and Pierce (2021), Character 162; Clement *et al*. (2021), Character 184; Choo *et al*. (2024), Character 184
+> - The coding of *Thursius* is "?"
+> - The coding of ZJYosteo is "?"
 
 185. Glenoid position: elevated from plane formed by clavicles (0); offset ventrally to lie at same level as clavicular plane (1)
 
 > Daeschler *et al*. (2006), Character 104; Long *et al*. (2006), Character 75; Swartz (2012), Character 155; Cloutier *et al*. (2020), Character 185; Simões and Pierce (2021), Character 163; Clement *et al*. (2021), Character 185; Lu *et al*. (2012), Character 211; Choo *et al*. (2024), Character 185
+> - The coding of *Thursius* is "?"
+> - The coding of ZJYosteo is "?"
 
 186. Glenoid orientation: posterior orientation (0); lateral component to glenoid orientation (1)
 
@@ -1014,69 +1237,104 @@
 
 > Long *et al*. (2006) added the description: posterior and/or ventral orientation (0)
 
+> - The coding of *Thursius* is "?"
+> - The coding of ZJYosteo is "?"
+
 187. Premaxillary tooth proportion: all approximately same size (0); enlarged anterior tooth (1); posteriormost teeth at least twice height of anteriormost teeth (2)
 
 > Swartz (2012), Character 53; Chen *et al*. (2018), Character 35 (in part); Cloutier *et al*. (2020), Character 187; Clement *et al*. (2021), Character 187; Choo *et al*. (2024), Character 187
+> - The coding of *Thursius* is "0"
+> - The coding of ZJYosteo is "0"
 
 188. Anocleithrum: oblong with distinct anterior overlap area (0); dropshaped with no anterior overlap area (1); absent (2)
 
 > Swartz (2012), Character 147; Chen *et al*. (2018), Character 87; Cloutier *et al*. (2020), Character 188; **Simões and Pierce (2021), Characters 165, 166**; Clement *et al*. (2021), Character 188; Choo *et al*. (2024), Character 188
+> - The coding of *Thursius* is "?"
+> - The coding of ZJYosteo is "?"
 
 189. Glenoid proportions: height/width ratio 60% or greater (0); height/width ratio 40-50% (1)
 
 > Swartz (2012), Character 157; Cloutier *et al*. (2020), Character 189; Clement *et al*. (2021), Character 189; Choo *et al*. (2024), Character 189
+> - The coding of *Thursius* is "?"
+> - The coding of ZJYosteo is "?"
 
 190. Interclavicle shape: ovoid (0); kite-shaped (1); kite-shaped with posterior stalk (2)
 
 > Swartz (2012), Character 159; Chen *et al*. (2018), Character 99; Cloutier *et al*. (2020), Character 190; Simões and Pierce (2021), Character 167; Clement *et al*. (2021), Character 190; Choo *et al*. (2024), Character 190
+> - The coding of *Thursius* is "?"
+> - The coding of ZJYosteo is "?"
 
 191. Deltoid and supinator process on humerus: absent (0); present (1)
 
 > Swartz (2012), Character 163; Cloutier *et al*. (2020), Character 191; Simões and Pierce (2021), Character 168; Clement *et al*. (2021), Character 191; Lu *et al*. (2012), Character 218; Choo *et al*. (2024), Character 191
+> - The coding of *Thursius* is "?"
+> - The coding of ZJYosteo is "?"
 
 192. Anterior termination of ventral ridge: adjacent to the caput humeri (0); offset distally toward the proximodistal mid-region of anterior margin of humerus (1)
 
 > Long *et al*. (2006), Character 83; Swartz (2012), Character 164; Cloutier *et al*. (2020), Character 192; Simões and Pierce (2021), Character 169; Clement *et al*. (2021), Character 192; Lu *et al*. (2012), Character 225; Choo *et al*. (2024), Character 192
+> - The coding of *Thursius* is "?"
+> - The coding of ZJYosteo is "?"
 
 193. Radius and ulna: radius much longer than ulna (0); approximately equal length (1)
 
 > Swartz (2012), Character 166; Long *et al*. (2006), Character 48; Chen *et al*. (2018), Character 102; Cloutier *et al*. (2020), Character 193; Clement *et al*. (2021), Character 193; Choo *et al*. (2024), Character 193
+> - The coding of *Thursius* is "?"
+> - The coding of ZJYosteo is "?"
 
 194. Lepidotrichia in paired appendages: present (0); absent (1)
 
 > Swartz (2012), Character 179, Chen *et al*. (2018), Character 100; Cloutier *et al*. (2020), Character 194; Simões and Pierce (2021), Character 170; Clement *et al*. (2021), Character 194; Choo *et al*. (2024), Character 194
+> - The coding of *Thursius* is "?"
+> - The coding of ZJYosteo is "?"
 
 195. Ribs, trunk: no longer than diameter of intercentrum (0); longer (1)
 
 > Swartz (2012), Character 183; Chen *et al*. (2018), Character 103; Cloutier *et al*. (2020), Character 195; Simões and Pierce (2021), Character 171; Clement *et al*. (2021), Character 195; Choo *et al*. (2024), Character 195
+> - The coding of *Thursius* is "?"
+> - The coding of ZJYosteo is "?"
 
 196. Ribs, trunk: all cylindrical (0); some or all bear flanges from posterior margin that narrow distally (1); some or all flare distally (2)
 
 > Swartz (2012), Character 185; Chen *et al*. (2018), Character 105; Cloutier *et al*. (2020), Character 196; Simões and Pierce (2021), Character 172; Clement *et al*. (2021), Character 196; Choo *et al*. (2024), Character 196
+> - The coding of *Thursius* is "?"
+> - The coding of ZJYosteo is "?"
 
 197. Supraneural spines: present (0); absent (1)
 
 > Swartz (2012), Character 186; Cloutier *et al*. (2020), Character 197; Simões and Pierce (2021), Character 173; Clement *et al*. (2021), Character 197; Lu *et al*. (2012), Character 243; Choo *et al*. (2024), Character 197
+> - The coding of *Thursius* is "?"
+> - The coding of ZJYosteo is "?"
 
 198. Number of transverse flexion distal to ulnare: 1-2 rows (0); 3 rows (1); 4 rows (2); 5-6 rows (3)
 
 > *ordered*; Cloutier *et al*. (2020), Character 198; Simões and Pierce (2021), Character 174; Clement *et al*. (2021), Character 198; Choo *et al*. (2024), Character 198
+> - The coding of *Thursius* is "?"
+> - The coding of ZJYosteo is "?"
 
 199. Number radials articulating on ulnare: 0-2 radials (0); 3-4 radials (1); 5 radials (2)
 
 > *ordered*; Daeschler *et al*. (2006), Character 90 (in part), Swartz (2012), Character 174 (in part); Cloutier *et al*. (2020), Character 199; Simões and Pierce (2021), Character 175; Clement *et al*. (2021), Character 199; Choo *et al*. (2024), Character 199
+> - The coding of *Thursius* is "?"
+> - The coding of ZJYosteo is "?"
 
 200. Number of digits: five or less (0); more than five (1)
 
 > Cloutier *et al*. (2020), Character 200; Simões and Pierce (2021), Character 176; Clement *et al*. (2021), Character 200; Choo *et al*. (2024), Character 200
+> - The coding of *Thursius* is "?"
+> - The coding of ZJYosteo is "?"
 
 201. Radiale: absent (0); small (approximately one fifth the length of the radius) (1); large (approximately half the length of the radius) (2)
 
 > *ordered*; Cloutier *et al*. (2020), Character 201; Simões and Pierce (2021), Character 177; Clement *et al*. (2021), Character 201; Choo *et al*. (2024), Character 201
+> - The coding of *Thursius* is "?"
+> - The coding of ZJYosteo is "?"
 
 202. Tabular horn. A tabular horn is formed by an embayment in the posterior margin of the tabular: absent (0); present (1)
 
 > Cloutier *et al*. (2020), Character 202; Simões and Pierce (2021), Character 178; Clement *et al*. (2021), Character 202; Choo *et al*. (2024), Character 202
+> - The coding of *Thursius* is "?"
+> - The coding of ZJYosteo is "?"
 
 203. Long medioventral process of premaxilla absent (0); present (1).
 
@@ -1085,7 +1343,7 @@
 204. Relative size of anterior tectal and lateral rostral Lateral rostral much larger than anterior tectal (0); Lateral rostral and anterior tectal equidimensional (1); Lateral rostral smaller than anterior tectal (2).
  
 > Clement *et al*. (2021), Character 204
-    
+
 205. Size of bones forming the external nares Anterior tectal and lateral rostral similar in size to the posterior tectal (0); Anterior tectal and lateral rostral much smaller than the posterior tectal (1).
 
 > Clement *et al*. (2021), Character 205
@@ -1093,6 +1351,3 @@
 206. Anterolateral process of supratemporal absent (0); present (1).
 
 > Clement *et al*. (2021), Character 206
-
-> Chen, D., et al. A partial lower jaw of a tetrapod from ‘‘Romer’s Gap’’. Earth and Environmental Science Transactions of the Royal Society of Edinburgh 108, 55–65 (2018).
-> Simões TR, Pierce SE. 2021. Sustained high rates of morphological evolution during the rise of tetrapods. Nature Ecology and Evolution 1–12 DOI 10.1038/s41559-021-01532-x.
