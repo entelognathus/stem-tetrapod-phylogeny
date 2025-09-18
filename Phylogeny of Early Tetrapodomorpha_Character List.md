@@ -14,36 +14,21 @@
 
 > Daeschler *et al*. (2006), Character 45; Long *et al*. (2006), Character 49; Swartz (2012), Character 97; Zhu *et al*. (2017), Character 1; Cloutier *et al*. (2020), Character 1; Simões and Pierce (2021), Character 1; Clement *et al*. (2021), Character 1; Lu *et al*. (2012), Character 1; Choo *et al*. (2024), Character 1
 
-> - The coding of *Thursius* is "0"
-> - The coding of ZJYosteo is "0"
-
 2. Proportion of skull roof lying anterior to middle of orbits: <50% (0); ≧50% (1)
 
 > Daeschler *et al*. (2006), Character 75; Long *et al*. (2006), Character 55 (in part); Zhu *et al*. (2017), Character 2; Cloutier *et al*. (2020), Character 2; Clement *et al*. (2021), Character 2; Lu *et al*. (2012), Character 2; Choo *et al*. (2024), Character 2
-
-> - The coding of *Thursius* is "0"
-> - The coding of ZJYosteo is "0"
 
 3. Facial lamina of premaxilla: vertical, indicating deep snout (0); curve posteriorly, indicating flattened snout (1)
 
 > Zhu *et al*. (2017), Character 3; Cloutier *et al*. (2020), Character 3; Simões and Pierce (2021), Character 2; Clement *et al*. (2021), Character 3; Choo *et al*. (2024), Character 1
 
-> - The coding of *Thursius* is "0"
-> - The coding of ZJYosteo is "0"
-
 4. Facial lamina of premaxilla: height less than 50% of length of premaxilla (0); more than 50% of length of premaxilla (1)
 
 > Zhu *et al*. (2017), Character 4; Cloutier *et al*. (2020), Character 4; Clement *et al*. (2021), Character 4; Choo *et al*. (2024), Character 4
 
-> - The coding of *Thursius* is "0"
-> - The coding of ZJYosteo is "0"
-
 5. Orientation of anterior tectal and lateral rostral relative to anterior nostril: dorsal/ventral (0); posterior/anterior (1)
 
 > Daeschler *et al*. (2006), Character 23; Zhu *et al*. (2017), Character 5; Cloutier *et al*. (2020), Character 5; Simões and Pierce (2021), Character 3; Clement *et al*. (2021), Character 5; Lu *et al*. (2012), Character 4; Choo *et al*. (2024), Character 5
-
-> - The coding of *Thursius* is "?"
-> - The coding of ZJYosteo is "?"
 
 6. Postrostral: absent (0); postrostral mosaic of small variable bones (1); large median postrostral, with or without accessory bones (2); paired E bones (3)
 
@@ -51,36 +36,21 @@
 
 >The code (3) paired E bones is added in Lu *et al*
 
-> - The coding of *Thursius* is "?"
-> - The coding of ZJYosteo is "?"
-
 7. Number of nasals: more than two (0); two (1); one (2)
 
 > *ordered*; Daeschler *et al*. (2006), Character 35, Swartz (2012), Character 83, Zhu *et al*. (2017), Character 7 (in part); Cloutier *et al*. (2020), Character 7; Simões and Pierce (2021), Character 5; Clement *et al*. (2021), Character 7; Lu *et al*. (2012), Character 6; Long *et al*. (2006), Character 41; Choo *et al*. (2024), Character 7
-
-> - The coding of *Thursius* is "?"
-> - The coding of ZJYosteo is "?"
 
 8. Position of anterior nostril: facial (0); edge of mouth (1)
 
 > Swartz (2012), Character 91; Zhu *et al*. (2017), Character 8; Cloutier *et al*. (2020), Character 8; Simões and Pierce (2021), Character 6; Clement *et al*. (2021), Character 8; Choo *et al*. (2024), Character 8
 
-> - The coding of *Thursius* is "1"
-> - The coding of ZJYosteo is "1"
-
 9. Dermintermedial process: absent (0); present (1)
 
 > Zhu *et al*. (2017), Character 9; Cloutier *et al*. (2020), Character 9; Simões and Pierce (2021), Character 7; Clement *et al*. (2021), Character 9; Choo *et al*. (2024), Character 9
 
-> - The coding of *Thursius* is "0"
-> - The coding of ZJYosteo is "0"
-
 10. Position of posterior nostril: external, far from jaw margin (0); external, close to jaw margin (1); palatal (2)
 
 > *ordered*; Swartz (2012), Character 89 (in part); Zhu *et al*. (2017), Character 10; Cloutier *et al*. (2020), Character 10; Simões and Pierce (2021), Character 8; Clement *et al*. (2021), Character 10; Lu *et al*. (2012), Character 9; Choo *et al*. (2024), Character 10
-
-> - The coding of *Thursius* is "1"
-> - The coding of ZJYosteo is "1"
 
 11. Number of supraorbitals: one (0); more than one (1)
 
@@ -88,15 +58,9 @@
 
 > Lu *et al*. (2012) coded the number of supraorbitals: two (1); more than two (2)
 
-> - The coding of *Thursius* is "?"
-> - The coding of ZJYosteo is "?"
-
 12. Posterior or posteriormost supraorbital (postfrontal) extends anterior of orbit: yes (0); no (1)
 
 > Daeschler *et al*. (2006), Character 86; Long *et al*. (2006), Character 57; Swartz (2012), Character 109; Zhu *et al*. (2017), Character 12; Cloutier *et al*. (2020), Character 12; Simões and Pierce (2021), Character 9; Clement *et al*. (2021), Character 12; Choo *et al*. (2024), Character 12
-
-> - The coding of *Thursius* is "?"
-> - The coding of ZJYosteo is "?"
 
 13. Relative size of anterior (or anteriormost) supraorbital (prefrontal, posterior tectal of Jarvik) and posterior (or posteriormost) supraorbital (postfrontal): similar (0); anterior supraorbital much bigger (1)
 
