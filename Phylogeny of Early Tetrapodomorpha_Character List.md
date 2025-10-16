@@ -63,14 +63,14 @@
 9. Dermintermedial process: absent (0); present (1)
 
 > Zhu *et al*. (2017), Character 9; Cloutier *et al*. (2020), Character 9; Simões and Pierce (2021), Character 7; Clement *et al*. (2021), Character 9; Choo *et al*. (2024), Character 9
-> - The coding of *Thursius* is "0"
-> - The coding of ZJYosteo is "0"
+> - The coding of *Thursius* is "1"
+> - The coding of ZJYosteo is "1"
 
 10. Position of posterior nostril: external, far from jaw margin (0); external, close to jaw margin (1); palatal (2)
 
 > *ordered*; Swartz (2012), Character 89 (in part); Zhu *et al*. (2017), Character 10; Cloutier *et al*. (2020), Character 10; Simões and Pierce (2021), Character 8; Clement *et al*. (2021), Character 10; Lu *et al*. (2012), Character 9; Choo *et al*. (2024), Character 10
-> - The coding of *Thursius* is "1"
-> - The coding of ZJYosteo is "1"
+> - The coding of *Thursius* is "2"
+> - The coding of ZJYosteo is "2"
 
 11. Number of supraorbitals: one (0); more than one (1)
 
