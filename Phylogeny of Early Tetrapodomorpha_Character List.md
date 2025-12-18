@@ -322,15 +322,19 @@
 
 > Cloutier et al. (2020): Character 70 of Zhu et al. (2017) has been divided into two binary characters (char. 70 and 171).
 
-71. Articulation of pterygoids: pterygoids not articulating with each other (0); pterygoids articulating with each other (1)
+71. canal for buccohypophsial duct opening in parasphenoid: present (0); absent (1)
+    
+72. canal for buccohypophsial duct opening position: at the same level as the basipterygoid process (0); anterior to the basipterygoid process (1)
+
+73. Articulation of pterygoids: pterygoids not articulating with each other (0); pterygoids articulating with each other (1)
 
 > Daeschler *et al*. (2006), Character 14; Swartz (2012), Character 70; Zhu *et al*. (2017), Character 71; Clack *et al*. (2012), Character 18 (in part), Chen *et al*. (2018), Character 17; Cloutier *et al*. (2020), Character 71; Simões and Pierce (2021), Character 59; Clement *et al*. (2021), Character 71; Lu *et al*. (2012), Character 100; Long *et al*. (2006), Character 24; Choo *et al*. (2024), Character 71
 
-72. Proportions of entopterygoid: anterior end level with processus ascendens (0); anterior end considerably anterior to processus ascendens (1)
+74. Proportions of entopterygoid: anterior end level with processus ascendens (0); anterior end considerably anterior to processus ascendens (1)
 
 > Daeschler *et al*. (2006), Character 13; Swartz (2012), Character 69; Zhu *et al*. (2017), Character 72; Cloutier *et al*. (2020), Character 72; Simões and Pierce (2021), Character 60; Clement *et al*. (2021), Character 72; Lu *et al*. (2012), Character 104; Long *et al*. (2006), Character 23; Choo *et al*. (2024), Character 72
 
-73. Number of fang pairs on ectopterygoid: two (0); one (1); none (2)
+75. Number of fang pairs on ectopterygoid: two (0); one (1); none (2)
 
 > *ordered*; Daeschler *et al*. (2006), Character 12 (morphocline changed); Swartz (2012), Character 80 (in part) (morphocline changed); Zhu *et al*. (2017), Character 73 (morphocline changed); Clack *et al*. (2012), Character 30 (in part); Chen *et al*. (2018), Character 29 (in part); Cloutier *et al*. (2020), Character 73; Simões and Pierce (2021), Character 61; Clement *et al*. (2021), Character 73; Long *et al*. (2006), Character 22 (morphocline changed); Choo *et al*. (2024), Character 73
 
