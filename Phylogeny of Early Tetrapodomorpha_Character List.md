@@ -1336,18 +1336,10 @@
 > - The coding of *Thursius wudingensis* is "?"
 > - The coding of ZJYosteo is "?"
 
-203. Long medioventral process of premaxilla absent (0); present (1).
+203. canal for buccohypophsial duct opening in parasphenoid: present (0); absent (1)
+    
+204. canal for buccohypophsial duct opening position: at the same level as the basipterygoid process (0); anterior to the basipterygoid process (1)
+    
+205. Intercoronoid fossae: absent (0); present (1)
 
-> Clement *et al*. (2021), Character 203
-
-204. Relative size of anterior tectal and lateral rostral Lateral rostral much larger than anterior tectal (0); Lateral rostral and anterior tectal equidimensional (1); Lateral rostral smaller than anterior tectal (2).
- 
-> Clement *et al*. (2021), Character 204
-
-205. Size of bones forming the external nares Anterior tectal and lateral rostral similar in size to the posterior tectal (0); Anterior tectal and lateral rostral much smaller than the posterior tectal (1).
-
-> Clement *et al*. (2021), Character 205
-
-206. Anterolateral process of supratemporal absent (0); present (1).
-
-> Clement *et al*. (2021), Character 206
+206. Intercoronoid fossae spacing: uniform (0); non-uniform (1)
