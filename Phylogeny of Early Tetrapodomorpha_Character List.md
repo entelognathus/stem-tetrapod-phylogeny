@@ -435,7 +435,7 @@
 > Zhu *et al*. (2017), Character 65;  Clack *et al*. (2012), Character 27 (in part); Cloutier *et al*. (2020), Character 65; Simões and Pierce (2021), Character 54; Clement *et al*. (2021), Character 65; Lu *et al*. (2012), Character 91; Choo *et al*. (2024), Character 65
 > - The coding of *Thursius wudingensis* is "1"
 > - The coding of ZJYosteo is "1"
-> The states for *Gyroptychius agassizi*, *Osteolepis macrolepidotus*, *Gogonasus andrewsae*, *Medoevia lata*, and *Megalichthys hibberti* were changed to “1”.
+> - The states for *Gyroptychius agassizi*, *Osteolepis macrolepidotus*, *Gogonasus andrewsae*, *Medoevia lata*, and *Megalichthys hibberti* were changed to “1”.
 
 66. Denticulated field of parasphenoid: without spiracular groove (0); with spiracular groove (1)
 
