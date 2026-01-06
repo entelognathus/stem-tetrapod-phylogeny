@@ -435,6 +435,7 @@
 > Zhu *et al*. (2017), Character 65;  Clack *et al*. (2012), Character 27 (in part); Cloutier *et al*. (2020), Character 65; Simões and Pierce (2021), Character 54; Clement *et al*. (2021), Character 65; Lu *et al*. (2012), Character 91; Choo *et al*. (2024), Character 65
 > - The coding of *Thursius wudingensis* is "1"
 > - The coding of ZJYosteo is "1"
+> The states for *Gyroptychius agassizi*, *Osteolepis macrolepidotus*, *Gogonasus andrewsae*, *Medoevia lata*, and *Megalichthys hibberti* were changed to “1”.
 
 66. Denticulated field of parasphenoid: without spiracular groove (0); with spiracular groove (1)
 
@@ -1335,11 +1336,7 @@
 > Cloutier *et al*. (2020), Character 202; Simões and Pierce (2021), Character 178; Clement *et al*. (2021), Character 202; Choo *et al*. (2024), Character 202
 > - The coding of *Thursius wudingensis* is "?"
 > - The coding of ZJYosteo is "?"
-
-203. canal for buccohypophsial duct opening in parasphenoid: present (0); absent (1)
     
-204. canal for buccohypophsial duct opening position: at the same level as the basipterygoid process (0); anterior to the basipterygoid process (1)
-    
-205. Intercoronoid fossae: absent (0); present (1)
+203. Canal for buccohypophsial duct opening position: at the same level as the basipterygoid process (0); anterior to the basipterygoid process (1)
 
-206. Intercoronoid fossae spacing: uniform (0); non-uniform (1)
+204. The distance between the two anterior tusk pairs: greater than between the two posterior tusk pairs (0); same as between the two posterior tusk pairs (1)
